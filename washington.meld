@@ -1,0 +1,4 @@
+(in-microtheory BaseKB)
+
+(isa Bill20  Bill-Idea)
+(writtenSponsored Bill20)

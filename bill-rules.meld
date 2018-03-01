@@ -9,26 +9,29 @@
 ;;;;  modified: Thursday, January 23, 2014
 ;;;; ---------------------------------------------------------------------------
 
-(in-microtheory 371TestRulesMt)
+(in-microtheory 371TestRulesM)
 
 (isa 371TestRulesMt Microtheory)
-(comment 371TestRulesMt
-  "The 371TestRulesMt microtheory is for testing Horn-clause rules,
-   as used via FIRE's query procedure.")
+;(comment 371TestRulesMt
+;  "The 371TestRulesMt microtheory is for testing Horn-clause rules,
+;   as used via FIRE's query procedure.")
 
 (genlMt 371TestMt 371TestRulesMt)
 
 ;;; Define your Horn clause rules here, for recognizing that something is
 ;;; a CS hangout.  
 
-
-(<== (isa ?store CS-Hangout)
-	(hasWiFiConnection ?store)
-	(canServeJustCaffeine ?store)
-	(allowsLingering ?store))
+(<== (isa ?idea Bill-ProposedLaw)
+	(and (isa ?idea Bill-Idea)
+	     (writtenSponsored ?idea)))
+;;
+;(<== (isa ?store CS-Hangout)
+;	(hasWiFiConnection ?store)
+;	(canServeJustCaffeine ?store)
+;	(allowsLingering ?store))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(in-microtheory PrologMt)
+;(in-microtheory PrologMt)
 
 ;; For illustration: How to implement Prolog's negation by failure.
 ;; By controlling whether or not this microtheory is in the logical
@@ -37,8 +40,8 @@
 ;; only use it for specific predicates, or for specific circumstances
 ;; involving particular types of predicates.
 
-(<== (not ?fact)
-     (uninferredSentence ?fact))
+;(<== (not ?fact)
+ ;    (uninferredSentence ?fact))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; End of Code
