@@ -15,20 +15,25 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (in-microtheory BaseKB)
 
-(isa 371TestMt Microtheory)
-(comment 371TestMt
-  "371TestMt is a microtheory for testing ideas in EECS 371 at Northwestern University.")
 
-(in-microtheory 371TestMt)
 
-(genlMt 371TestMt EvanstonMt)
 
-(isa CS-Hangout Collection)
-(genls CS-Hangout Place)
+
+
+;(isa 371TestMt Microtheory)
+;(comment 371TestMt
+;  "371TestMt is a microtheory for testing ideas in EECS 371 at Northwestern University.")
+
+;(in-microtheory 371TestMt)
+
+;(genlMt 371TestMt EvanstonMt)
+
+;(isa CS-Hangout Collection)
+;(genls CS-Hangout Place)
 ;;; (genls CS-Hangout ?????) ;; You need to figure out what collection this should be
-(comment CS-Hangout
-  "A CS-Hangout is a place where CS folks relax and hack.
-It has a source of caffeine, a WiFi connection, and allows one to linger for hours.")
+;(comment CS-Hangout
+;  "A CS-Hangout is a place where CS folks relax and hack.
+;It has a source of caffeine, a WiFi connection, and allows one to linger for hours.")
 
 ;;; Any new predicates you need to define should go here.
 ;;; Every new predicate needs to have an isa statement saying what it
@@ -36,17 +41,63 @@ It has a source of caffeine, a WiFi connection, and allows one to linger for hou
 ;;; types of its arguments, a genlPreds statement connecting it into the predicate
 ;;; hiearchy, and a comment describing in English its intended meaning.
 
-(isa hasWiFiConnection Predicate)
-(arity hasWiFiConnection 1)
-(arg1Isa hasWiFiConnection Place)
+;(isa hasWiFiConnection Predicate)
+;(arity hasWiFiConnection 1)
+;(arg1Isa hasWiFiConnection Place)
 
-(isa canServeJustCaffeine Predicate)
-(arity canServeJustCaffeine 1)
-(arg1Isa canServeJustCaffeine Place)
+;(isa canServeJustCaffeine Predicate)
+;(arity canServeJustCaffeine 1)
+;(arg1Isa canServeJustCaffeine Place)
 
-(isa allowsLingering Predicate)
-(arity allowsLingering 1)
-(arg1Isa allowsLingering Place)
+;(isa allowsLingering Predicate)
+;(arity allowsLingering 1)
+;(arg1Isa allowsLingering Place)
+
+(isa Bill-Idea Collection)
+(genls CS-Hangout Idea)
+
+(isa writtenSponsored Predicate)
+(arity writtenSponsored 1)
+(arg1Isa writtenSponsored Collection)
+
+
+(isa houseComitte Predicate)
+(arity houseComitte 1)
+(arg1Isa houseComitte Collection)
+
+
+(isa senateComitte Predicate)
+(arity senateComitte 1)
+(arg1Isa senateComitte Collection)
+
+
+(isa proposedInUSA Predicate)
+(arity proposedInUSA 1)
+(arg1Isa proposedInUSA Collection)
+
+
+(isa houseVoteResult Predicate)
+(arity houseVoteResult 2)
+(arg1Isa houseVoteResult Collection)
+(arg2Isa houseVoteResult TruthValue)
+
+
+(isa senateVoteResult Predicate)
+(arity senateVoteResult 2)
+(arg1Isa senateVoteResult Collection)
+(arg2Isa senateVoteResult TruthValue)
+
+
+(isa presidentVeto Predicate)
+(arity presidentVeto 1)
+(arg1Isa presidentVeto Collection)
+
+
+(isa vetoOverTurn Predicate)
+(arity vetoOverTurn 2)
+(arg1Isa vetoOverTurn VetoOverride-USFederalLegislating)
+(arg2Isa vetoOverTurn TruthValue)
+
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
