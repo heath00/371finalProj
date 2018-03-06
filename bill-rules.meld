@@ -9,7 +9,7 @@
 ;;;;  modified: Thursday, January 23, 2014
 ;;;; ---------------------------------------------------------------------------
 
-(in-microtheory 371TestRulesM)
+(in-microtheory 371TestRulesMt)
 
 (isa 371TestRulesMt Microtheory)
 ;(comment 371TestRulesMt
@@ -18,19 +18,28 @@
 
 (genlMt 371TestMt 371TestRulesMt)
 
-;;; Define your Horn clause rules here, for recognizing that something is
-;;; a CS hangout.  
-
 (<== (isa ?idea Bill-ProposedLaw)
 	(and (isa ?idea Bill-Idea)
-	     (writtenSponsored ?idea)))
-;;
-;(<== (isa ?store CS-Hangout)
-;	(hasWiFiConnection ?store)
-;	(canServeJustCaffeine ?store)
-;	(allowsLingering ?store))
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+	     (writtenSponsored ?idea)
+	       (not (or (presidentSigned ?idea)
+		   	(and (presidentVeto ?idea)
+			     (vetoOverTurn ?idea True))))))
+;
+(<== (isa ?idea KilledBill-ProposedLaw)
+	(and (isa ?idea Bill-ProposedLaw)
+	     (or (houseVoteResult ?idea False)
+		 (senateVoteResult ?idea False)
+		 (and (presidentVeto ?idea)
+		       (vetoOverTurn ?idea False)))))	
 
+(<== (isa ?idea Law)
+	  (and (isa ?idea Bill-Idea)
+	       (writtenSponsored ?idea)
+	       (houseVoteResult ?idea True)
+	       (senateVoteResult ?idea True)
+	       (or (presidentSigned ?idea)
+		   (and (presidentVeto ?idea)
+			(vetoOverTurn ?idea True)))))
 ;(in-microtheory PrologMt)
 
 ;; For illustration: How to implement Prolog's negation by failure.
