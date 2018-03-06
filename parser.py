@@ -12,7 +12,7 @@ def makeLispPhrase(billName, beenVotedOnHouse=False, beenVotedOnSenate=False, pa
 		lispParse.append("(houseVoteResult "+billName+" "+str(passedSenate)+")")
 		count+=1
 	if isSigned:
-		lispParse.append("(presidentSigned" +billName+")")
+		lispParse.append("(presidentSigned " +billName+")")
 		count+=1
 	if isVetoed:
 		lispParse.append("(presidentVeto " +billName+")")
