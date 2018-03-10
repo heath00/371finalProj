@@ -68,7 +68,8 @@ def failedHouse(driver, urls, bills_counted):
 				bill_name += '-' + whole_name[whole_name.find('(')+1:whole_name.find(')')-2]
 				bill_name = bill_name.replace('.','').lower()
 			else:
-				bill_name = bill_name[:bill_name.find(':')]	
+				bill_name = bill_name[:bill_name.find(':')]
+				bill_name = bill_name.replace('.','').lower()
 			
 			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnHouse=True) + '\n'
 			bills_counted += 1
@@ -103,7 +104,8 @@ def failedSenate(driver, urls, bills_counted):
 				bill_name += '-' + whole_name[whole_name.find('(')+1:whole_name.find(')')-2]
 				bill_name = bill_name.replace('.','').lower()
 			else:
-				bill_name = bill_name[:bill_name.find(':')]	
+				bill_name = bill_name[:bill_name.find(':')]
+				bill_name = bill_name.replace('.','').lower()
 			
 			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnSenate=True) + '\n'
 			bills_counted += 1
@@ -138,7 +140,8 @@ def vetoedNoOverride(driver, urls, bills_counted):
 				bill_name += '-' + whole_name[whole_name.find('(')+1:whole_name.find(')')-2]
 				bill_name = bill_name.replace('.','').lower()
 			else:
-				bill_name = bill_name[:bill_name.find(':')]	
+				bill_name = bill_name[:bill_name.find(':')]
+				bill_name = bill_name.replace('.','').lower()
 			
 			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnHouse=True, passedHouse=True, beenVotedOnSenate=True, passedSenate=True,isVetoed=True) + '\n'
 			bills_counted += 1
@@ -173,7 +176,8 @@ def vetoOverridden(driver, urls, bills_counted):
 				bill_name += '-' + whole_name[whole_name.find('(')+1:whole_name.find(')')-2]
 				bill_name = bill_name.replace('.','').lower()
 			else:
-				bill_name = bill_name[:bill_name.find(':')]	
+				bill_name = bill_name[:bill_name.find(':')]
+				bill_name = bill_name.replace('.','').lower()
 			
 			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnHouse=True, passedHouse=True, beenVotedOnSenate=True, passedSenate=True,isVetoed=True,hadOverturn=True,isOverturned=True) + '\n'
 			bills_counted += 1
@@ -212,6 +216,9 @@ def main():
 
 	print(running_lisp)
 	print('bills_counted =', bills_counted)
+
+	f = open('test.meld', 'a')
+	f.write(running_lisp)
 	# print("bills_counted=", bills_counted)
 
 

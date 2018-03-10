@@ -32519,3 +32519,1856 @@
 (isa hr4975-112 Bill-Idea)
 (writtenSponsored hr4975-112)
 
+(isa hres726 Bill-Idea)
+(writtenSponsored hres726)
+(houseVoteResult hres726 False)
+
+
+(isa hres705 Bill-Idea)
+(writtenSponsored hres705)
+(houseVoteResult hres705 False)
+
+
+(isa hres646 Bill-Idea)
+(writtenSponsored hres646)
+(houseVoteResult hres646 False)
+
+
+(isa hr4570-105 Bill-Idea)
+(writtenSponsored hr4570-105)
+(houseVoteResult hr4570-105 False)
+
+
+(isa hr2621-105 Bill-Idea)
+(writtenSponsored hr2621-105)
+(houseVoteResult hr2621-105 False)
+
+
+(isa hr3820-104 Bill-Idea)
+(writtenSponsored hr3820-104)
+(houseVoteResult hr3820-104 False)
+
+
+(isa hr2176-110 Bill-Idea)
+(writtenSponsored hr2176-110)
+(houseVoteResult hr2176-110 False)
+
+
+(isa hr4663-108 Bill-Idea)
+(writtenSponsored hr4663-108)
+(houseVoteResult hr4663-108 False)
+
+
+(isa hr3989-105 Bill-Idea)
+(writtenSponsored hr3989-105)
+(houseVoteResult hr3989-105 False)
+
+
+(isa hr5055-114 Bill-Idea)
+(writtenSponsored hr5055-114)
+(houseVoteResult hr5055-114 False)
+
+
+(isa hr4636-101 Bill-Idea)
+(writtenSponsored hr4636-101)
+(houseVoteResult hr4636-101 False)
+
+
+(isa hr853-106 Bill-Idea)
+(writtenSponsored hr853-106)
+(houseVoteResult hr853-106 False)
+
+
+(isa hjres106-108 Bill-Idea)
+(writtenSponsored hjres106-108)
+(houseVoteResult hjres106-108 False)
+
+
+(isa hr4704-102 Bill-Idea)
+(writtenSponsored hr4704-102)
+(houseVoteResult hr4704-102 False)
+
+
+(isa hr3732-102 Bill-Idea)
+(writtenSponsored hr3732-102)
+(houseVoteResult hr3732-102 False)
+
+
+(isa hr4239-112 Bill-Idea)
+(writtenSponsored hr4239-112)
+(houseVoteResult hr4239-112 False)
+
+
+(isa hr2515-105 Bill-Idea)
+(writtenSponsored hr2515-105)
+(houseVoteResult hr2515-105 False)
+
+
+(isa hjres373-103 Bill-Idea)
+(writtenSponsored hjres373-103)
+(houseVoteResult hjres373-103 False)
+
+
+(isa hjres120-105 Bill-Idea)
+(writtenSponsored hjres120-105)
+(houseVoteResult hjres120-105 False)
+
+
+(isa hjres99-106 Bill-Idea)
+(writtenSponsored hjres99-106)
+(houseVoteResult hjres99-106 False)
+
+
+(isa hjres101-107 Bill-Idea)
+(writtenSponsored hjres101-107)
+(houseVoteResult hjres101-107 False)
+
+
+(isa hjres121-105 Bill-Idea)
+(writtenSponsored hjres121-105)
+(houseVoteResult hjres121-105 False)
+
+
+(isa hjres88-109 Bill-Idea)
+(writtenSponsored hjres88-109)
+(houseVoteResult hjres88-109 False)
+
+
+(isa hjres268-101 Bill-Idea)
+(writtenSponsored hjres268-101)
+(houseVoteResult hjres268-101 False)
+
+
+(isa hjres103-106 Bill-Idea)
+(writtenSponsored hjres103-106)
+(houseVoteResult hjres103-106 False)
+
+
+(isa hjres182-104 Bill-Idea)
+(writtenSponsored hjres182-104)
+(houseVoteResult hjres182-104 False)
+
+
+(isa hr5349-110 Bill-Idea)
+(writtenSponsored hr5349-110)
+(houseVoteResult hr5349-110 False)
+
+
+(isa hjres90-106 Bill-Idea)
+(writtenSponsored hjres90-106)
+(houseVoteResult hjres90-106 False)
+
+
+(isa hjres96-107 Bill-Idea)
+(writtenSponsored hjres96-107)
+(houseVoteResult hjres96-107 False)
+
+
+(isa hjres290-102 Bill-Idea)
+(writtenSponsored hjres290-102)
+(houseVoteResult hjres290-102 False)
+
+
+(isa hjres119-105 Bill-Idea)
+(writtenSponsored hjres119-105)
+(houseVoteResult hjres119-105 False)
+
+
+(isa hjres78-105 Bill-Idea)
+(writtenSponsored hjres78-105)
+(houseVoteResult hjres78-105 False)
+
+
+(isa hjres83-108 Bill-Idea)
+(writtenSponsored hjres83-108)
+(houseVoteResult hjres83-108 False)
+
+
+(isa hjres111-105 Bill-Idea)
+(writtenSponsored hjres111-105)
+(houseVoteResult hjres111-105 False)
+
+
+(isa hjres159-104 Bill-Idea)
+(writtenSponsored hjres159-104)
+(houseVoteResult hjres159-104 False)
+
+
+(isa hjres94-106 Bill-Idea)
+(writtenSponsored hjres94-106)
+(houseVoteResult hjres94-106 False)
+
+
+(isa hr2770-104 Bill-Idea)
+(writtenSponsored hr2770-104)
+(houseVoteResult hr2770-104 False)
+
+
+(isa hjres103-103 Bill-Idea)
+(writtenSponsored hjres103-103)
+(houseVoteResult hjres103-103 False)
+
+
+(isa hr51-103 Bill-Idea)
+(writtenSponsored hr51-103)
+(houseVoteResult hr51-103 False)
+
+
+(isa hr1065-109 Bill-Idea)
+(writtenSponsored hr1065-109)
+(houseVoteResult hr1065-109 False)
+
+
+(isa hr2094-102 Bill-Idea)
+(writtenSponsored hr2094-102)
+(houseVoteResult hr2094-102 False)
+
+
+(isa hr6-102 Bill-Idea)
+(writtenSponsored hr6-102)
+(houseVoteResult hr6-102 False)
+
+
+(isa hr2746-105 Bill-Idea)
+(writtenSponsored hr2746-105)
+(houseVoteResult hr2746-105 False)
+
+
+(isa hr3461-114 Bill-Idea)
+(writtenSponsored hr3461-114)
+(houseVoteResult hr3461-114 False)
+
+
+(isa hjres65-109 Bill-Idea)
+(writtenSponsored hjres65-109)
+(houseVoteResult hjres65-109 False)
+
+
+(isa hr2003-105 Bill-Idea)
+(writtenSponsored hr2003-105)
+(houseVoteResult hr2003-105 False)
+
+
+(isa hjres102-104 Bill-Idea)
+(writtenSponsored hjres102-104)
+(houseVoteResult hjres102-104 False)
+
+
+(isa hconres301-111 Bill-Idea)
+(writtenSponsored hconres301-111)
+(houseVoteResult hconres301-111 False)
+
+
+(isa hr2278-112 Bill-Idea)
+(writtenSponsored hr2278-112)
+(houseVoteResult hr2278-112 False)
+
+
+(isa hr1947-113 Bill-Idea)
+(writtenSponsored hr1947-113)
+(houseVoteResult hr1947-113 False)
+
+
+(isa hr2122-106 Bill-Idea)
+(writtenSponsored hr2122-106)
+(houseVoteResult hr2122-106 False)
+
+
+(isa hjres58-106 Bill-Idea)
+(writtenSponsored hjres58-106)
+(houseVoteResult hjres58-106 False)
+
+
+(isa hjres308-102 Bill-Idea)
+(writtenSponsored hjres308-102)
+(houseVoteResult hjres308-102 False)
+
+
+(isa hjres55-107 Bill-Idea)
+(writtenSponsored hjres55-107)
+(houseVoteResult hjres55-107 False)
+
+
+(isa hjres57-106 Bill-Idea)
+(writtenSponsored hjres57-106)
+(houseVoteResult hjres57-106 False)
+
+
+(isa hjres208-103 Bill-Idea)
+(writtenSponsored hjres208-103)
+(houseVoteResult hjres208-103 False)
+
+
+(isa hjres50-107 Bill-Idea)
+(writtenSponsored hjres50-107)
+(houseVoteResult hjres50-107 False)
+
+
+(isa hr2442-101 Bill-Idea)
+(writtenSponsored hr2442-101)
+(houseVoteResult hr2442-101 False)
+
+
+(isa hres1104-109 Bill-Idea)
+(writtenSponsored hres1104-109)
+(houseVoteResult hres1104-109 False)
+
+
+(isa hres606-107 Bill-Idea)
+(writtenSponsored hres606-107)
+(houseVoteResult hres606-107 False)
+
+
+(isa hres531-101 Bill-Idea)
+(writtenSponsored hres531-101)
+(houseVoteResult hres531-101 False)
+
+
+(isa hconres227-105 Bill-Idea)
+(writtenSponsored hconres227-105)
+(houseVoteResult hconres227-105 False)
+
+
+(isa hconres248-111 Bill-Idea)
+(writtenSponsored hconres248-111)
+(houseVoteResult hconres248-111 False)
+
+
+(isa hres563-103 Bill-Idea)
+(writtenSponsored hres563-103)
+(houseVoteResult hres563-103 False)
+
+
+(isa hjres68-112 Bill-Idea)
+(writtenSponsored hjres68-112)
+(houseVoteResult hjres68-112 False)
+
+
+(isa hres563-105 Bill-Idea)
+(writtenSponsored hres563-105)
+(houseVoteResult hres563-105 False)
+
+
+(isa hjres79-105 Bill-Idea)
+(writtenSponsored hjres79-105)
+(houseVoteResult hjres79-105 False)
+
+
+(isa hr2237-110 Bill-Idea)
+(writtenSponsored hr2237-110)
+(houseVoteResult hr2237-110 False)
+
+
+(isa hres473-101 Bill-Idea)
+(writtenSponsored hres473-101)
+(houseVoteResult hres473-101 False)
+
+
+(isa hjres27-109 Bill-Idea)
+(writtenSponsored hjres27-109)
+(houseVoteResult hjres27-109 False)
+
+
+(isa hres517-103 Bill-Idea)
+(writtenSponsored hres517-103)
+(houseVoteResult hres517-103 False)
+
+
+(isa hres442-101 Bill-Idea)
+(writtenSponsored hres442-101)
+(houseVoteResult hres442-101 False)
+
+
+(isa hres485-105 Bill-Idea)
+(writtenSponsored hres485-105)
+(houseVoteResult hres485-105 False)
+
+
+(isa hres685-108 Bill-Idea)
+(writtenSponsored hres685-108)
+(houseVoteResult hres685-108 False)
+
+
+(isa hconres122-104 Bill-Idea)
+(writtenSponsored hconres122-104)
+(houseVoteResult hconres122-104 False)
+
+
+(isa hconres271-110 Bill-Idea)
+(writtenSponsored hconres271-110)
+(houseVoteResult hconres271-110 False)
+
+
+(isa hres446-105 Bill-Idea)
+(writtenSponsored hres446-105)
+(houseVoteResult hres446-105 False)
+
+
+(isa hres440-102 Bill-Idea)
+(writtenSponsored hres440-102)
+(houseVoteResult hres440-102 False)
+
+
+(isa hjres44-106 Bill-Idea)
+(writtenSponsored hjres44-106)
+(houseVoteResult hjres44-106 False)
+
+
+(isa hjres41-107 Bill-Idea)
+(writtenSponsored hjres41-107)
+(houseVoteResult hjres41-107 False)
+
+
+(isa hjres165-101 Bill-Idea)
+(writtenSponsored hjres165-101)
+(houseVoteResult hjres165-101 False)
+
+
+(isa hres312-103 Bill-Idea)
+(writtenSponsored hres312-103)
+(houseVoteResult hres312-103 False)
+
+
+(isa hjres37-106 Bill-Idea)
+(writtenSponsored hjres37-106)
+(houseVoteResult hjres37-106 False)
+
+
+(isa hjres62-105 Bill-Idea)
+(writtenSponsored hjres62-105)
+(houseVoteResult hjres62-105 False)
+
+
+(isa hres306-104 Bill-Idea)
+(writtenSponsored hres306-104)
+(houseVoteResult hres306-104 False)
+
+
+(isa hr1315-102 Bill-Idea)
+(writtenSponsored hr1315-102)
+(houseVoteResult hr1315-102 False)
+
+
+(isa hres295-101 Bill-Idea)
+(writtenSponsored hres295-101)
+(houseVoteResult hres295-101 False)
+
+
+(isa hres571-109 Bill-Idea)
+(writtenSponsored hres571-109)
+(houseVoteResult hres571-109 False)
+
+
+(isa hjres73-104 Bill-Idea)
+(writtenSponsored hjres73-104)
+(houseVoteResult hjres73-104 False)
+
+
+(isa hres276-105 Bill-Idea)
+(writtenSponsored hres276-105)
+(houseVoteResult hres276-105 False)
+
+
+(isa hres273-103 Bill-Idea)
+(writtenSponsored hres273-103)
+(houseVoteResult hres273-103 False)
+
+
+(isa hres378-113 Bill-Idea)
+(writtenSponsored hres378-113)
+(houseVoteResult hres378-113 False)
+
+
+(isa hres268-103 Bill-Idea)
+(writtenSponsored hres268-103)
+(houseVoteResult hres268-103 False)
+
+
+(isa hconres55-114 Bill-Idea)
+(writtenSponsored hconres55-114)
+(houseVoteResult hconres55-114 False)
+
+
+(isa hconres51-112 Bill-Idea)
+(writtenSponsored hconres51-112)
+(houseVoteResult hconres51-112 False)
+
+
+(isa hconres87-105 Bill-Idea)
+(writtenSponsored hconres87-105)
+(houseVoteResult hconres87-105 False)
+
+
+(isa hres220-103 Bill-Idea)
+(writtenSponsored hres220-103)
+(houseVoteResult hres220-103 False)
+
+
+(isa hjres35-114 Bill-Idea)
+(writtenSponsored hjres35-114)
+(houseVoteResult hjres35-114 False)
+
+
+(isa hres188-107 Bill-Idea)
+(writtenSponsored hres188-107)
+(houseVoteResult hres188-107 False)
+
+
+(isa hres185-104 Bill-Idea)
+(writtenSponsored hres185-104)
+(houseVoteResult hres185-104 False)
+
+
+(isa hconres82-106 Bill-Idea)
+(writtenSponsored hconres82-106)
+(houseVoteResult hconres82-106 False)
+
+
+(isa hres101-102 Bill-Idea)
+(writtenSponsored hres101-102)
+(houseVoteResult hres101-102 False)
+
+
+(isa hjres2-105 Bill-Idea)
+(writtenSponsored hjres2-105)
+(houseVoteResult hjres2-105 False)
+
+
+(isa hres146-105 Bill-Idea)
+(writtenSponsored hres146-105)
+(houseVoteResult hres146-105 False)
+
+
+(isa hconres28-112 Bill-Idea)
+(writtenSponsored hconres28-112)
+(houseVoteResult hconres28-112 False)
+
+
+(isa hres101-105 Bill-Idea)
+(writtenSponsored hres101-105)
+(houseVoteResult hres101-105 False)
+
+
+(isa hres20-103 Bill-Idea)
+(writtenSponsored hres20-103)
+(houseVoteResult hres20-103 False)
+
+
+(isa hconres33-102 Bill-Idea)
+(writtenSponsored hconres33-102)
+(houseVoteResult hconres33-102 False)
+
+
+(isa s2280-113 Bill-Idea)
+(writtenSponsored s2280-113)
+(senateVoteResult s2280-113 False)
+
+
+(isa s3576-112 Bill-Idea)
+(writtenSponsored s3576-112)
+(senateVoteResult s3576-112 False)
+
+
+(isa s2056-104 Bill-Idea)
+(writtenSponsored s2056-104)
+(senateVoteResult s2056-104 False)
+
+
+(isa s2343-112 Bill-Idea)
+(writtenSponsored s2343-112)
+(senateVoteResult s2343-112 False)
+
+
+(isa sjres412-99 Bill-Idea)
+(writtenSponsored sjres412-99)
+(senateVoteResult sjres412-99 False)
+
+
+(isa sjres60-104 Bill-Idea)
+(writtenSponsored sjres60-104)
+(senateVoteResult sjres60-104 False)
+
+
+(isa s1805-108 Bill-Idea)
+(writtenSponsored s1805-108)
+(senateVoteResult s1805-108 False)
+
+
+(isa sjres12-109 Bill-Idea)
+(writtenSponsored sjres12-109)
+(senateVoteResult sjres12-109 False)
+
+
+(isa sjres332-101 Bill-Idea)
+(writtenSponsored sjres332-101)
+(senateVoteResult sjres332-101 False)
+
+
+(isa sjres292-100 Bill-Idea)
+(writtenSponsored sjres292-100)
+(senateVoteResult sjres292-100 False)
+
+
+(isa sjres14-106 Bill-Idea)
+(writtenSponsored sjres14-106)
+(senateVoteResult sjres14-106 False)
+
+
+(isa sjres225-99 Bill-Idea)
+(writtenSponsored sjres225-99)
+(senateVoteResult sjres225-99 False)
+
+
+(isa sjres42-105 Bill-Idea)
+(writtenSponsored sjres42-105)
+(senateVoteResult sjres42-105 False)
+
+
+(isa sjres73-98 Bill-Idea)
+(writtenSponsored sjres73-98)
+(senateVoteResult sjres73-98 False)
+
+
+(isa sjres241-100 Bill-Idea)
+(writtenSponsored sjres241-100)
+(senateVoteResult sjres241-100 False)
+
+
+(isa sjres41-103 Bill-Idea)
+(writtenSponsored sjres41-103)
+(senateVoteResult sjres41-103 False)
+
+
+(isa sjres31-107 Bill-Idea)
+(writtenSponsored sjres31-107)
+(senateVoteResult sjres31-107 False)
+
+
+(isa sjres24-112 Bill-Idea)
+(writtenSponsored sjres24-112)
+(senateVoteResult sjres24-112 False)
+
+
+(isa sjres10-112 Bill-Idea)
+(writtenSponsored sjres10-112)
+(senateVoteResult sjres10-112 False)
+
+
+(isa sjres31-104 Bill-Idea)
+(writtenSponsored sjres31-104)
+(senateVoteResult sjres31-104 False)
+
+
+(isa sjres28-107 Bill-Idea)
+(writtenSponsored sjres28-107)
+(senateVoteResult sjres28-107 False)
+
+
+(isa sjres180-101 Bill-Idea)
+(writtenSponsored sjres180-101)
+(senateVoteResult sjres180-101 False)
+
+
+(isa s2011-110 Bill-Idea)
+(writtenSponsored s2011-110)
+(senateVoteResult s2011-110 False)
+
+
+(isa sjres186-102 Bill-Idea)
+(writtenSponsored sjres186-102)
+(senateVoteResult sjres186-102 False)
+
+
+(isa sjres114-103 Bill-Idea)
+(writtenSponsored sjres114-103)
+(senateVoteResult sjres114-103 False)
+
+
+(isa sjres20-109 Bill-Idea)
+(writtenSponsored sjres20-109)
+(senateVoteResult sjres20-109 False)
+
+
+(isa sjres3-98 Bill-Idea)
+(writtenSponsored sjres3-98)
+(senateVoteResult sjres3-98 False)
+
+
+(isa sconres35-104 Bill-Idea)
+(writtenSponsored sconres35-104)
+(senateVoteResult sconres35-104 False)
+
+
+(isa sjres100-101 Bill-Idea)
+(writtenSponsored sjres100-101)
+(senateVoteResult sjres100-101 False)
+
+
+(isa sjres137-102 Bill-Idea)
+(writtenSponsored sjres137-102)
+(senateVoteResult sjres137-102 False)
+
+
+(isa sjres4-107 Bill-Idea)
+(writtenSponsored sjres4-107)
+(senateVoteResult sjres4-107 False)
+
+
+(isa sjres81-100 Bill-Idea)
+(writtenSponsored sjres81-100)
+(senateVoteResult sjres81-100 False)
+
+
+(isa sres187-106 Bill-Idea)
+(writtenSponsored sres187-106)
+(senateVoteResult sres187-106 False)
+
+
+(isa sjres9-110 Bill-Idea)
+(writtenSponsored sjres9-110)
+(senateVoteResult sjres9-110 False)
+
+
+(isa sjres18-105 Bill-Idea)
+(writtenSponsored sjres18-105)
+(senateVoteResult sjres18-105 False)
+
+
+(isa sjres1-105 Bill-Idea)
+(writtenSponsored sjres1-105)
+(senateVoteResult sjres1-105 False)
+
+
+(isa sres78-102 Bill-Idea)
+(writtenSponsored sres78-102)
+(senateVoteResult sres78-102 False)
+
+
+(isa sres132-97 Bill-Idea)
+(writtenSponsored sres132-97)
+(senateVoteResult sres132-97 False)
+
+
+(isa sjres44-102 Bill-Idea)
+(writtenSponsored sjres44-102)
+(senateVoteResult sjres44-102 False)
+
+
+(isa sjres1-102 Bill-Idea)
+(writtenSponsored sjres1-102)
+(senateVoteResult sjres1-102 False)
+
+
+(isa sjres5-111 Bill-Idea)
+(writtenSponsored sjres5-111)
+(senateVoteResult sjres5-111 False)
+
+
+(isa sres10-112 Bill-Idea)
+(writtenSponsored sres10-112)
+(senateVoteResult sres10-112 False)
+
+
+(isa sres21-112 Bill-Idea)
+(writtenSponsored sres21-112)
+(senateVoteResult sres21-112 False)
+
+
+(isa sres8-112 Bill-Idea)
+(writtenSponsored sres8-112)
+(senateVoteResult sres8-112 False)
+
+
+(isa sres5-113 Bill-Idea)
+(writtenSponsored sres5-113)
+(senateVoteResult sres5-113 False)
+
+
+(isa s3537-93 Bill-Idea)
+(writtenSponsored s3537-93)
+(houseVoteResult s3537-93 True)
+(senateVoteResult s3537-93 True)
+(presidentVeto s3537-93)
+
+
+(isa hr6257-96 Bill-Idea)
+(writtenSponsored hr6257-96)
+(houseVoteResult hr6257-96 True)
+(senateVoteResult hr6257-96 True)
+(presidentVeto hr6257-96)
+
+
+(isa s442-96 Bill-Idea)
+(writtenSponsored s442-96)
+(houseVoteResult s442-96 True)
+(senateVoteResult s442-96 True)
+(presidentVeto s442-96)
+
+
+(isa hr4386-96 Bill-Idea)
+(writtenSponsored hr4386-96)
+(houseVoteResult hr4386-96 True)
+(senateVoteResult hr4386-96 True)
+(presidentVeto hr4386-96)
+
+
+(isa hr7584-96 Bill-Idea)
+(writtenSponsored hr7584-96)
+(houseVoteResult hr7584-96 True)
+(senateVoteResult hr7584-96 True)
+(presidentVeto hr7584-96)
+
+
+(isa hr6191-93 Bill-Idea)
+(writtenSponsored hr6191-93)
+(houseVoteResult hr6191-93 True)
+(senateVoteResult hr6191-93 True)
+(presidentVeto hr6191-93)
+
+
+(isa hr11545-95 Bill-Idea)
+(writtenSponsored hr11545-95)
+(houseVoteResult hr11545-95 True)
+(senateVoteResult hr11545-95 True)
+(presidentVeto hr11545-95)
+
+
+(isa hr11580-95 Bill-Idea)
+(writtenSponsored hr11580-95)
+(houseVoteResult hr11580-95 True)
+(senateVoteResult hr11580-95 True)
+(presidentVeto hr11580-95)
+
+
+(isa hr6536-95 Bill-Idea)
+(writtenSponsored hr6536-95)
+(houseVoteResult hr6536-95 True)
+(senateVoteResult hr6536-95 True)
+(presidentVeto hr6536-95)
+
+
+(isa hr9518-95 Bill-Idea)
+(writtenSponsored hr9518-95)
+(houseVoteResult hr9518-95 True)
+(senateVoteResult hr9518-95 True)
+(presidentVeto hr9518-95)
+
+
+(isa hr13719-95 Bill-Idea)
+(writtenSponsored hr13719-95)
+(houseVoteResult hr13719-95 True)
+(senateVoteResult hr13719-95 True)
+(presidentVeto hr13719-95)
+
+
+(isa s1503-95 Bill-Idea)
+(writtenSponsored s1503-95)
+(houseVoteResult s1503-95 True)
+(senateVoteResult s1503-95 True)
+(presidentVeto s1503-95)
+
+
+(isa hr4392-106 Bill-Idea)
+(writtenSponsored hr4392-106)
+(houseVoteResult hr4392-106 True)
+(senateVoteResult hr4392-106 True)
+(presidentVeto hr4392-106)
+
+
+(isa hr6624-93 Bill-Idea)
+(writtenSponsored hr6624-93)
+(houseVoteResult hr6624-93 True)
+(senateVoteResult hr6624-93 True)
+(presidentVeto hr6624-93)
+
+
+(isa hr7768-93 Bill-Idea)
+(writtenSponsored hr7768-93)
+(houseVoteResult hr7768-93 True)
+(senateVoteResult hr7768-93 True)
+(presidentVeto hr7768-93)
+
+
+(isa hr13342-93 Bill-Idea)
+(writtenSponsored hr13342-93)
+(houseVoteResult hr13342-93 True)
+(senateVoteResult hr13342-93 True)
+(presidentVeto hr13342-93)
+
+
+(isa hr14225-93 Bill-Idea)
+(writtenSponsored hr14225-93)
+(houseVoteResult hr14225-93 True)
+(senateVoteResult hr14225-93 True)
+(presidentVeto hr14225-93)
+
+
+(isa hr4516-106 Bill-Idea)
+(writtenSponsored hr4516-106)
+(houseVoteResult hr4516-106 True)
+(senateVoteResult hr4516-106 True)
+(presidentVeto hr4516-106)
+
+
+(isa hr11445-95 Bill-Idea)
+(writtenSponsored hr11445-95)
+(houseVoteResult hr11445-95 True)
+(senateVoteResult hr11445-95 True)
+(presidentVeto hr11445-95)
+
+
+(isa hr11541-93 Bill-Idea)
+(writtenSponsored hr11541-93)
+(houseVoteResult hr11541-93 True)
+(senateVoteResult hr11541-93 True)
+(presidentVeto hr11541-93)
+
+
+(isa s2577-97 Bill-Idea)
+(writtenSponsored s2577-97)
+(houseVoteResult s2577-97 True)
+(senateVoteResult s2577-97 True)
+(presidentVeto s2577-97)
+
+
+(isa hr9370-95 Bill-Idea)
+(writtenSponsored hr9370-95)
+(houseVoteResult hr9370-95 True)
+(senateVoteResult hr9370-95 True)
+(presidentVeto hr9370-95)
+
+
+(isa hr1757-105 Bill-Idea)
+(writtenSponsored hr1757-105)
+(houseVoteResult hr1757-105 True)
+(senateVoteResult hr1757-105 True)
+(presidentVeto hr1757-105)
+
+
+(isa hr1371-97 Bill-Idea)
+(writtenSponsored hr1371-97)
+(houseVoteResult hr1371-97 True)
+(senateVoteResult hr1371-97 True)
+(presidentVeto hr1371-97)
+
+
+(isa hr15323-93 Bill-Idea)
+(writtenSponsored hr15323-93)
+(houseVoteResult hr15323-93 True)
+(senateVoteResult hr15323-93 True)
+(presidentVeto hr15323-93)
+
+
+(isa hr1362-98 Bill-Idea)
+(writtenSponsored hr1362-98)
+(houseVoteResult hr1362-98 True)
+(senateVoteResult hr1362-98 True)
+(presidentVeto hr1362-98)
+
+
+(isa s1259-100 Bill-Idea)
+(writtenSponsored s1259-100)
+(houseVoteResult s1259-100 True)
+(senateVoteResult s1259-100 True)
+(presidentVeto s1259-100)
+
+
+(isa hr2787-99 Bill-Idea)
+(writtenSponsored hr2787-99)
+(houseVoteResult hr2787-99 True)
+(senateVoteResult hr2787-99 True)
+(presidentVeto hr2787-99)
+
+
+(isa hr12928-95 Bill-Idea)
+(writtenSponsored hr12928-95)
+(houseVoteResult hr12928-95 True)
+(senateVoteResult hr12928-95 True)
+(presidentVeto hr12928-95)
+
+
+(isa hr4654-94 Bill-Idea)
+(writtenSponsored hr4654-94)
+(houseVoteResult hr4654-94 True)
+(senateVoteResult hr4654-94 True)
+(presidentVeto hr4654-94)
+
+
+(isa hr4101-105 Bill-Idea)
+(writtenSponsored hr4101-105)
+(houseVoteResult hr4101-105 True)
+(senateVoteResult hr4101-105 True)
+(presidentVeto hr4101-105)
+
+
+(isa s3790-94 Bill-Idea)
+(writtenSponsored s3790-94)
+(houseVoteResult s3790-94 True)
+(senateVoteResult s3790-94 True)
+(presidentVeto s3790-94)
+
+
+(isa hr2909-104 Bill-Idea)
+(writtenSponsored hr2909-104)
+(houseVoteResult hr2909-104 True)
+(senateVoteResult hr2909-104 True)
+(presidentVeto hr2909-104)
+
+
+(isa hr5517-102 Bill-Idea)
+(writtenSponsored hr5517-102)
+(houseVoteResult hr5517-102 True)
+(senateVoteResult hr5517-102 True)
+(presidentVeto hr5517-102)
+
+
+(isa hr10626-93 Bill-Idea)
+(writtenSponsored hr10626-93)
+(houseVoteResult hr10626-93 True)
+(senateVoteResult hr10626-93 True)
+(presidentVeto hr10626-93)
+
+
+(isa s1464-96 Bill-Idea)
+(writtenSponsored s1464-96)
+(houseVoteResult s1464-96 True)
+(senateVoteResult s1464-96 True)
+(presidentVeto s1464-96)
+
+
+(isa hr3247-99 Bill-Idea)
+(writtenSponsored hr3247-99)
+(houseVoteResult hr3247-99 True)
+(senateVoteResult hr3247-99 True)
+(presidentVeto hr3247-99)
+
+
+(isa hr1154-100 Bill-Idea)
+(writtenSponsored hr1154-100)
+(houseVoteResult hr1154-100 True)
+(senateVoteResult hr1154-100 True)
+(presidentVeto hr1154-100)
+
+
+(isa hr2316-99 Bill-Idea)
+(writtenSponsored hr2316-99)
+(houseVoteResult hr2316-99 True)
+(senateVoteResult hr2316-99 True)
+(presidentVeto hr2316-99)
+
+
+(isa hr5465-94 Bill-Idea)
+(writtenSponsored hr5465-94)
+(houseVoteResult hr5465-94 True)
+(senateVoteResult hr5465-94 True)
+(presidentVeto hr5465-94)
+
+
+(isa hr13655-94 Bill-Idea)
+(writtenSponsored hr13655-94)
+(houseVoteResult hr13655-94 True)
+(senateVoteResult hr13655-94 True)
+(presidentVeto hr13655-94)
+
+
+(isa s2436-98 Bill-Idea)
+(writtenSponsored s2436-98)
+(houseVoteResult s2436-98 True)
+(senateVoteResult s2436-98 True)
+(presidentVeto s2436-98)
+
+
+(isa hr10929-95 Bill-Idea)
+(writtenSponsored hr10929-95)
+(houseVoteResult hr10929-95 True)
+(senateVoteResult hr10929-95 True)
+(presidentVeto hr10929-95)
+
+
+(isa hr11873-93 Bill-Idea)
+(writtenSponsored hr11873-93)
+(houseVoteResult hr11873-93 True)
+(senateVoteResult hr11873-93 True)
+(presidentVeto hr11873-93)
+
+
+(isa hr5094-93 Bill-Idea)
+(writtenSponsored hr5094-93)
+(houseVoteResult hr5094-93 True)
+(senateVoteResult hr5094-93 True)
+(presidentVeto hr5094-93)
+
+
+(isa hr15472-93 Bill-Idea)
+(writtenSponsored hr15472-93)
+(houseVoteResult hr15472-93 True)
+(senateVoteResult hr15472-93 True)
+(presidentVeto hr15472-93)
+
+
+(isa hr12944-94 Bill-Idea)
+(writtenSponsored hr12944-94)
+(houseVoteResult hr12944-94 True)
+(senateVoteResult hr12944-94 True)
+(presidentVeto hr12944-94)
+
+
+(isa hr4264-100 Bill-Idea)
+(writtenSponsored hr4264-100)
+(houseVoteResult hr4264-100 True)
+(senateVoteResult hr4264-100 True)
+(presidentVeto hr4264-100)
+
+
+(isa hr743-104 Bill-Idea)
+(writtenSponsored hr743-104)
+(houseVoteResult hr743-104 True)
+(senateVoteResult hr743-104 True)
+(presidentVeto hr743-104)
+
+
+(isa s2447-94 Bill-Idea)
+(writtenSponsored s2447-94)
+(houseVoteResult s2447-94 True)
+(senateVoteResult s2447-94 True)
+(presidentVeto s2447-94)
+
+
+(isa hr1777-114 Bill-Idea)
+(writtenSponsored hr1777-114)
+(houseVoteResult hr1777-114 True)
+(senateVoteResult hr1777-114 True)
+(presidentVeto hr1777-114)
+
+
+(isa hr2646-105 Bill-Idea)
+(writtenSponsored hr2646-105)
+(houseVoteResult hr2646-105 True)
+(senateVoteResult hr2646-105 True)
+(presidentVeto hr2646-105)
+
+
+(isa hr10882-95 Bill-Idea)
+(writtenSponsored hr10882-95)
+(houseVoteResult hr10882-95 True)
+(senateVoteResult hr10882-95 True)
+(presidentVeto hr10882-95)
+
+
+(isa hr12567-94 Bill-Idea)
+(writtenSponsored hr12567-94)
+(houseVoteResult hr12567-94 True)
+(senateVoteResult hr12567-94 True)
+(presidentVeto hr12567-94)
+
+
+(isa hr6682-97 Bill-Idea)
+(writtenSponsored hr6682-97)
+(houseVoteResult hr6682-97 True)
+(senateVoteResult hr6682-97 True)
+(presidentVeto hr6682-97)
+
+
+(isa hr5922-97 Bill-Idea)
+(writtenSponsored hr5922-97)
+(houseVoteResult hr5922-97 True)
+(senateVoteResult hr5922-97 True)
+(presidentVeto hr5922-97)
+
+
+(isa hr12384-94 Bill-Idea)
+(writtenSponsored hr12384-94)
+(houseVoteResult hr12384-94 True)
+(senateVoteResult hr12384-94 True)
+(presidentVeto hr12384-94)
+
+
+(isa hr2709-105 Bill-Idea)
+(writtenSponsored hr2709-105)
+(houseVoteResult hr2709-105 True)
+(senateVoteResult hr2709-105 True)
+(presidentVeto hr2709-105)
+
+
+(isa hr3161-95 Bill-Idea)
+(writtenSponsored hr3161-95)
+(houseVoteResult hr3161-95 True)
+(senateVoteResult hr3161-95 True)
+(presidentVeto hr3161-95)
+
+
+(isa s2342-102 Bill-Idea)
+(writtenSponsored s2342-102)
+(houseVoteResult s2342-102 True)
+(senateVoteResult s2342-102 True)
+(presidentVeto s2342-102)
+
+
+(isa hr5118-97 Bill-Idea)
+(writtenSponsored hr5118-97)
+(houseVoteResult hr5118-97 True)
+(senateVoteResult hr5118-97 True)
+(presidentVeto hr5118-97)
+
+
+(isa hr5036-96 Bill-Idea)
+(writtenSponsored hr5036-96)
+(houseVoteResult hr5036-96 True)
+(senateVoteResult hr5036-96 True)
+(presidentVeto hr5036-96)
+
+
+(isa s1502-105 Bill-Idea)
+(writtenSponsored s1502-105)
+(houseVoteResult s1502-105 True)
+(senateVoteResult s1502-105 True)
+(presidentVeto s1502-105)
+
+
+(isa hjres1163-93 Bill-Idea)
+(writtenSponsored hjres1163-93)
+(houseVoteResult hjres1163-93 True)
+(senateVoteResult hjres1163-93 True)
+(presidentVeto hjres1163-93)
+
+
+(isa hjres1131-93 Bill-Idea)
+(writtenSponsored hjres1131-93)
+(houseVoteResult hjres1131-93 True)
+(senateVoteResult hjres1131-93 True)
+(presidentVeto hjres1131-93)
+
+
+(isa hjres748-99 Bill-Idea)
+(writtenSponsored hjres748-99)
+(houseVoteResult hjres748-99 True)
+(senateVoteResult hjres748-99 True)
+(presidentVeto hjres748-99)
+
+
+(isa s2662-94 Bill-Idea)
+(writtenSponsored s2662-94)
+(houseVoteResult s2662-94 True)
+(senateVoteResult s2662-94 True)
+(presidentVeto s2662-94)
+
+
+(isa hr8617-94 Bill-Idea)
+(writtenSponsored hr8617-94)
+(houseVoteResult hr8617-94 True)
+(senateVoteResult hr8617-94 True)
+(presidentVeto hr8617-94)
+
+
+(isa hr9803-94 Bill-Idea)
+(writtenSponsored hr9803-94)
+(houseVoteResult hr9803-94 True)
+(senateVoteResult hr9803-94 True)
+(presidentVeto hr9803-94)
+
+
+(isa s2589-93 Bill-Idea)
+(writtenSponsored s2589-93)
+(houseVoteResult s2589-93 True)
+(senateVoteResult s2589-93 True)
+(presidentVeto s2589-93)
+
+
+(isa hr5235-96 Bill-Idea)
+(writtenSponsored hr5235-96)
+(houseVoteResult hr5235-96 True)
+(senateVoteResult hr5235-96 True)
+(presidentVeto hr5235-96)
+
+
+(isa hr2466-99 Bill-Idea)
+(writtenSponsored hr2466-99)
+(houseVoteResult hr2466-99 True)
+(senateVoteResult hr2466-99 True)
+(presidentVeto hr2466-99)
+
+
+(isa hr5247-94 Bill-Idea)
+(writtenSponsored hr5247-94)
+(houseVoteResult hr5247-94 True)
+(senateVoteResult hr5247-94 True)
+(presidentVeto hr5247-94)
+
+
+(isa hr3384-99 Bill-Idea)
+(writtenSponsored hr3384-99)
+(houseVoteResult hr3384-99 True)
+(senateVoteResult hr3384-99 True)
+(presidentVeto hr3384-99)
+
+
+(isa hr1404-99 Bill-Idea)
+(writtenSponsored hr1404-99)
+(houseVoteResult hr1404-99 True)
+(senateVoteResult hr1404-99 True)
+(presidentVeto hr1404-99)
+
+
+(isa hr4-104 Bill-Idea)
+(writtenSponsored hr4-104)
+(houseVoteResult hr4-104 True)
+(senateVoteResult hr4-104 True)
+(presidentVeto hr4-104)
+
+
+(isa hr1585-110 Bill-Idea)
+(writtenSponsored hr1585-110)
+(houseVoteResult hr1585-110 True)
+(senateVoteResult hr1585-110 True)
+(presidentVeto hr1585-110)
+
+
+(isa hr5900-94 Bill-Idea)
+(writtenSponsored hr5900-94)
+(houseVoteResult hr5900-94 True)
+(senateVoteResult hr5900-94 True)
+(presidentVeto hr5900-94)
+
+
+(isa s2096-96 Bill-Idea)
+(writtenSponsored s2096-96)
+(houseVoteResult s2096-96 True)
+(senateVoteResult s2096-96 True)
+(presidentVeto s2096-96)
+
+
+(isa s2350-94 Bill-Idea)
+(writtenSponsored s2350-94)
+(houseVoteResult s2350-94 True)
+(senateVoteResult s2350-94 True)
+(presidentVeto s2350-94)
+
+
+(isa hr1562-99 Bill-Idea)
+(writtenSponsored hr1562-99)
+(houseVoteResult hr1562-99 True)
+(senateVoteResult hr1562-99 True)
+(presidentVeto hr1562-99)
+
+
+(isa hr2099-104 Bill-Idea)
+(writtenSponsored hr2099-104)
+(houseVoteResult hr2099-104 True)
+(senateVoteResult hr2099-104 True)
+(presidentVeto hr2099-104)
+
+
+(isa hr5559-94 Bill-Idea)
+(writtenSponsored hr5559-94)
+(houseVoteResult hr5559-94 True)
+(senateVoteResult hr5559-94 True)
+(presidentVeto hr5559-94)
+
+
+(isa hr2491-104 Bill-Idea)
+(writtenSponsored hr2491-104)
+(houseVoteResult hr2491-104 True)
+(senateVoteResult hr2491-104 True)
+(presidentVeto hr2491-104)
+
+
+(isa hr1487-101 Bill-Idea)
+(writtenSponsored hr1487-101)
+(houseVoteResult hr1487-101 True)
+(senateVoteResult hr1487-101 True)
+(presidentVeto hr1487-101)
+
+
+(isa hr3610-101 Bill-Idea)
+(writtenSponsored hr3610-101)
+(houseVoteResult hr3610-101 True)
+(senateVoteResult hr3610-101 True)
+(presidentVeto hr3610-101)
+
+
+(isa hr2939-101 Bill-Idea)
+(writtenSponsored hr2939-101)
+(houseVoteResult hr2939-101 True)
+(senateVoteResult hr2939-101 True)
+(presidentVeto hr2939-101)
+
+
+(isa hr2707-102 Bill-Idea)
+(writtenSponsored hr2707-102)
+(houseVoteResult hr2707-102 True)
+(senateVoteResult hr2707-102 True)
+(presidentVeto hr2707-102)
+
+
+(isa hr12-94 Bill-Idea)
+(writtenSponsored hr12-94)
+(houseVoteResult hr12-94 True)
+(senateVoteResult hr12-94 True)
+(presidentVeto hr12-94)
+
+
+(isa hr3036-99 Bill-Idea)
+(writtenSponsored hr3036-99)
+(houseVoteResult hr3036-99 True)
+(senateVoteResult hr3036-99 True)
+(presidentVeto hr3036-99)
+
+
+(isa hr2586-104 Bill-Idea)
+(writtenSponsored hr2586-104)
+(houseVoteResult hr2586-104 True)
+(senateVoteResult hr2586-104 True)
+(presidentVeto hr2586-104)
+
+
+(isa hr2521-95 Bill-Idea)
+(writtenSponsored hr2521-95)
+(houseVoteResult hr2521-95 True)
+(senateVoteResult hr2521-95 True)
+(presidentVeto hr2521-95)
+
+
+(isa s1811-95 Bill-Idea)
+(writtenSponsored s1811-95)
+(houseVoteResult s1811-95 True)
+(senateVoteResult s1811-95 True)
+(presidentVeto s1811-95)
+
+
+(isa hr3064-106 Bill-Idea)
+(writtenSponsored hr3064-106)
+(houseVoteResult hr3064-106 True)
+(senateVoteResult hr3064-106 True)
+(presidentVeto hr3064-106)
+
+
+(isa hr3026-101 Bill-Idea)
+(writtenSponsored hr3026-101)
+(houseVoteResult hr3026-101 True)
+(senateVoteResult hr3026-101 True)
+(presidentVeto hr3026-101)
+
+
+(isa s1317-93 Bill-Idea)
+(writtenSponsored s1317-93)
+(houseVoteResult s1317-93 True)
+(senateVoteResult s1317-93 True)
+(presidentVeto s1317-93)
+
+
+(isa hr2670-106 Bill-Idea)
+(writtenSponsored hr2670-106)
+(houseVoteResult hr2670-106 True)
+(senateVoteResult hr2670-106 True)
+(presidentVeto hr2670-106)
+
+
+(isa hr1735-114 Bill-Idea)
+(writtenSponsored hr1735-114)
+(houseVoteResult hr1735-114 True)
+(senateVoteResult hr1735-114 True)
+(presidentVeto hr1735-114)
+
+
+(isa sjres121-94 Bill-Idea)
+(writtenSponsored sjres121-94)
+(houseVoteResult sjres121-94 True)
+(senateVoteResult sjres121-94 True)
+(presidentVeto sjres121-94)
+
+
+(isa hr2606-106 Bill-Idea)
+(writtenSponsored hr2606-106)
+(houseVoteResult hr2606-106 True)
+(senateVoteResult hr2606-106 True)
+(presidentVeto hr2606-106)
+
+
+(isa sjres22-114 Bill-Idea)
+(writtenSponsored sjres22-114)
+(houseVoteResult sjres22-114 True)
+(senateVoteResult sjres22-114 True)
+(presidentVeto sjres22-114)
+
+
+(isa hr1854-104 Bill-Idea)
+(writtenSponsored hr1854-104)
+(houseVoteResult hr1854-104 True)
+(senateVoteResult hr1854-104 True)
+(presidentVeto hr1854-104)
+
+
+(isa hr2587-106 Bill-Idea)
+(writtenSponsored hr2587-106)
+(houseVoteResult hr2587-106 True)
+(senateVoteResult hr2587-106 True)
+(presidentVeto hr2587-106)
+
+
+(isa s1672-93 Bill-Idea)
+(writtenSponsored s1672-93)
+(houseVoteResult s1672-93 True)
+(senateVoteResult s1672-93 True)
+(presidentVeto s1672-93)
+
+
+(isa hr9497-94 Bill-Idea)
+(writtenSponsored hr9497-94)
+(houseVoteResult hr9497-94 True)
+(senateVoteResult hr9497-94 True)
+(presidentVeto hr9497-94)
+
+
+(isa hr2488-106 Bill-Idea)
+(writtenSponsored hr2488-106)
+(houseVoteResult hr2488-106 True)
+(senateVoteResult hr2488-106 True)
+(presidentVeto hr2488-106)
+
+
+(isa sjres24-114 Bill-Idea)
+(writtenSponsored sjres24-114)
+(houseVoteResult sjres24-114 True)
+(senateVoteResult sjres24-114 True)
+(presidentVeto sjres24-114)
+
+
+(isa sjres23-114 Bill-Idea)
+(writtenSponsored sjres23-114)
+(houseVoteResult sjres23-114 True)
+(senateVoteResult sjres23-114 True)
+(presidentVeto sjres23-114)
+
+
+(isa hr7935-93 Bill-Idea)
+(writtenSponsored hr7935-93)
+(houseVoteResult hr7935-93 True)
+(senateVoteResult hr7935-93 True)
+(presidentVeto hr7935-93)
+
+
+(isa hjres357-97 Bill-Idea)
+(writtenSponsored hjres357-97)
+(houseVoteResult hjres357-97 True)
+(senateVoteResult hjres357-97 True)
+(presidentVeto hjres357-97)
+
+
+(isa s1849-94 Bill-Idea)
+(writtenSponsored s1849-94)
+(houseVoteResult s1849-94 True)
+(senateVoteResult s1849-94 True)
+(presidentVeto s1849-94)
+
+
+(isa hjres115-104 Bill-Idea)
+(writtenSponsored hjres115-104)
+(houseVoteResult hjres115-104 True)
+(senateVoteResult hjres115-104 True)
+(presidentVeto hjres115-104)
+
+
+(isa hr2699-102 Bill-Idea)
+(writtenSponsored hr2699-102)
+(houseVoteResult hr2699-102 True)
+(senateVoteResult hr2699-102 True)
+(presidentVeto hr2699-102)
+
+
+(isa hr3564-98 Bill-Idea)
+(writtenSponsored hr3564-98)
+(houseVoteResult hr3564-98 True)
+(senateVoteResult hr3564-98 True)
+(presidentVeto hr3564-98)
+
+
+(isa s21-104 Bill-Idea)
+(writtenSponsored s21-104)
+(houseVoteResult s21-104 True)
+(senateVoteResult s21-104 True)
+(presidentVeto s21-104)
+
+
+(isa s504-93 Bill-Idea)
+(writtenSponsored s504-93)
+(houseVoteResult s504-93 True)
+(senateVoteResult s504-93 True)
+(presidentVeto s504-93)
+
+
+(isa hr4035-94 Bill-Idea)
+(writtenSponsored hr4035-94)
+(houseVoteResult hr4035-94 True)
+(senateVoteResult hr4035-94 True)
+(presidentVeto hr4035-94)
+
+
+(isa hr7447-93 Bill-Idea)
+(writtenSponsored hr7447-93)
+(houseVoteResult hr7447-93 True)
+(senateVoteResult hr7447-93 True)
+(presidentVeto hr7447-93)
+
+
+(isa sjres149-98 Bill-Idea)
+(writtenSponsored sjres149-98)
+(houseVoteResult sjres149-98 True)
+(senateVoteResult sjres149-98 True)
+(presidentVeto sjres149-98)
+
+
+(isa s742-100 Bill-Idea)
+(writtenSponsored s742-100)
+(houseVoteResult s742-100 True)
+(senateVoteResult s742-100 True)
+(presidentVeto s742-100)
+
+
+(isa hr12628-93 Bill-Idea)
+(writtenSponsored hr12628-93)
+(houseVoteResult hr12628-93 True)
+(senateVoteResult hr12628-93 True)
+(presidentVeto hr12628-93)
+(vetoOverTurn hr12628-93 True)
+
+
+(isa hr12471-93 Bill-Idea)
+(writtenSponsored hr12471-93)
+(houseVoteResult hr12471-93 True)
+(senateVoteResult hr12471-93 True)
+(presidentVeto hr12471-93)
+(vetoOverTurn hr12471-93 True)
+
+
+(isa hr15301-93 Bill-Idea)
+(writtenSponsored hr15301-93)
+(houseVoteResult hr15301-93 True)
+(senateVoteResult hr15301-93 True)
+(presidentVeto hr15301-93)
+(vetoOverTurn hr15301-93 True)
+
+
+(isa s12-102 Bill-Idea)
+(writtenSponsored s12-102)
+(houseVoteResult s12-102 True)
+(senateVoteResult s12-102 True)
+(presidentVeto s12-102)
+(vetoOverTurn s12-102 True)
+
+
+(isa hr4868-99 Bill-Idea)
+(writtenSponsored hr4868-99)
+(houseVoteResult hr4868-99 True)
+(senateVoteResult hr4868-99 True)
+(presidentVeto hr4868-99)
+(vetoOverTurn hr4868-99 True)
+
+
+(isa s2040-114 Bill-Idea)
+(writtenSponsored s2040-114)
+(houseVoteResult s2040-114 True)
+(senateVoteResult s2040-114 True)
+(presidentVeto s2040-114)
+(vetoOverTurn s2040-114 True)
+
+
+(isa hr14232-94 Bill-Idea)
+(writtenSponsored hr14232-94)
+(houseVoteResult hr14232-94 True)
+(senateVoteResult hr14232-94 True)
+(presidentVeto hr14232-94)
+(vetoOverTurn hr14232-94 True)
+
+
+(isa hr6863-97 Bill-Idea)
+(writtenSponsored hr6863-97)
+(houseVoteResult hr6863-97 True)
+(senateVoteResult hr6863-97 True)
+(presidentVeto hr6863-97)
+(vetoOverTurn hr6863-97 True)
+
+
+(isa hr8800-94 Bill-Idea)
+(writtenSponsored hr8800-94)
+(houseVoteResult hr8800-94 True)
+(senateVoteResult hr8800-94 True)
+(presidentVeto hr8800-94)
+(vetoOverTurn hr8800-94 True)
+
+
+(isa hr7102-96 Bill-Idea)
+(writtenSponsored hr7102-96)
+(houseVoteResult hr7102-96 True)
+(senateVoteResult hr7102-96 True)
+(presidentVeto hr7102-96)
+(vetoOverTurn hr7102-96 True)
+
+
+(isa s391-94 Bill-Idea)
+(writtenSponsored s391-94)
+(houseVoteResult s391-94 True)
+(senateVoteResult s391-94 True)
+(presidentVeto s391-94)
+(vetoOverTurn s391-94 True)
+
+
+(isa hr6331-110 Bill-Idea)
+(writtenSponsored hr6331-110)
+(houseVoteResult hr6331-110 True)
+(senateVoteResult hr6331-110 True)
+(presidentVeto hr6331-110)
+(vetoOverTurn hr6331-110 True)
+
+
+(isa s3201-94 Bill-Idea)
+(writtenSponsored s3201-94)
+(houseVoteResult s3201-94 True)
+(senateVoteResult s3201-94 True)
+(presidentVeto s3201-94)
+(vetoOverTurn s3201-94 True)
+
+
+(isa hr6198-97 Bill-Idea)
+(writtenSponsored hr6198-97)
+(houseVoteResult hr6198-97 True)
+(senateVoteResult hr6198-97 True)
+(presidentVeto hr6198-97)
+(vetoOverTurn hr6198-97 True)
+
+
+(isa hr6124-110 Bill-Idea)
+(writtenSponsored hr6124-110)
+(houseVoteResult hr6124-110 True)
+(senateVoteResult hr6124-110 True)
+(presidentVeto hr6124-110)
+(vetoOverTurn hr6124-110 True)
+
+
+(isa hr7428-96 Bill-Idea)
+(writtenSponsored hr7428-96)
+(houseVoteResult hr7428-96 True)
+(senateVoteResult hr7428-96 True)
+(presidentVeto hr7428-96)
+(vetoOverTurn hr7428-96 True)
+
+
+(isa hr2419-110 Bill-Idea)
+(writtenSponsored hr2419-110)
+(houseVoteResult hr2419-110 True)
+(senateVoteResult hr2419-110 True)
+(presidentVeto hr2419-110)
+(vetoOverTurn hr2419-110 True)
+
+
+(isa s684-98 Bill-Idea)
+(writtenSponsored s684-98)
+(houseVoteResult s684-98 True)
+(senateVoteResult s684-98 True)
+(presidentVeto s684-98)
+(vetoOverTurn s684-98 True)
+
+
+(isa s557-100 Bill-Idea)
+(writtenSponsored s557-100)
+(houseVoteResult s557-100 True)
+(senateVoteResult s557-100 True)
+(presidentVeto s557-100)
+(vetoOverTurn s557-100 True)
+
+
+(isa hr2631-105 Bill-Idea)
+(writtenSponsored hr2631-105)
+(houseVoteResult hr2631-105 True)
+(senateVoteResult hr2631-105 True)
+(presidentVeto hr2631-105)
+(vetoOverTurn hr2631-105 True)
+
+
+(isa hr8069-94 Bill-Idea)
+(writtenSponsored hr8069-94)
+(houseVoteResult hr8069-94 True)
+(senateVoteResult hr8069-94 True)
+(presidentVeto hr8069-94)
+(vetoOverTurn hr8069-94 True)
+
+
+(isa hr1058-104 Bill-Idea)
+(writtenSponsored hr1058-104)
+(houseVoteResult hr1058-104 True)
+(senateVoteResult hr1058-104 True)
+(presidentVeto hr1058-104)
+(vetoOverTurn hr1058-104 True)
+
+
+(isa hr2409-99 Bill-Idea)
+(writtenSponsored hr2409-99)
+(houseVoteResult hr2409-99 True)
+(senateVoteResult hr2409-99 True)
+(presidentVeto hr2409-99)
+(vetoOverTurn hr2409-99 True)
+
+
+(isa hr1495-110 Bill-Idea)
+(writtenSponsored hr1495-110)
+(houseVoteResult hr1495-110 True)
+(senateVoteResult hr1495-110 True)
+(presidentVeto hr1495-110)
+(vetoOverTurn hr1495-110 True)
+
+
+(isa hr1062-98 Bill-Idea)
+(writtenSponsored hr1062-98)
+(houseVoteResult hr1062-98 True)
+(senateVoteResult hr1062-98 True)
+(presidentVeto hr1062-98)
+(vetoOverTurn hr1062-98 True)
+
+
+(isa hr4222-94 Bill-Idea)
+(writtenSponsored hr4222-94)
+(houseVoteResult hr4222-94 True)
+(senateVoteResult hr4222-94 True)
+(presidentVeto hr4222-94)
+(vetoOverTurn hr4222-94 True)
+
+
+(isa hr5901-94 Bill-Idea)
+(writtenSponsored hr5901-94)
+(houseVoteResult hr5901-94 True)
+(senateVoteResult hr5901-94 True)
+(presidentVeto hr5901-94)
+(vetoOverTurn hr5901-94 True)
+
+
+(isa hjres542-93 Bill-Idea)
+(writtenSponsored hjres542-93)
+(houseVoteResult hjres542-93 True)
+(senateVoteResult hjres542-93 True)
+(presidentVeto hjres542-93)
+(vetoOverTurn hjres542-93 True)
+
+
+(isa s66-94 Bill-Idea)
+(writtenSponsored s66-94)
+(houseVoteResult s66-94 True)
+(senateVoteResult s66-94 True)
+(presidentVeto s66-94)
+(vetoOverTurn s66-94 True)
+
+
+(isa hr2-100 Bill-Idea)
+(writtenSponsored hr2-100)
+(houseVoteResult hr2-100 True)
+(senateVoteResult hr2-100 True)
+(presidentVeto hr2-100)
+(vetoOverTurn hr2-100 True)
+
+
+(isa hr1-100 Bill-Idea)
+(writtenSponsored hr1-100)
+(houseVoteResult hr1-100 True)
+(senateVoteResult hr1-100 True)
+(presidentVeto hr1-100)
+(vetoOverTurn hr1-100 True)
+
+
