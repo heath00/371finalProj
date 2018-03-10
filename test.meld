@@ -1,15 +1,13 @@
-(in-microtheory BaseKB)
-
 (isa s1379-112 Bill-Idea)
 (writtenSponsored s1379-112)
 (houseVoteResult s1379-112 True)
-(houseVoteResult s1379-112 True)
+(senateVoteResult s1379-112 True)
 (presidentSigned s1379-112)
 
 (isa s1379-112 Bill-Idea)
 (writtenSponsored s1379-112)
 (houseVoteResult s1379-112 True)
-(houseVoteResult s1379-112 True)
+(senateVoteResult s1379-112 True)
 
 (isa s1977-112 Bill-Idea)
 (writtenSponsored s1977-112)
@@ -88,7 +86,7 @@
 
 (isa s2153-112 Bill-Idea)
 (writtenSponsored s2153-112)
-(houseVoteResult s2153-112 True)
+(senateVoteResult s2153-112 True)
 
 (isa s3081-112 Bill-Idea)
 (writtenSponsored s3081-112)
@@ -171,13 +169,13 @@
 (isa s3624-112 Bill-Idea)
 (writtenSponsored s3624-112)
 (houseVoteResult s3624-112 True)
-(houseVoteResult s3624-112 True)
+(senateVoteResult s3624-112 True)
 (presidentSigned s3624-112)
 
 (isa s3624-112 Bill-Idea)
 (writtenSponsored s3624-112)
 (houseVoteResult s3624-112 True)
-(houseVoteResult s3624-112 True)
+(senateVoteResult s3624-112 True)
 
 (isa s1517-112 Bill-Idea)
 (writtenSponsored s1517-112)
@@ -187,7 +185,7 @@
 
 (isa s3240-112 Bill-Idea)
 (writtenSponsored s3240-112)
-(houseVoteResult s3240-112 True)
+(senateVoteResult s3240-112 True)
 
 (isa s3072-112 Bill-Idea)
 (writtenSponsored s3072-112)
@@ -357,13 +355,13 @@
 (isa s2165-112 Bill-Idea)
 (writtenSponsored s2165-112)
 (houseVoteResult s2165-112 True)
-(houseVoteResult s2165-112 True)
+(senateVoteResult s2165-112 True)
 (presidentSigned s2165-112)
 
 (isa s2165-112 Bill-Idea)
 (writtenSponsored s2165-112)
 (houseVoteResult s2165-112 True)
-(houseVoteResult s2165-112 True)
+(senateVoteResult s2165-112 True)
 
 (isa s127-112 Bill-Idea)
 (writtenSponsored s127-112)
@@ -484,7 +482,7 @@
 
 (isa s970-112 Bill-Idea)
 (writtenSponsored s970-112)
-(houseVoteResult s970-112 True)
+(senateVoteResult s970-112 True)
 
 (isa s2760-112 Bill-Idea)
 (writtenSponsored s2760-112)
@@ -639,13 +637,13 @@
 (isa s384-112 Bill-Idea)
 (writtenSponsored s384-112)
 (houseVoteResult s384-112 True)
-(houseVoteResult s384-112 True)
+(senateVoteResult s384-112 True)
 (presidentSigned s384-112)
 
 (isa s384-112 Bill-Idea)
 (writtenSponsored s384-112)
 (houseVoteResult s384-112 True)
-(houseVoteResult s384-112 True)
+(senateVoteResult s384-112 True)
 
 (isa s3214-112 Bill-Idea)
 (writtenSponsored s3214-112)
@@ -716,13 +714,13 @@
 (isa s3677-112 Bill-Idea)
 (writtenSponsored s3677-112)
 (houseVoteResult s3677-112 True)
-(houseVoteResult s3677-112 True)
+(senateVoteResult s3677-112 True)
 (presidentSigned s3677-112)
 
 (isa s3677-112 Bill-Idea)
 (writtenSponsored s3677-112)
 (houseVoteResult s3677-112 True)
-(houseVoteResult s3677-112 True)
+(senateVoteResult s3677-112 True)
 
 (isa s1120-112 Bill-Idea)
 (writtenSponsored s1120-112)
@@ -789,7 +787,7 @@
 
 (isa s1188-112 Bill-Idea)
 (writtenSponsored s1188-112)
-(houseVoteResult s1188-112 True)
+(senateVoteResult s1188-112 True)
 
 (isa s3089-112 Bill-Idea)
 (writtenSponsored s3089-112)
@@ -800,13 +798,13 @@
 (isa s925-112 Bill-Idea)
 (writtenSponsored s925-112)
 (houseVoteResult s925-112 True)
-(houseVoteResult s925-112 True)
+(senateVoteResult s925-112 True)
 (presidentSigned s925-112)
 
 (isa s925-112 Bill-Idea)
 (writtenSponsored s925-112)
 (houseVoteResult s925-112 True)
-(houseVoteResult s925-112 True)
+(senateVoteResult s925-112 True)
 
 (isa s2369-112 Bill-Idea)
 (writtenSponsored s2369-112)
@@ -900,7 +898,7 @@
 
 (isa s1947-112 Bill-Idea)
 (writtenSponsored s1947-112)
-(houseVoteResult s1947-112 True)
+(senateVoteResult s1947-112 True)
 
 (isa s3248-112 Bill-Idea)
 (writtenSponsored s3248-112)
@@ -1016,13 +1014,13 @@
 (isa s3625-112 Bill-Idea)
 (writtenSponsored s3625-112)
 (houseVoteResult s3625-112 True)
-(houseVoteResult s3625-112 True)
+(senateVoteResult s3625-112 True)
 (presidentSigned s3625-112)
 
 (isa s3625-112 Bill-Idea)
 (writtenSponsored s3625-112)
 (houseVoteResult s3625-112 True)
-(houseVoteResult s3625-112 True)
+(senateVoteResult s3625-112 True)
 
 (isa s587-112 Bill-Idea)
 (writtenSponsored s587-112)
@@ -1063,13 +1061,13 @@
 (isa s2367-112 Bill-Idea)
 (writtenSponsored s2367-112)
 (houseVoteResult s2367-112 True)
-(houseVoteResult s2367-112 True)
+(senateVoteResult s2367-112 True)
 (presidentSigned s2367-112)
 
 (isa s2367-112 Bill-Idea)
 (writtenSponsored s2367-112)
 (houseVoteResult s2367-112 True)
-(houseVoteResult s2367-112 True)
+(senateVoteResult s2367-112 True)
 
 (isa s117-112 Bill-Idea)
 (writtenSponsored s117-112)
@@ -1254,13 +1252,13 @@
 (isa s349-112 Bill-Idea)
 (writtenSponsored s349-112)
 (houseVoteResult s349-112 True)
-(houseVoteResult s349-112 True)
+(senateVoteResult s349-112 True)
 (presidentSigned s349-112)
 
 (isa s349-112 Bill-Idea)
 (writtenSponsored s349-112)
 (houseVoteResult s349-112 True)
-(houseVoteResult s349-112 True)
+(senateVoteResult s349-112 True)
 
 (isa s2905-112 Bill-Idea)
 (writtenSponsored s2905-112)
@@ -1346,20 +1344,20 @@
 (isa s188-112 Bill-Idea)
 (writtenSponsored s188-112)
 (houseVoteResult s188-112 True)
-(houseVoteResult s188-112 True)
+(senateVoteResult s188-112 True)
 (presidentSigned s188-112)
 
 (isa s188-112 Bill-Idea)
 (writtenSponsored s188-112)
 (houseVoteResult s188-112 True)
-(houseVoteResult s188-112 True)
+(senateVoteResult s188-112 True)
 
 (isa s1119-112 Bill-Idea)
 (writtenSponsored s1119-112)
 
 (isa s1925-112 Bill-Idea)
 (writtenSponsored s1925-112)
-(houseVoteResult s1925-112 True)
+(senateVoteResult s1925-112 True)
 
 (isa s518-112 Bill-Idea)
 (writtenSponsored s518-112)
@@ -1511,13 +1509,13 @@
 (isa s3486-112 Bill-Idea)
 (writtenSponsored s3486-112)
 (houseVoteResult s3486-112 True)
-(houseVoteResult s3486-112 True)
+(senateVoteResult s3486-112 True)
 (presidentSigned s3486-112)
 
 (isa s3486-112 Bill-Idea)
 (writtenSponsored s3486-112)
 (houseVoteResult s3486-112 True)
-(houseVoteResult s3486-112 True)
+(senateVoteResult s3486-112 True)
 
 (isa s66-112 Bill-Idea)
 (writtenSponsored s66-112)
@@ -1534,13 +1532,13 @@
 (isa s3472-112 Bill-Idea)
 (writtenSponsored s3472-112)
 (houseVoteResult s3472-112 True)
-(houseVoteResult s3472-112 True)
+(senateVoteResult s3472-112 True)
 (presidentSigned s3472-112)
 
 (isa s3472-112 Bill-Idea)
 (writtenSponsored s3472-112)
 (houseVoteResult s3472-112 True)
-(houseVoteResult s3472-112 True)
+(senateVoteResult s3472-112 True)
 
 (isa s92-112 Bill-Idea)
 (writtenSponsored s92-112)
@@ -1703,7 +1701,7 @@
 
 (isa s2045-112 Bill-Idea)
 (writtenSponsored s2045-112)
-(houseVoteResult s2045-112 True)
+(senateVoteResult s2045-112 True)
 
 (isa s235-112 Bill-Idea)
 (writtenSponsored s235-112)
@@ -1740,7 +1738,7 @@
 
 (isa s1406-112 Bill-Idea)
 (writtenSponsored s1406-112)
-(houseVoteResult s1406-112 True)
+(senateVoteResult s1406-112 True)
 
 (isa s3351-112 Bill-Idea)
 (writtenSponsored s3351-112)
@@ -1852,7 +1850,7 @@
 
 (isa s499-112 Bill-Idea)
 (writtenSponsored s499-112)
-(houseVoteResult s499-112 True)
+(senateVoteResult s499-112 True)
 
 (isa s1098-112 Bill-Idea)
 (writtenSponsored s1098-112)
@@ -2012,7 +2010,7 @@
 
 (isa s633-112 Bill-Idea)
 (writtenSponsored s633-112)
-(houseVoteResult s633-112 True)
+(senateVoteResult s633-112 True)
 
 (isa s3591-112 Bill-Idea)
 (writtenSponsored s3591-112)
@@ -2173,13 +2171,13 @@
 (isa s292-112 Bill-Idea)
 (writtenSponsored s292-112)
 (houseVoteResult s292-112 True)
-(houseVoteResult s292-112 True)
+(senateVoteResult s292-112 True)
 (presidentSigned s292-112)
 
 (isa s292-112 Bill-Idea)
 (writtenSponsored s292-112)
 (houseVoteResult s292-112 True)
-(houseVoteResult s292-112 True)
+(senateVoteResult s292-112 True)
 
 (isa s3130-112 Bill-Idea)
 (writtenSponsored s3130-112)
@@ -2210,7 +2208,7 @@
 
 (isa s2224-112 Bill-Idea)
 (writtenSponsored s2224-112)
-(houseVoteResult s2224-112 True)
+(senateVoteResult s2224-112 True)
 
 (isa s868-112 Bill-Idea)
 (writtenSponsored s868-112)
@@ -2220,7 +2218,7 @@
 
 (isa s266-112 Bill-Idea)
 (writtenSponsored s266-112)
-(houseVoteResult s266-112 True)
+(senateVoteResult s266-112 True)
 
 (isa s2016-112 Bill-Idea)
 (writtenSponsored s2016-112)
@@ -2263,14 +2261,14 @@
 
 (isa s1409-112 Bill-Idea)
 (writtenSponsored s1409-112)
-(houseVoteResult s1409-112 True)
+(senateVoteResult s1409-112 True)
 
 (isa s1851-112 Bill-Idea)
 (writtenSponsored s1851-112)
 
 (isa s498-112 Bill-Idea)
 (writtenSponsored s498-112)
-(houseVoteResult s498-112 True)
+(senateVoteResult s498-112 True)
 
 (isa s3508-112 Bill-Idea)
 (writtenSponsored s3508-112)
@@ -2514,7 +2512,7 @@
 
 (isa s1867-112 Bill-Idea)
 (writtenSponsored s1867-112)
-(houseVoteResult s1867-112 True)
+(senateVoteResult s1867-112 True)
 
 (isa s1269-112 Bill-Idea)
 (writtenSponsored s1269-112)
@@ -2663,13 +2661,13 @@
 (isa s3552-112 Bill-Idea)
 (writtenSponsored s3552-112)
 (houseVoteResult s3552-112 True)
-(houseVoteResult s3552-112 True)
+(senateVoteResult s3552-112 True)
 (presidentSigned s3552-112)
 
 (isa s3552-112 Bill-Idea)
 (writtenSponsored s3552-112)
 (houseVoteResult s3552-112 True)
-(houseVoteResult s3552-112 True)
+(senateVoteResult s3552-112 True)
 
 (isa s1037-112 Bill-Idea)
 (writtenSponsored s1037-112)
@@ -2755,13 +2753,13 @@
 (isa s3564-112 Bill-Idea)
 (writtenSponsored s3564-112)
 (houseVoteResult s3564-112 True)
-(houseVoteResult s3564-112 True)
+(senateVoteResult s3564-112 True)
 (presidentSigned s3564-112)
 
 (isa s3564-112 Bill-Idea)
 (writtenSponsored s3564-112)
 (houseVoteResult s3564-112 True)
-(houseVoteResult s3564-112 True)
+(senateVoteResult s3564-112 True)
 
 (isa s1233-112 Bill-Idea)
 (writtenSponsored s1233-112)
@@ -2861,7 +2859,7 @@
 
 (isa s3563-112 Bill-Idea)
 (writtenSponsored s3563-112)
-(houseVoteResult s3563-112 True)
+(senateVoteResult s3563-112 True)
 
 (isa s1234-112 Bill-Idea)
 (writtenSponsored s1234-112)
@@ -2893,13 +2891,13 @@
 (isa s894-112 Bill-Idea)
 (writtenSponsored s894-112)
 (houseVoteResult s894-112 True)
-(houseVoteResult s894-112 True)
+(senateVoteResult s894-112 True)
 (presidentSigned s894-112)
 
 (isa s894-112 Bill-Idea)
 (writtenSponsored s894-112)
 (houseVoteResult s894-112 True)
-(houseVoteResult s894-112 True)
+(senateVoteResult s894-112 True)
 
 (isa s3138-112 Bill-Idea)
 (writtenSponsored s3138-112)
@@ -2958,7 +2956,7 @@
 (isa s1440-112 Bill-Idea)
 (writtenSponsored s1440-112)
 (houseVoteResult s1440-112 True)
-(houseVoteResult s1440-112 True)
+(senateVoteResult s1440-112 True)
 
 (isa s3317-112 Bill-Idea)
 (writtenSponsored s3317-112)
@@ -2992,7 +2990,7 @@
 
 (isa s1478-112 Bill-Idea)
 (writtenSponsored s1478-112)
-(houseVoteResult s1478-112 True)
+(senateVoteResult s1478-112 True)
 
 (isa s3579-112 Bill-Idea)
 (writtenSponsored s3579-112)
@@ -3104,7 +3102,7 @@
 
 (isa s3326-112 Bill-Idea)
 (writtenSponsored s3326-112)
-(houseVoteResult s3326-112 True)
+(senateVoteResult s3326-112 True)
 
 (isa s1471-112 Bill-Idea)
 (writtenSponsored s1471-112)
@@ -3129,7 +3127,7 @@
 
 (isa s414-112 Bill-Idea)
 (writtenSponsored s414-112)
-(houseVoteResult s414-112 True)
+(senateVoteResult s414-112 True)
 
 (isa s3584-112 Bill-Idea)
 (writtenSponsored s3584-112)
@@ -3233,13 +3231,13 @@
 (isa s2061-112 Bill-Idea)
 (writtenSponsored s2061-112)
 (houseVoteResult s2061-112 True)
-(houseVoteResult s2061-112 True)
+(senateVoteResult s2061-112 True)
 (presidentSigned s2061-112)
 
 (isa s2061-112 Bill-Idea)
 (writtenSponsored s2061-112)
 (houseVoteResult s2061-112 True)
-(houseVoteResult s2061-112 True)
+(senateVoteResult s2061-112 True)
 
 (isa s2253-112 Bill-Idea)
 (writtenSponsored s2253-112)
@@ -3262,13 +3260,13 @@
 (isa s1280-112 Bill-Idea)
 (writtenSponsored s1280-112)
 (houseVoteResult s1280-112 True)
-(houseVoteResult s1280-112 True)
+(senateVoteResult s1280-112 True)
 (presidentSigned s1280-112)
 
 (isa s1280-112 Bill-Idea)
 (writtenSponsored s1280-112)
 (houseVoteResult s1280-112 True)
-(houseVoteResult s1280-112 True)
+(senateVoteResult s1280-112 True)
 
 (isa s1046-112 Bill-Idea)
 (writtenSponsored s1046-112)
@@ -3356,7 +3354,7 @@
 
 (isa s3716-112 Bill-Idea)
 (writtenSponsored s3716-112)
-(houseVoteResult s3716-112 True)
+(senateVoteResult s3716-112 True)
 
 (isa s672-112 Bill-Idea)
 (writtenSponsored s672-112)
@@ -3387,7 +3385,7 @@
 
 (isa s216-112 Bill-Idea)
 (writtenSponsored s216-112)
-(houseVoteResult s216-112 True)
+(senateVoteResult s216-112 True)
 
 (isa s2066-112 Bill-Idea)
 (writtenSponsored s2066-112)
@@ -3478,7 +3476,7 @@
 
 (isa s1874-112 Bill-Idea)
 (writtenSponsored s1874-112)
-(houseVoteResult s1874-112 True)
+(senateVoteResult s1874-112 True)
 
 (isa s1880-112 Bill-Idea)
 (writtenSponsored s1880-112)
@@ -3581,7 +3579,7 @@
 
 (isa s1619-112 Bill-Idea)
 (writtenSponsored s1619-112)
-(houseVoteResult s1619-112 True)
+(senateVoteResult s1619-112 True)
 
 (isa s1448-112 Bill-Idea)
 (writtenSponsored s1448-112)
@@ -3600,7 +3598,7 @@
 
 (isa s2239-112 Bill-Idea)
 (writtenSponsored s2239-112)
-(houseVoteResult s2239-112 True)
+(senateVoteResult s2239-112 True)
 
 (isa s2837-112 Bill-Idea)
 (writtenSponsored s2837-112)
@@ -3616,7 +3614,7 @@
 
 (isa s3576-112 Bill-Idea)
 (writtenSponsored s3576-112)
-(houseVoteResult s3576-112 True)
+(senateVoteResult s3576-112 True)
 
 (isa s1645-112 Bill-Idea)
 (writtenSponsored s1645-112)
@@ -3693,7 +3691,7 @@
 (isa s627-112 Bill-Idea)
 (writtenSponsored s627-112)
 (houseVoteResult s627-112 True)
-(houseVoteResult s627-112 True)
+(senateVoteResult s627-112 True)
 
 (isa s3585-112 Bill-Idea)
 (writtenSponsored s3585-112)
@@ -3772,7 +3770,7 @@
 
 (isa s275-112 Bill-Idea)
 (writtenSponsored s275-112)
-(houseVoteResult s275-112 True)
+(senateVoteResult s275-112 True)
 
 (isa s2839-112 Bill-Idea)
 (writtenSponsored s2839-112)
@@ -3813,13 +3811,13 @@
 (isa s3311-112 Bill-Idea)
 (writtenSponsored s3311-112)
 (houseVoteResult s3311-112 True)
-(houseVoteResult s3311-112 True)
+(senateVoteResult s3311-112 True)
 (presidentSigned s3311-112)
 
 (isa s3311-112 Bill-Idea)
 (writtenSponsored s3311-112)
 (houseVoteResult s3311-112 True)
-(houseVoteResult s3311-112 True)
+(senateVoteResult s3311-112 True)
 
 (isa s281-112 Bill-Idea)
 (writtenSponsored s281-112)
@@ -3991,7 +3989,7 @@
 
 (isa s1886-112 Bill-Idea)
 (writtenSponsored s1886-112)
-(houseVoteResult s1886-112 True)
+(senateVoteResult s1886-112 True)
 
 (isa s1288-112 Bill-Idea)
 (writtenSponsored s1288-112)
@@ -4017,13 +4015,13 @@
 (isa s1082-112 Bill-Idea)
 (writtenSponsored s1082-112)
 (houseVoteResult s1082-112 True)
-(houseVoteResult s1082-112 True)
+(senateVoteResult s1082-112 True)
 (presidentSigned s1082-112)
 
 (isa s1082-112 Bill-Idea)
 (writtenSponsored s1082-112)
 (houseVoteResult s1082-112 True)
-(houseVoteResult s1082-112 True)
+(senateVoteResult s1082-112 True)
 
 (isa s2435-112 Bill-Idea)
 (writtenSponsored s2435-112)
@@ -4061,13 +4059,13 @@
 (isa s1412-112 Bill-Idea)
 (writtenSponsored s1412-112)
 (houseVoteResult s1412-112 True)
-(houseVoteResult s1412-112 True)
+(senateVoteResult s1412-112 True)
 (presidentSigned s1412-112)
 
 (isa s1412-112 Bill-Idea)
 (writtenSponsored s1412-112)
 (houseVoteResult s1412-112 True)
-(houseVoteResult s1412-112 True)
+(senateVoteResult s1412-112 True)
 
 (isa s1881-112 Bill-Idea)
 (writtenSponsored s1881-112)
@@ -4185,7 +4183,7 @@
 
 (isa s1047-112 Bill-Idea)
 (writtenSponsored s1047-112)
-(houseVoteResult s1047-112 True)
+(senateVoteResult s1047-112 True)
 
 (isa s3710-112 Bill-Idea)
 (writtenSponsored s3710-112)
@@ -4268,13 +4266,13 @@
 (isa s739-112 Bill-Idea)
 (writtenSponsored s739-112)
 (houseVoteResult s739-112 True)
-(houseVoteResult s739-112 True)
+(senateVoteResult s739-112 True)
 (presidentSigned s739-112)
 
 (isa s739-112 Bill-Idea)
 (writtenSponsored s739-112)
 (houseVoteResult s739-112 True)
-(houseVoteResult s739-112 True)
+(senateVoteResult s739-112 True)
 
 (isa s2549-112 Bill-Idea)
 (writtenSponsored s2549-112)
@@ -4357,13 +4355,13 @@
 (isa s3662-112 Bill-Idea)
 (writtenSponsored s3662-112)
 (houseVoteResult s3662-112 True)
-(houseVoteResult s3662-112 True)
+(senateVoteResult s3662-112 True)
 (presidentSigned s3662-112)
 
 (isa s3662-112 Bill-Idea)
 (writtenSponsored s3662-112)
 (houseVoteResult s3662-112 True)
-(houseVoteResult s3662-112 True)
+(senateVoteResult s3662-112 True)
 
 (isa s1569-112 Bill-Idea)
 (writtenSponsored s1569-112)
@@ -4386,13 +4384,13 @@
 (isa s2318-112 Bill-Idea)
 (writtenSponsored s2318-112)
 (houseVoteResult s2318-112 True)
-(houseVoteResult s2318-112 True)
+(senateVoteResult s2318-112 True)
 (presidentSigned s2318-112)
 
 (isa s2318-112 Bill-Idea)
 (writtenSponsored s2318-112)
 (houseVoteResult s2318-112 True)
-(houseVoteResult s2318-112 True)
+(senateVoteResult s2318-112 True)
 
 (isa s954-112 Bill-Idea)
 (writtenSponsored s954-112)
@@ -4433,12 +4431,12 @@
 (isa s365-112 Bill-Idea)
 (writtenSponsored s365-112)
 (houseVoteResult s365-112 True)
-(houseVoteResult s365-112 True)
+(senateVoteResult s365-112 True)
 (presidentSigned s365-112)
 
 (isa s365-112 Bill-Idea)
 (writtenSponsored s365-112)
-(houseVoteResult s365-112 True)
+(senateVoteResult s365-112 True)
 
 (isa s2929-112 Bill-Idea)
 (writtenSponsored s2929-112)
@@ -4505,7 +4503,7 @@
 
 (isa s3698-112 Bill-Idea)
 (writtenSponsored s3698-112)
-(houseVoteResult s3698-112 True)
+(senateVoteResult s3698-112 True)
 
 (isa s1752-112 Bill-Idea)
 (writtenSponsored s1752-112)
@@ -4654,13 +4652,13 @@
 (isa s1103-112 Bill-Idea)
 (writtenSponsored s1103-112)
 (houseVoteResult s1103-112 True)
-(houseVoteResult s1103-112 True)
+(senateVoteResult s1103-112 True)
 (presidentSigned s1103-112)
 
 (isa s1103-112 Bill-Idea)
 (writtenSponsored s1103-112)
 (houseVoteResult s1103-112 True)
-(houseVoteResult s1103-112 True)
+(senateVoteResult s1103-112 True)
 
 (isa s192-112 Bill-Idea)
 (writtenSponsored s192-112)
@@ -4680,24 +4678,24 @@
 (isa s2170-112 Bill-Idea)
 (writtenSponsored s2170-112)
 (houseVoteResult s2170-112 True)
-(houseVoteResult s2170-112 True)
+(senateVoteResult s2170-112 True)
 (presidentSigned s2170-112)
 
 (isa s2170-112 Bill-Idea)
 (writtenSponsored s2170-112)
 (houseVoteResult s2170-112 True)
-(houseVoteResult s2170-112 True)
+(senateVoteResult s2170-112 True)
 
 (isa s300-112 Bill-Idea)
 (writtenSponsored s300-112)
 (houseVoteResult s300-112 True)
-(houseVoteResult s300-112 True)
+(senateVoteResult s300-112 True)
 (presidentSigned s300-112)
 
 (isa s300-112 Bill-Idea)
 (writtenSponsored s300-112)
 (houseVoteResult s300-112 True)
-(houseVoteResult s300-112 True)
+(senateVoteResult s300-112 True)
 
 (isa s3290-112 Bill-Idea)
 (writtenSponsored s3290-112)
@@ -4831,13 +4829,13 @@
 (isa s1998-112 Bill-Idea)
 (writtenSponsored s1998-112)
 (houseVoteResult s1998-112 True)
-(houseVoteResult s1998-112 True)
+(senateVoteResult s1998-112 True)
 (presidentSigned s1998-112)
 
 (isa s1998-112 Bill-Idea)
 (writtenSponsored s1998-112)
 (houseVoteResult s1998-112 True)
-(houseVoteResult s1998-112 True)
+(senateVoteResult s1998-112 True)
 
 (isa s2721-112 Bill-Idea)
 (writtenSponsored s2721-112)
@@ -4863,13 +4861,13 @@
 (isa s307-112 Bill-Idea)
 (writtenSponsored s307-112)
 (houseVoteResult s307-112 True)
-(houseVoteResult s307-112 True)
+(senateVoteResult s307-112 True)
 (presidentSigned s307-112)
 
 (isa s307-112 Bill-Idea)
 (writtenSponsored s307-112)
 (houseVoteResult s307-112 True)
-(houseVoteResult s307-112 True)
+(senateVoteResult s307-112 True)
 
 (isa s3638-112 Bill-Idea)
 (writtenSponsored s3638-112)
@@ -5093,13 +5091,13 @@
 (isa s990-112 Bill-Idea)
 (writtenSponsored s990-112)
 (houseVoteResult s990-112 True)
-(houseVoteResult s990-112 True)
+(senateVoteResult s990-112 True)
 (presidentSigned s990-112)
 
 (isa s990-112 Bill-Idea)
 (writtenSponsored s990-112)
 (houseVoteResult s990-112 True)
-(houseVoteResult s990-112 True)
+(senateVoteResult s990-112 True)
 
 (isa s3458-112 Bill-Idea)
 (writtenSponsored s3458-112)
@@ -5221,13 +5219,13 @@
 (isa s997-112 Bill-Idea)
 (writtenSponsored s997-112)
 (houseVoteResult s997-112 True)
-(houseVoteResult s997-112 True)
+(senateVoteResult s997-112 True)
 (presidentSigned s997-112)
 
 (isa s997-112 Bill-Idea)
 (writtenSponsored s997-112)
 (houseVoteResult s997-112 True)
-(houseVoteResult s997-112 True)
+(senateVoteResult s997-112 True)
 
 (isa s74-112 Bill-Idea)
 (writtenSponsored s74-112)
@@ -5399,7 +5397,7 @@
 
 (isa s3238-112 Bill-Idea)
 (writtenSponsored s3238-112)
-(houseVoteResult s3238-112 True)
+(senateVoteResult s3238-112 True)
 
 (isa s952-112 Bill-Idea)
 (writtenSponsored s952-112)
@@ -5437,13 +5435,13 @@
 (isa s1134-112 Bill-Idea)
 (writtenSponsored s1134-112)
 (houseVoteResult s1134-112 True)
-(houseVoteResult s1134-112 True)
+(senateVoteResult s1134-112 True)
 (presidentSigned s1134-112)
 
 (isa s1134-112 Bill-Idea)
 (writtenSponsored s1134-112)
 (houseVoteResult s1134-112 True)
-(houseVoteResult s1134-112 True)
+(senateVoteResult s1134-112 True)
 
 (isa s3663-112 Bill-Idea)
 (writtenSponsored s3663-112)
@@ -5466,13 +5464,13 @@
 (isa s535-112 Bill-Idea)
 (writtenSponsored s535-112)
 (houseVoteResult s535-112 True)
-(houseVoteResult s535-112 True)
+(senateVoteResult s535-112 True)
 (presidentSigned s535-112)
 
 (isa s535-112 Bill-Idea)
 (writtenSponsored s535-112)
 (houseVoteResult s535-112 True)
-(houseVoteResult s535-112 True)
+(senateVoteResult s535-112 True)
 
 (isa s2577-112 Bill-Idea)
 (writtenSponsored s2577-112)
@@ -5489,13 +5487,13 @@
 (isa s363-112 Bill-Idea)
 (writtenSponsored s363-112)
 (houseVoteResult s363-112 True)
-(houseVoteResult s363-112 True)
+(senateVoteResult s363-112 True)
 (presidentSigned s363-112)
 
 (isa s363-112 Bill-Idea)
 (writtenSponsored s363-112)
 (houseVoteResult s363-112 True)
-(houseVoteResult s363-112 True)
+(senateVoteResult s363-112 True)
 
 (isa s1796-112 Bill-Idea)
 (writtenSponsored s1796-112)
@@ -5644,13 +5642,13 @@
 (isa s3630-112 Bill-Idea)
 (writtenSponsored s3630-112)
 (houseVoteResult s3630-112 True)
-(houseVoteResult s3630-112 True)
+(senateVoteResult s3630-112 True)
 (presidentSigned s3630-112)
 
 (isa s3630-112 Bill-Idea)
 (writtenSponsored s3630-112)
 (houseVoteResult s3630-112 True)
-(houseVoteResult s3630-112 True)
+(senateVoteResult s3630-112 True)
 
 (isa s1167-112 Bill-Idea)
 (writtenSponsored s1167-112)
@@ -5675,7 +5673,7 @@
 
 (isa s3254-112 Bill-Idea)
 (writtenSponsored s3254-112)
-(houseVoteResult s3254-112 True)
+(senateVoteResult s3254-112 True)
 
 (isa s1503-112 Bill-Idea)
 (writtenSponsored s1503-112)
@@ -5838,7 +5836,7 @@
 
 (isa s2343-112 Bill-Idea)
 (writtenSponsored s2343-112)
-(houseVoteResult s2343-112 True)
+(senateVoteResult s2343-112 True)
 
 (isa s301-112 Bill-Idea)
 (writtenSponsored s301-112)
@@ -5872,7 +5870,7 @@
 
 (isa s2388-112 Bill-Idea)
 (writtenSponsored s2388-112)
-(houseVoteResult s2388-112 True)
+(senateVoteResult s2388-112 True)
 
 (isa s1169-112 Bill-Idea)
 (writtenSponsored s1169-112)
@@ -5997,13 +5995,13 @@
 (isa s3642-112 Bill-Idea)
 (writtenSponsored s3642-112)
 (houseVoteResult s3642-112 True)
-(houseVoteResult s3642-112 True)
+(senateVoteResult s3642-112 True)
 (presidentSigned s3642-112)
 
 (isa s3642-112 Bill-Idea)
 (writtenSponsored s3642-112)
 (houseVoteResult s3642-112 True)
-(houseVoteResult s3642-112 True)
+(senateVoteResult s3642-112 True)
 
 (isa s2790-112 Bill-Idea)
 (writtenSponsored s2790-112)
@@ -6149,13 +6147,13 @@
 (isa s710-112 Bill-Idea)
 (writtenSponsored s710-112)
 (houseVoteResult s710-112 True)
-(houseVoteResult s710-112 True)
+(senateVoteResult s710-112 True)
 (presidentSigned s710-112)
 
 (isa s710-112 Bill-Idea)
 (writtenSponsored s710-112)
 (houseVoteResult s710-112 True)
-(houseVoteResult s710-112 True)
+(senateVoteResult s710-112 True)
 
 (isa s1781-112 Bill-Idea)
 (writtenSponsored s1781-112)
@@ -6180,7 +6178,7 @@
 
 (isa s99-112 Bill-Idea)
 (writtenSponsored s99-112)
-(houseVoteResult s99-112 True)
+(senateVoteResult s99-112 True)
 
 (isa s1920-112 Bill-Idea)
 (writtenSponsored s1920-112)
@@ -6236,13 +6234,13 @@
 (isa s3687-112 Bill-Idea)
 (writtenSponsored s3687-112)
 (houseVoteResult s3687-112 True)
-(houseVoteResult s3687-112 True)
+(senateVoteResult s3687-112 True)
 (presidentSigned s3687-112)
 
 (isa s3687-112 Bill-Idea)
 (writtenSponsored s3687-112)
 (houseVoteResult s3687-112 True)
-(houseVoteResult s3687-112 True)
+(senateVoteResult s3687-112 True)
 
 (isa s525-112 Bill-Idea)
 (writtenSponsored s525-112)
@@ -6370,13 +6368,13 @@
 (isa s743-112 Bill-Idea)
 (writtenSponsored s743-112)
 (houseVoteResult s743-112 True)
-(houseVoteResult s743-112 True)
+(senateVoteResult s743-112 True)
 (presidentSigned s743-112)
 
 (isa s743-112 Bill-Idea)
 (writtenSponsored s743-112)
 (houseVoteResult s743-112 True)
-(houseVoteResult s743-112 True)
+(senateVoteResult s743-112 True)
 
 (isa s2533-112 Bill-Idea)
 (writtenSponsored s2533-112)
@@ -6416,7 +6414,7 @@
 
 (isa s1974-112 Bill-Idea)
 (writtenSponsored s1974-112)
-(houseVoteResult s1974-112 True)
+(senateVoteResult s1974-112 True)
 
 (isa s3049-112 Bill-Idea)
 (writtenSponsored s3049-112)
@@ -6456,11 +6454,11 @@
 
 (isa s1721-112 Bill-Idea)
 (writtenSponsored s1721-112)
-(houseVoteResult s1721-112 True)
+(senateVoteResult s1721-112 True)
 
 (isa s3412-112 Bill-Idea)
 (writtenSponsored s3412-112)
-(houseVoteResult s3412-112 True)
+(senateVoteResult s3412-112 True)
 
 (isa s1345-112 Bill-Idea)
 (writtenSponsored s1345-112)
@@ -6660,13 +6658,13 @@
 (isa s1710-112 Bill-Idea)
 (writtenSponsored s1710-112)
 (houseVoteResult s1710-112 True)
-(houseVoteResult s1710-112 True)
+(senateVoteResult s1710-112 True)
 (presidentSigned s1710-112)
 
 (isa s1710-112 Bill-Idea)
 (writtenSponsored s1710-112)
 (houseVoteResult s1710-112 True)
-(houseVoteResult s1710-112 True)
+(senateVoteResult s1710-112 True)
 
 (isa s2195-112 Bill-Idea)
 (writtenSponsored s2195-112)
@@ -6731,13 +6729,13 @@
 (isa s1541-112 Bill-Idea)
 (writtenSponsored s1541-112)
 (houseVoteResult s1541-112 True)
-(houseVoteResult s1541-112 True)
+(senateVoteResult s1541-112 True)
 (presidentSigned s1541-112)
 
 (isa s1541-112 Bill-Idea)
 (writtenSponsored s1541-112)
 (houseVoteResult s1541-112 True)
-(houseVoteResult s1541-112 True)
+(senateVoteResult s1541-112 True)
 
 (isa s1787-112 Bill-Idea)
 (writtenSponsored s1787-112)
@@ -6750,7 +6748,7 @@
 
 (isa s140-112 Bill-Idea)
 (writtenSponsored s140-112)
-(houseVoteResult s140-112 True)
+(senateVoteResult s140-112 True)
 
 (isa s2330-112 Bill-Idea)
 (writtenSponsored s2330-112)
@@ -6973,7 +6971,7 @@
 
 (isa s1789-112 Bill-Idea)
 (writtenSponsored s1789-112)
-(houseVoteResult s1789-112 True)
+(senateVoteResult s1789-112 True)
 
 (isa s2930-112 Bill-Idea)
 (writtenSponsored s2930-112)
@@ -6983,7 +6981,7 @@
 
 (isa s388-112 Bill-Idea)
 (writtenSponsored s388-112)
-(houseVoteResult s388-112 True)
+(senateVoteResult s388-112 True)
 
 (isa s986-112 Bill-Idea)
 (writtenSponsored s986-112)
@@ -7345,13 +7343,13 @@
 (isa s3245-112 Bill-Idea)
 (writtenSponsored s3245-112)
 (houseVoteResult s3245-112 True)
-(houseVoteResult s3245-112 True)
+(senateVoteResult s3245-112 True)
 (presidentSigned s3245-112)
 
 (isa s3245-112 Bill-Idea)
 (writtenSponsored s3245-112)
 (houseVoteResult s3245-112 True)
-(houseVoteResult s3245-112 True)
+(senateVoteResult s3245-112 True)
 
 (isa s2397-112 Bill-Idea)
 (writtenSponsored s2397-112)
@@ -7442,7 +7440,7 @@
 
 (isa s114-112 Bill-Idea)
 (writtenSponsored s114-112)
-(houseVoteResult s114-112 True)
+(senateVoteResult s114-112 True)
 
 (isa s3084-112 Bill-Idea)
 (writtenSponsored s3084-112)
@@ -7557,7 +7555,7 @@
 
 (isa s1236-112 Bill-Idea)
 (writtenSponsored s1236-112)
-(houseVoteResult s1236-112 True)
+(senateVoteResult s1236-112 True)
 
 (isa s3105-112 Bill-Idea)
 (writtenSponsored s3105-112)
@@ -7678,7 +7676,7 @@
 
 (isa s2015-112 Bill-Idea)
 (writtenSponsored s2015-112)
-(houseVoteResult s2015-112 True)
+(senateVoteResult s2015-112 True)
 
 (isa s2227-112 Bill-Idea)
 (writtenSponsored s2227-112)
@@ -7811,7 +7809,7 @@
 
 (isa s3709-112 Bill-Idea)
 (writtenSponsored s3709-112)
-(houseVoteResult s3709-112 True)
+(senateVoteResult s3709-112 True)
 
 (isa s1862-112 Bill-Idea)
 (writtenSponsored s1862-112)
@@ -7864,13 +7862,13 @@
 (isa s1637-112 Bill-Idea)
 (writtenSponsored s1637-112)
 (houseVoteResult s1637-112 True)
-(houseVoteResult s1637-112 True)
+(senateVoteResult s1637-112 True)
 (presidentSigned s1637-112)
 
 (isa s1637-112 Bill-Idea)
 (writtenSponsored s1637-112)
 (houseVoteResult s1637-112 True)
-(houseVoteResult s1637-112 True)
+(senateVoteResult s1637-112 True)
 
 (isa s1405-112 Bill-Idea)
 (writtenSponsored s1405-112)
@@ -7941,13 +7939,13 @@
 (isa s655-112 Bill-Idea)
 (writtenSponsored s655-112)
 (houseVoteResult s655-112 True)
-(houseVoteResult s655-112 True)
+(senateVoteResult s655-112 True)
 (presidentSigned s655-112)
 
 (isa s655-112 Bill-Idea)
 (writtenSponsored s655-112)
 (houseVoteResult s655-112 True)
-(houseVoteResult s655-112 True)
+(senateVoteResult s655-112 True)
 
 (isa s1092-112 Bill-Idea)
 (writtenSponsored s1092-112)
@@ -7967,13 +7965,13 @@
 (isa s3193-112 Bill-Idea)
 (writtenSponsored s3193-112)
 (houseVoteResult s3193-112 True)
-(houseVoteResult s3193-112 True)
+(senateVoteResult s3193-112 True)
 (presidentSigned s3193-112)
 
 (isa s3193-112 Bill-Idea)
 (writtenSponsored s3193-112)
 (houseVoteResult s3193-112 True)
-(houseVoteResult s3193-112 True)
+(senateVoteResult s3193-112 True)
 
 (isa s231-112 Bill-Idea)
 (writtenSponsored s231-112)
@@ -7984,13 +7982,13 @@
 (isa s1639-112 Bill-Idea)
 (writtenSponsored s1639-112)
 (houseVoteResult s1639-112 True)
-(houseVoteResult s1639-112 True)
+(senateVoteResult s1639-112 True)
 (presidentSigned s1639-112)
 
 (isa s1639-112 Bill-Idea)
 (writtenSponsored s1639-112)
 (houseVoteResult s1639-112 True)
-(houseVoteResult s1639-112 True)
+(senateVoteResult s1639-112 True)
 
 (isa s1853-112 Bill-Idea)
 (writtenSponsored s1853-112)
@@ -8025,13 +8023,13 @@
 (isa s3363-112 Bill-Idea)
 (writtenSponsored s3363-112)
 (houseVoteResult s3363-112 True)
-(houseVoteResult s3363-112 True)
+(senateVoteResult s3363-112 True)
 (presidentSigned s3363-112)
 
 (isa s3363-112 Bill-Idea)
 (writtenSponsored s3363-112)
 (houseVoteResult s3363-112 True)
-(houseVoteResult s3363-112 True)
+(senateVoteResult s3363-112 True)
 
 (isa s1434-112 Bill-Idea)
 (writtenSponsored s1434-112)
@@ -8062,7 +8060,7 @@
 
 (isa s1296-112 Bill-Idea)
 (writtenSponsored s1296-112)
-(houseVoteResult s1296-112 True)
+(senateVoteResult s1296-112 True)
 
 (isa s2413-112 Bill-Idea)
 (writtenSponsored s2413-112)
@@ -8225,7 +8223,7 @@
 
 (isa s1239-112 Bill-Idea)
 (writtenSponsored s1239-112)
-(houseVoteResult s1239-112 True)
+(senateVoteResult s1239-112 True)
 
 (isa s1837-112 Bill-Idea)
 (writtenSponsored s1837-112)
@@ -8268,7 +8266,7 @@
 
 (isa s264-112 Bill-Idea)
 (writtenSponsored s264-112)
-(houseVoteResult s264-112 True)
+(senateVoteResult s264-112 True)
 
 (isa s3300-112 Bill-Idea)
 (writtenSponsored s3300-112)
@@ -8345,13 +8343,13 @@
 (isa s404-112 Bill-Idea)
 (writtenSponsored s404-112)
 (houseVoteResult s404-112 True)
-(houseVoteResult s404-112 True)
+(senateVoteResult s404-112 True)
 (presidentSigned s404-112)
 
 (isa s404-112 Bill-Idea)
 (writtenSponsored s404-112)
 (houseVoteResult s404-112 True)
-(houseVoteResult s404-112 True)
+(senateVoteResult s404-112 True)
 
 (isa s3560-112 Bill-Idea)
 (writtenSponsored s3560-112)
@@ -8403,7 +8401,7 @@
 
 (isa s897-112 Bill-Idea)
 (writtenSponsored s897-112)
-(houseVoteResult s897-112 True)
+(senateVoteResult s897-112 True)
 
 (isa s1806-112 Bill-Idea)
 (writtenSponsored s1806-112)
@@ -8419,18 +8417,18 @@
 
 (isa s1466-112 Bill-Idea)
 (writtenSponsored s1466-112)
-(houseVoteResult s1466-112 True)
+(senateVoteResult s1466-112 True)
 
 (isa s3331-112 Bill-Idea)
 (writtenSponsored s3331-112)
 (houseVoteResult s3331-112 True)
-(houseVoteResult s3331-112 True)
+(senateVoteResult s3331-112 True)
 (presidentSigned s3331-112)
 
 (isa s3331-112 Bill-Idea)
 (writtenSponsored s3331-112)
 (houseVoteResult s3331-112 True)
-(houseVoteResult s3331-112 True)
+(senateVoteResult s3331-112 True)
 
 (isa s1002-112 Bill-Idea)
 (writtenSponsored s1002-112)
@@ -8500,7 +8498,7 @@
 
 (isa s1855-112 Bill-Idea)
 (writtenSponsored s1855-112)
-(houseVoteResult s1855-112 True)
+(senateVoteResult s1855-112 True)
 
 (isa s2886-112 Bill-Idea)
 (writtenSponsored s2886-112)
@@ -8615,7 +8613,7 @@
 
 (isa s808-112 Bill-Idea)
 (writtenSponsored s808-112)
-(houseVoteResult s808-112 True)
+(senateVoteResult s808-112 True)
 
 (isa s450-112 Bill-Idea)
 (writtenSponsored s450-112)
@@ -8763,7 +8761,7 @@
 
 (isa s1299-112 Bill-Idea)
 (writtenSponsored s1299-112)
-(houseVoteResult s1299-112 True)
+(senateVoteResult s1299-112 True)
 
 (isa s2844-112 Bill-Idea)
 (writtenSponsored s2844-112)
@@ -8857,7 +8855,7 @@
 
 (isa s3715-112 Bill-Idea)
 (writtenSponsored s3715-112)
-(houseVoteResult s3715-112 True)
+(senateVoteResult s3715-112 True)
 
 (isa s685-112 Bill-Idea)
 (writtenSponsored s685-112)
@@ -8975,7 +8973,7 @@
 
 (isa s1421-112 Bill-Idea)
 (writtenSponsored s1421-112)
-(houseVoteResult s1421-112 True)
+(senateVoteResult s1421-112 True)
 
 (isa s3376-112 Bill-Idea)
 (writtenSponsored s3376-112)
@@ -9123,7 +9121,7 @@
 
 (isa s223-112 Bill-Idea)
 (writtenSponsored s223-112)
-(houseVoteResult s223-112 True)
+(senateVoteResult s223-112 True)
 
 (isa s2053-112 Bill-Idea)
 (writtenSponsored s2053-112)
@@ -9185,13 +9183,13 @@
 (isa s2038-112 Bill-Idea)
 (writtenSponsored s2038-112)
 (houseVoteResult s2038-112 True)
-(houseVoteResult s2038-112 True)
+(senateVoteResult s2038-112 True)
 (presidentSigned s2038-112)
 
 (isa s2038-112 Bill-Idea)
 (writtenSponsored s2038-112)
 (houseVoteResult s2038-112 True)
-(houseVoteResult s2038-112 True)
+(senateVoteResult s2038-112 True)
 
 (isa s2804-112 Bill-Idea)
 (writtenSponsored s2804-112)
@@ -9202,13 +9200,13 @@
 (isa s846-112 Bill-Idea)
 (writtenSponsored s846-112)
 (houseVoteResult s846-112 True)
-(houseVoteResult s846-112 True)
+(senateVoteResult s846-112 True)
 (presidentSigned s846-112)
 
 (isa s846-112 Bill-Idea)
 (writtenSponsored s846-112)
 (houseVoteResult s846-112 True)
-(houseVoteResult s846-112 True)
+(senateVoteResult s846-112 True)
 
 (isa s3545-112 Bill-Idea)
 (writtenSponsored s3545-112)
@@ -9227,7 +9225,7 @@
 
 (isa s3313-112 Bill-Idea)
 (writtenSponsored s3313-112)
-(houseVoteResult s3313-112 True)
+(senateVoteResult s3313-112 True)
 
 (isa s3121-112 Bill-Idea)
 (writtenSponsored s3121-112)
@@ -9310,13 +9308,13 @@
 (isa s270-112 Bill-Idea)
 (writtenSponsored s270-112)
 (houseVoteResult s270-112 True)
-(houseVoteResult s270-112 True)
+(senateVoteResult s270-112 True)
 (presidentSigned s270-112)
 
 (isa s270-112 Bill-Idea)
 (writtenSponsored s270-112)
 (houseVoteResult s270-112 True)
-(houseVoteResult s270-112 True)
+(senateVoteResult s270-112 True)
 
 (isa s1685-112 Bill-Idea)
 (writtenSponsored s1685-112)
@@ -9338,7 +9336,7 @@
 
 (isa s3314-112 Bill-Idea)
 (writtenSponsored s3314-112)
-(houseVoteResult s3314-112 True)
+(senateVoteResult s3314-112 True)
 
 (isa s1027-112 Bill-Idea)
 (writtenSponsored s1027-112)
@@ -9346,13 +9344,13 @@
 (isa s3542-112 Bill-Idea)
 (writtenSponsored s3542-112)
 (houseVoteResult s3542-112 True)
-(houseVoteResult s3542-112 True)
+(senateVoteResult s3542-112 True)
 (presidentSigned s3542-112)
 
 (isa s3542-112 Bill-Idea)
 (writtenSponsored s3542-112)
 (houseVoteResult s3542-112 True)
-(houseVoteResult s3542-112 True)
+(senateVoteResult s3542-112 True)
 
 (isa s2490-112 Bill-Idea)
 (writtenSponsored s2490-112)
@@ -9366,13 +9364,13 @@
 (isa s2009-112 Bill-Idea)
 (writtenSponsored s2009-112)
 (houseVoteResult s2009-112 True)
-(houseVoteResult s2009-112 True)
+(senateVoteResult s2009-112 True)
 (presidentSigned s2009-112)
 
 (isa s2009-112 Bill-Idea)
 (writtenSponsored s2009-112)
 (houseVoteResult s2009-112 True)
-(houseVoteResult s2009-112 True)
+(senateVoteResult s2009-112 True)
 
 (isa s279-112 Bill-Idea)
 (writtenSponsored s279-112)
@@ -9554,13 +9552,13 @@
 (isa s3510-112 Bill-Idea)
 (writtenSponsored s3510-112)
 (houseVoteResult s3510-112 True)
-(houseVoteResult s3510-112 True)
+(senateVoteResult s3510-112 True)
 (presidentSigned s3510-112)
 
 (isa s3510-112 Bill-Idea)
 (writtenSponsored s3510-112)
 (houseVoteResult s3510-112 True)
-(houseVoteResult s3510-112 True)
+(senateVoteResult s3510-112 True)
 
 (isa s480-112 Bill-Idea)
 (writtenSponsored s480-112)
@@ -9595,13 +9593,13 @@
 (isa s679-112 Bill-Idea)
 (writtenSponsored s679-112)
 (houseVoteResult s679-112 True)
-(houseVoteResult s679-112 True)
+(senateVoteResult s679-112 True)
 (presidentSigned s679-112)
 
 (isa s679-112 Bill-Idea)
 (writtenSponsored s679-112)
 (houseVoteResult s679-112 True)
-(houseVoteResult s679-112 True)
+(senateVoteResult s679-112 True)
 
 (isa s2851-112 Bill-Idea)
 (writtenSponsored s2851-112)
@@ -9632,7 +9630,7 @@
 
 (isa s3341-112 Bill-Idea)
 (writtenSponsored s3341-112)
-(houseVoteResult s3341-112 True)
+(senateVoteResult s3341-112 True)
 
 (isa s1416-112 Bill-Idea)
 (writtenSponsored s1416-112)
@@ -9670,13 +9668,13 @@
 (isa s3187-112 Bill-Idea)
 (writtenSponsored s3187-112)
 (houseVoteResult s3187-112 True)
-(houseVoteResult s3187-112 True)
+(senateVoteResult s3187-112 True)
 (presidentSigned s3187-112)
 
 (isa s3187-112 Bill-Idea)
 (writtenSponsored s3187-112)
 (houseVoteResult s3187-112 True)
-(houseVoteResult s3187-112 True)
+(senateVoteResult s3187-112 True)
 
 (isa s225-112 Bill-Idea)
 (writtenSponsored s225-112)
@@ -9723,13 +9721,13 @@
 (isa s683-112 Bill-Idea)
 (writtenSponsored s683-112)
 (houseVoteResult s683-112 True)
-(houseVoteResult s683-112 True)
+(senateVoteResult s683-112 True)
 (presidentSigned s683-112)
 
 (isa s683-112 Bill-Idea)
 (writtenSponsored s683-112)
 (houseVoteResult s683-112 True)
-(houseVoteResult s683-112 True)
+(senateVoteResult s683-112 True)
 
 (isa s1276-112 Bill-Idea)
 (writtenSponsored s1276-112)
@@ -9742,7 +9740,7 @@
 
 (isa s1612-112 Bill-Idea)
 (writtenSponsored s1612-112)
-(houseVoteResult s1612-112 True)
+(senateVoteResult s1612-112 True)
 
 (isa s1420-112 Bill-Idea)
 (writtenSponsored s1420-112)
@@ -9842,7 +9840,7 @@
 
 (isa s2090-112 Bill-Idea)
 (writtenSponsored s2090-112)
-(houseVoteResult s2090-112 True)
+(senateVoteResult s2090-112 True)
 
 (isa s1615-112 Bill-Idea)
 (writtenSponsored s1615-112)
@@ -9853,13 +9851,13 @@
 (isa s684-112 Bill-Idea)
 (writtenSponsored s684-112)
 (houseVoteResult s684-112 True)
-(houseVoteResult s684-112 True)
+(senateVoteResult s684-112 True)
 (presidentSigned s684-112)
 
 (isa s684-112 Bill-Idea)
 (writtenSponsored s684-112)
 (houseVoteResult s684-112 True)
-(houseVoteResult s684-112 True)
+(senateVoteResult s684-112 True)
 
 (isa s1271-112 Bill-Idea)
 (writtenSponsored s1271-112)
@@ -9951,13 +9949,13 @@
 (isa s1487-112 Bill-Idea)
 (writtenSponsored s1487-112)
 (houseVoteResult s1487-112 True)
-(houseVoteResult s1487-112 True)
+(senateVoteResult s1487-112 True)
 (presidentSigned s1487-112)
 
 (isa s1487-112 Bill-Idea)
 (writtenSponsored s1487-112)
 (houseVoteResult s1487-112 True)
-(houseVoteResult s1487-112 True)
+(senateVoteResult s1487-112 True)
 
 (isa s1641-112 Bill-Idea)
 (writtenSponsored s1641-112)
@@ -9991,7 +9989,7 @@
 
 (isa s1813-112 Bill-Idea)
 (writtenSponsored s1813-112)
-(houseVoteResult s1813-112 True)
+(senateVoteResult s1813-112 True)
 
 (isa s2498-112 Bill-Idea)
 (writtenSponsored s2498-112)
@@ -10002,13 +10000,13 @@
 (isa s278-112 Bill-Idea)
 (writtenSponsored s278-112)
 (houseVoteResult s278-112 True)
-(houseVoteResult s278-112 True)
+(senateVoteResult s278-112 True)
 (presidentSigned s278-112)
 
 (isa s278-112 Bill-Idea)
 (writtenSponsored s278-112)
 (houseVoteResult s278-112 True)
-(houseVoteResult s278-112 True)
+(senateVoteResult s278-112 True)
 
 (isa s2008-112 Bill-Idea)
 (writtenSponsored s2008-112)
@@ -10090,7 +10088,7 @@
 
 (isa s418-112 Bill-Idea)
 (writtenSponsored s418-112)
-(houseVoteResult s418-112 True)
+(senateVoteResult s418-112 True)
 
 (isa s2668-112 Bill-Idea)
 (writtenSponsored s2668-112)
@@ -10104,24 +10102,24 @@
 (isa s3315-112 Bill-Idea)
 (writtenSponsored s3315-112)
 (houseVoteResult s3315-112 True)
-(houseVoteResult s3315-112 True)
+(senateVoteResult s3315-112 True)
 (presidentSigned s3315-112)
 
 (isa s3315-112 Bill-Idea)
 (writtenSponsored s3315-112)
 (houseVoteResult s3315-112 True)
-(houseVoteResult s3315-112 True)
+(senateVoteResult s3315-112 True)
 
 (isa s285-112 Bill-Idea)
 (writtenSponsored s285-112)
 (houseVoteResult s285-112 True)
-(houseVoteResult s285-112 True)
+(senateVoteResult s285-112 True)
 (presidentSigned s285-112)
 
 (isa s285-112 Bill-Idea)
 (writtenSponsored s285-112)
 (houseVoteResult s285-112 True)
-(houseVoteResult s285-112 True)
+(senateVoteResult s285-112 True)
 
 (isa s3127-112 Bill-Idea)
 (writtenSponsored s3127-112)
@@ -10159,13 +10157,13 @@
 (isa s271-112 Bill-Idea)
 (writtenSponsored s271-112)
 (houseVoteResult s271-112 True)
-(houseVoteResult s271-112 True)
+(senateVoteResult s271-112 True)
 (presidentSigned s271-112)
 
 (isa s271-112 Bill-Idea)
 (writtenSponsored s271-112)
 (houseVoteResult s271-112 True)
-(houseVoteResult s271-112 True)
+(senateVoteResult s271-112 True)
 
 (isa s2001-112 Bill-Idea)
 (writtenSponsored s2001-112)
@@ -10185,7 +10183,7 @@
 (isa s2039-112 Bill-Idea)
 (writtenSponsored s2039-112)
 (houseVoteResult s2039-112 True)
-(houseVoteResult s2039-112 True)
+(senateVoteResult s2039-112 True)
 
 (isa s1648-112 Bill-Idea)
 (writtenSponsored s1648-112)
@@ -10535,13 +10533,13 @@
 (isa s1959-112 Bill-Idea)
 (writtenSponsored s1959-112)
 (houseVoteResult s1959-112 True)
-(houseVoteResult s1959-112 True)
+(senateVoteResult s1959-112 True)
 (presidentSigned s1959-112)
 
 (isa s1959-112 Bill-Idea)
 (writtenSponsored s1959-112)
 (houseVoteResult s1959-112 True)
-(houseVoteResult s1959-112 True)
+(senateVoteResult s1959-112 True)
 
 (isa s1165-112 Bill-Idea)
 (writtenSponsored s1165-112)
@@ -10654,13 +10652,13 @@
 (isa s3454-112 Bill-Idea)
 (writtenSponsored s3454-112)
 (houseVoteResult s3454-112 True)
-(houseVoteResult s3454-112 True)
+(senateVoteResult s3454-112 True)
 (presidentSigned s3454-112)
 
 (isa s3454-112 Bill-Idea)
 (writtenSponsored s3454-112)
 (houseVoteResult s3454-112 True)
-(houseVoteResult s3454-112 True)
+(senateVoteResult s3454-112 True)
 
 (isa s1303-112 Bill-Idea)
 (writtenSponsored s1303-112)
@@ -10671,13 +10669,13 @@
 (isa s3666-112 Bill-Idea)
 (writtenSponsored s3666-112)
 (houseVoteResult s3666-112 True)
-(houseVoteResult s3666-112 True)
+(senateVoteResult s3666-112 True)
 (presidentSigned s3666-112)
 
 (isa s3666-112 Bill-Idea)
 (writtenSponsored s3666-112)
 (houseVoteResult s3666-112 True)
-(houseVoteResult s3666-112 True)
+(senateVoteResult s3666-112 True)
 
 (isa s1555-112 Bill-Idea)
 (writtenSponsored s1555-112)
@@ -10685,13 +10683,13 @@
 (isa s3202-112 Bill-Idea)
 (writtenSponsored s3202-112)
 (houseVoteResult s3202-112 True)
-(houseVoteResult s3202-112 True)
+(senateVoteResult s3202-112 True)
 (presidentSigned s3202-112)
 
 (isa s3202-112 Bill-Idea)
 (writtenSponsored s3202-112)
 (houseVoteResult s3202-112 True)
-(houseVoteResult s3202-112 True)
+(senateVoteResult s3202-112 True)
 
 (isa s392-112 Bill-Idea)
 (writtenSponsored s392-112)
@@ -10719,7 +10717,7 @@
 
 (isa s1793-112 Bill-Idea)
 (writtenSponsored s1793-112)
-(houseVoteResult s1793-112 True)
+(senateVoteResult s1793-112 True)
 
 (isa s702-112 Bill-Idea)
 (writtenSponsored s702-112)
@@ -10798,7 +10796,7 @@
 
 (isa s1794-112 Bill-Idea)
 (writtenSponsored s1794-112)
-(houseVoteResult s1794-112 True)
+(senateVoteResult s1794-112 True)
 
 (isa s153-112 Bill-Idea)
 (writtenSponsored s153-112)
@@ -10980,13 +10978,13 @@
 (isa s1335-112 Bill-Idea)
 (writtenSponsored s1335-112)
 (houseVoteResult s1335-112 True)
-(houseVoteResult s1335-112 True)
+(senateVoteResult s1335-112 True)
 (presidentSigned s1335-112)
 
 (isa s1335-112 Bill-Idea)
 (writtenSponsored s1335-112)
 (houseVoteResult s1335-112 True)
-(houseVoteResult s1335-112 True)
+(senateVoteResult s1335-112 True)
 
 (isa s3462-112 Bill-Idea)
 (writtenSponsored s3462-112)
@@ -11041,7 +11039,7 @@
 
 (isa s333-112 Bill-Idea)
 (writtenSponsored s333-112)
-(houseVoteResult s333-112 True)
+(senateVoteResult s333-112 True)
 
 (isa s3091-112 Bill-Idea)
 (writtenSponsored s3091-112)
@@ -11084,7 +11082,7 @@
 
 (isa s1958-112 Bill-Idea)
 (writtenSponsored s1958-112)
-(houseVoteResult s1958-112 True)
+(senateVoteResult s1958-112 True)
 
 (isa s3257-112 Bill-Idea)
 (writtenSponsored s3257-112)
@@ -11137,7 +11135,7 @@
 (isa s3250-112 Bill-Idea)
 (writtenSponsored s3250-112)
 (houseVoteResult s3250-112 True)
-(houseVoteResult s3250-112 True)
+(senateVoteResult s3250-112 True)
 
 (isa s2382-112 Bill-Idea)
 (writtenSponsored s2382-112)
@@ -11183,7 +11181,7 @@
 
 (isa s334-112 Bill-Idea)
 (writtenSponsored s334-112)
-(houseVoteResult s334-112 True)
+(senateVoteResult s334-112 True)
 
 (isa s3096-112 Bill-Idea)
 (writtenSponsored s3096-112)
@@ -11256,7 +11254,7 @@
 
 (isa s302-112 Bill-Idea)
 (writtenSponsored s302-112)
-(houseVoteResult s302-112 True)
+(senateVoteResult s302-112 True)
 
 (isa s2172-112 Bill-Idea)
 (writtenSponsored s2172-112)
@@ -11300,13 +11298,13 @@
 (isa s1956-112 Bill-Idea)
 (writtenSponsored s1956-112)
 (houseVoteResult s1956-112 True)
-(houseVoteResult s1956-112 True)
+(senateVoteResult s1956-112 True)
 (presidentSigned s1956-112)
 
 (isa s1956-112 Bill-Idea)
 (writtenSponsored s1956-112)
 (houseVoteResult s1956-112 True)
-(houseVoteResult s1956-112 True)
+(senateVoteResult s1956-112 True)
 
 (isa s759-112 Bill-Idea)
 (writtenSponsored s759-112)
@@ -11328,7 +11326,7 @@
 
 (isa s23-112 Bill-Idea)
 (writtenSponsored s23-112)
-(houseVoteResult s23-112 True)
+(senateVoteResult s23-112 True)
 
 (isa s1394-112 Bill-Idea)
 (writtenSponsored s1394-112)
@@ -11363,13 +11361,13 @@
 (isa s3261-112 Bill-Idea)
 (writtenSponsored s3261-112)
 (houseVoteResult s3261-112 True)
-(houseVoteResult s3261-112 True)
+(senateVoteResult s3261-112 True)
 (presidentSigned s3261-112)
 
 (isa s3261-112 Bill-Idea)
 (writtenSponsored s3261-112)
 (houseVoteResult s3261-112 True)
-(houseVoteResult s3261-112 True)
+(senateVoteResult s3261-112 True)
 
 (isa s2181-112 Bill-Idea)
 (writtenSponsored s2181-112)
@@ -11727,7 +11725,7 @@
 
 (isa s1759-112 Bill-Idea)
 (writtenSponsored s1759-112)
-(houseVoteResult s1759-112 True)
+(senateVoteResult s1759-112 True)
 
 (isa s3658-112 Bill-Idea)
 (writtenSponsored s3658-112)
@@ -11743,7 +11741,7 @@
 
 (isa s1792-112 Bill-Idea)
 (writtenSponsored s1792-112)
-(houseVoteResult s1792-112 True)
+(senateVoteResult s1792-112 True)
 
 (isa s969-112 Bill-Idea)
 (writtenSponsored s969-112)
@@ -11777,7 +11775,7 @@
 
 (isa s3667-112 Bill-Idea)
 (writtenSponsored s3667-112)
-(houseVoteResult s3667-112 True)
+(senateVoteResult s3667-112 True)
 
 (isa s2587-112 Bill-Idea)
 (writtenSponsored s2587-112)
@@ -11788,13 +11786,13 @@
 (isa s1302-112 Bill-Idea)
 (writtenSponsored s1302-112)
 (houseVoteResult s1302-112 True)
-(houseVoteResult s1302-112 True)
+(senateVoteResult s1302-112 True)
 (presidentSigned s1302-112)
 
 (isa s1302-112 Bill-Idea)
 (writtenSponsored s1302-112)
 (houseVoteResult s1302-112 True)
-(houseVoteResult s1302-112 True)
+(senateVoteResult s1302-112 True)
 
 (isa s3031-112 Bill-Idea)
 (writtenSponsored s3031-112)
@@ -11921,13 +11919,13 @@
 (isa hr2467-112 Bill-Idea)
 (writtenSponsored hr2467-112)
 (houseVoteResult hr2467-112 True)
-(houseVoteResult hr2467-112 True)
+(senateVoteResult hr2467-112 True)
 (presidentSigned hr2467-112)
 
 (isa hr2467-112 Bill-Idea)
 (writtenSponsored hr2467-112)
 (houseVoteResult hr2467-112 True)
-(houseVoteResult hr2467-112 True)
+(senateVoteResult hr2467-112 True)
 
 (isa hr2655-112 Bill-Idea)
 (writtenSponsored hr2655-112)
@@ -12013,13 +12011,13 @@
 (isa hr2838-112 Bill-Idea)
 (writtenSponsored hr2838-112)
 (houseVoteResult hr2838-112 True)
-(houseVoteResult hr2838-112 True)
+(senateVoteResult hr2838-112 True)
 (presidentSigned hr2838-112)
 
 (isa hr2838-112 Bill-Idea)
 (writtenSponsored hr2838-112)
 (houseVoteResult hr2838-112 True)
-(houseVoteResult hr2838-112 True)
+(senateVoteResult hr2838-112 True)
 
 (isa hr2004-112 Bill-Idea)
 (writtenSponsored hr2004-112)
@@ -12042,13 +12040,13 @@
 (isa hr754-112 Bill-Idea)
 (writtenSponsored hr754-112)
 (houseVoteResult hr754-112 True)
-(houseVoteResult hr754-112 True)
+(senateVoteResult hr754-112 True)
 (presidentSigned hr754-112)
 
 (isa hr754-112 Bill-Idea)
 (writtenSponsored hr754-112)
 (houseVoteResult hr754-112 True)
-(houseVoteResult hr754-112 True)
+(senateVoteResult hr754-112 True)
 
 (isa hr4307-112 Bill-Idea)
 (writtenSponsored hr4307-112)
@@ -12297,13 +12295,13 @@
 (isa hr3319-112 Bill-Idea)
 (writtenSponsored hr3319-112)
 (houseVoteResult hr3319-112 True)
-(houseVoteResult hr3319-112 True)
+(senateVoteResult hr3319-112 True)
 (presidentSigned hr3319-112)
 
 (isa hr3319-112 Bill-Idea)
 (writtenSponsored hr3319-112)
 (houseVoteResult hr3319-112 True)
-(houseVoteResult hr3319-112 True)
+(senateVoteResult hr3319-112 True)
 
 (isa hr4900-112 Bill-Idea)
 (writtenSponsored hr4900-112)
@@ -12348,13 +12346,13 @@
 (isa hr3321-112 Bill-Idea)
 (writtenSponsored hr3321-112)
 (houseVoteResult hr3321-112 True)
-(houseVoteResult hr3321-112 True)
+(senateVoteResult hr3321-112 True)
 (presidentSigned hr3321-112)
 
 (isa hr3321-112 Bill-Idea)
 (writtenSponsored hr3321-112)
 (houseVoteResult hr3321-112 True)
-(houseVoteResult hr3321-112 True)
+(senateVoteResult hr3321-112 True)
 
 (isa hr6461-112 Bill-Idea)
 (writtenSponsored hr6461-112)
@@ -12371,13 +12369,13 @@
 (isa hr765-112 Bill-Idea)
 (writtenSponsored hr765-112)
 (houseVoteResult hr765-112 True)
-(houseVoteResult hr765-112 True)
+(senateVoteResult hr765-112 True)
 (presidentSigned hr765-112)
 
 (isa hr765-112 Bill-Idea)
 (writtenSponsored hr765-112)
 (houseVoteResult hr765-112 True)
-(houseVoteResult hr765-112 True)
+(senateVoteResult hr765-112 True)
 
 (isa hr6005-112 Bill-Idea)
 (writtenSponsored hr6005-112)
@@ -12508,13 +12506,13 @@
 (isa hr1845-112 Bill-Idea)
 (writtenSponsored hr1845-112)
 (houseVoteResult hr1845-112 True)
-(houseVoteResult hr1845-112 True)
+(senateVoteResult hr1845-112 True)
 (presidentSigned hr1845-112)
 
 (isa hr1845-112 Bill-Idea)
 (writtenSponsored hr1845-112)
 (houseVoteResult hr1845-112 True)
-(houseVoteResult hr1845-112 True)
+(senateVoteResult hr1845-112 True)
 
 (isa hr158-112 Bill-Idea)
 (writtenSponsored hr158-112)
@@ -12522,13 +12520,13 @@
 (isa hr1079-112 Bill-Idea)
 (writtenSponsored hr1079-112)
 (houseVoteResult hr1079-112 True)
-(houseVoteResult hr1079-112 True)
+(senateVoteResult hr1079-112 True)
 (presidentSigned hr1079-112)
 
 (isa hr1079-112 Bill-Idea)
 (writtenSponsored hr1079-112)
 (houseVoteResult hr1079-112 True)
-(houseVoteResult hr1079-112 True)
+(senateVoteResult hr1079-112 True)
 
 (isa hr964-112 Bill-Idea)
 (writtenSponsored hr964-112)
@@ -12570,13 +12568,13 @@
 (isa hr2608-112 Bill-Idea)
 (writtenSponsored hr2608-112)
 (houseVoteResult hr2608-112 True)
-(houseVoteResult hr2608-112 True)
+(senateVoteResult hr2608-112 True)
 (presidentSigned hr2608-112)
 
 (isa hr2608-112 Bill-Idea)
 (writtenSponsored hr2608-112)
 (houseVoteResult hr2608-112 True)
-(houseVoteResult hr2608-112 True)
+(senateVoteResult hr2608-112 True)
 
 (isa hr731-112 Bill-Idea)
 (writtenSponsored hr731-112)
@@ -12677,13 +12675,13 @@
 (isa hr2061-112 Bill-Idea)
 (writtenSponsored hr2061-112)
 (houseVoteResult hr2061-112 True)
-(houseVoteResult hr2061-112 True)
+(senateVoteResult hr2061-112 True)
 (presidentSigned hr2061-112)
 
 (isa hr2061-112 Bill-Idea)
 (writtenSponsored hr2061-112)
 (houseVoteResult hr2061-112 True)
-(houseVoteResult hr2061-112 True)
+(senateVoteResult hr2061-112 True)
 
 (isa hr2253-112 Bill-Idea)
 (writtenSponsored hr2253-112)
@@ -12715,13 +12713,13 @@
 (isa hr5872-112 Bill-Idea)
 (writtenSponsored hr5872-112)
 (houseVoteResult hr5872-112 True)
-(houseVoteResult hr5872-112 True)
+(senateVoteResult hr5872-112 True)
 (presidentSigned hr5872-112)
 
 (isa hr5872-112 Bill-Idea)
 (writtenSponsored hr5872-112)
 (houseVoteResult hr5872-112 True)
-(houseVoteResult hr5872-112 True)
+(senateVoteResult hr5872-112 True)
 
 (isa hr2891-112 Bill-Idea)
 (writtenSponsored hr2891-112)
@@ -12792,13 +12790,13 @@
 (isa hr8-112 Bill-Idea)
 (writtenSponsored hr8-112)
 (houseVoteResult hr8-112 True)
-(houseVoteResult hr8-112 True)
+(senateVoteResult hr8-112 True)
 (presidentSigned hr8-112)
 
 (isa hr8-112 Bill-Idea)
 (writtenSponsored hr8-112)
 (houseVoteResult hr8-112 True)
-(houseVoteResult hr8-112 True)
+(senateVoteResult hr8-112 True)
 
 (isa hr2630-112 Bill-Idea)
 (writtenSponsored hr2630-112)
@@ -12867,13 +12865,13 @@
 (isa hr4365-112 Bill-Idea)
 (writtenSponsored hr4365-112)
 (houseVoteResult hr4365-112 True)
-(houseVoteResult hr4365-112 True)
+(senateVoteResult hr4365-112 True)
 (presidentSigned hr4365-112)
 
 (isa hr4365-112 Bill-Idea)
 (writtenSponsored hr4365-112)
 (houseVoteResult hr4365-112 True)
-(houseVoteResult hr4365-112 True)
+(senateVoteResult hr4365-112 True)
 
 (isa hr736-112 Bill-Idea)
 (writtenSponsored hr736-112)
@@ -12921,7 +12919,7 @@
 (isa hr1-112 Bill-Idea)
 (writtenSponsored hr1-112)
 (houseVoteResult hr1-112 True)
-(houseVoteResult hr1-112 True)
+(senateVoteResult hr1-112 True)
 
 (isa hr169-112 Bill-Idea)
 (writtenSponsored hr169-112)
@@ -12971,13 +12969,13 @@
 (isa hr2606-112 Bill-Idea)
 (writtenSponsored hr2606-112)
 (houseVoteResult hr2606-112 True)
-(houseVoteResult hr2606-112 True)
+(senateVoteResult hr2606-112 True)
 (presidentSigned hr2606-112)
 
 (isa hr2606-112 Bill-Idea)
 (writtenSponsored hr2606-112)
 (houseVoteResult hr2606-112 True)
-(houseVoteResult hr2606-112 True)
+(senateVoteResult hr2606-112 True)
 
 (isa hr5047-112 Bill-Idea)
 (writtenSponsored hr5047-112)
@@ -13043,13 +13041,13 @@
 (isa hr6060-112 Bill-Idea)
 (writtenSponsored hr6060-112)
 (houseVoteResult hr6060-112 True)
-(houseVoteResult hr6060-112 True)
+(senateVoteResult hr6060-112 True)
 (presidentSigned hr6060-112)
 
 (isa hr6060-112 Bill-Idea)
 (writtenSponsored hr6060-112)
 (houseVoteResult hr6060-112 True)
-(houseVoteResult hr6060-112 True)
+(senateVoteResult hr6060-112 True)
 
 (isa hr4737-112 Bill-Idea)
 (writtenSponsored hr4737-112)
@@ -13305,13 +13303,13 @@
 (isa hr4105-112 Bill-Idea)
 (writtenSponsored hr4105-112)
 (houseVoteResult hr4105-112 True)
-(houseVoteResult hr4105-112 True)
+(senateVoteResult hr4105-112 True)
 (presidentSigned hr4105-112)
 
 (isa hr4105-112 Bill-Idea)
 (writtenSponsored hr4105-112)
 (houseVoteResult hr4105-112 True)
-(houseVoteResult hr4105-112 True)
+(senateVoteResult hr4105-112 True)
 
 (isa hr556-112 Bill-Idea)
 (writtenSponsored hr556-112)
@@ -13466,13 +13464,13 @@
 (isa hr6655-112 Bill-Idea)
 (writtenSponsored hr6655-112)
 (houseVoteResult hr6655-112 True)
-(houseVoteResult hr6655-112 True)
+(senateVoteResult hr6655-112 True)
 (presidentSigned hr6655-112)
 
 (isa hr6655-112 Bill-Idea)
 (writtenSponsored hr6655-112)
 (houseVoteResult hr6655-112 True)
-(houseVoteResult hr6655-112 True)
+(senateVoteResult hr6655-112 True)
 
 (isa hr3115-112 Bill-Idea)
 (writtenSponsored hr3115-112)
@@ -13689,13 +13687,13 @@
 (isa hr2005-112 Bill-Idea)
 (writtenSponsored hr2005-112)
 (houseVoteResult hr2005-112 True)
-(houseVoteResult hr2005-112 True)
+(senateVoteResult hr2005-112 True)
 (presidentSigned hr2005-112)
 
 (isa hr2005-112 Bill-Idea)
 (writtenSponsored hr2005-112)
 (houseVoteResult hr2005-112 True)
-(houseVoteResult hr2005-112 True)
+(senateVoteResult hr2005-112 True)
 
 (isa hr2839-112 Bill-Idea)
 (writtenSponsored hr2839-112)
@@ -13788,13 +13786,13 @@
 (isa hr3772-112 Bill-Idea)
 (writtenSponsored hr3772-112)
 (houseVoteResult hr3772-112 True)
-(houseVoteResult hr3772-112 True)
+(senateVoteResult hr3772-112 True)
 (presidentSigned hr3772-112)
 
 (isa hr3772-112 Bill-Idea)
 (writtenSponsored hr3772-112)
 (houseVoteResult hr3772-112 True)
-(houseVoteResult hr3772-112 True)
+(senateVoteResult hr3772-112 True)
 
 (isa hr6200-112 Bill-Idea)
 (writtenSponsored hr6200-112)
@@ -13961,13 +13959,13 @@
 (isa hr4158-112 Bill-Idea)
 (writtenSponsored hr4158-112)
 (houseVoteResult hr4158-112 True)
-(houseVoteResult hr4158-112 True)
+(senateVoteResult hr4158-112 True)
 (presidentSigned hr4158-112)
 
 (isa hr4158-112 Bill-Idea)
 (writtenSponsored hr4158-112)
 (houseVoteResult hr4158-112 True)
-(houseVoteResult hr4158-112 True)
+(senateVoteResult hr4158-112 True)
 
 (isa hr3719-112 Bill-Idea)
 (writtenSponsored hr3719-112)
@@ -13996,13 +13994,13 @@
 (isa hr2056-112 Bill-Idea)
 (writtenSponsored hr2056-112)
 (houseVoteResult hr2056-112 True)
-(houseVoteResult hr2056-112 True)
+(senateVoteResult hr2056-112 True)
 (presidentSigned hr2056-112)
 
 (isa hr2056-112 Bill-Idea)
 (writtenSponsored hr2056-112)
 (houseVoteResult hr2056-112 True)
-(houseVoteResult hr2056-112 True)
+(senateVoteResult hr2056-112 True)
 
 (isa hr5273-112 Bill-Idea)
 (writtenSponsored hr5273-112)
@@ -14093,13 +14091,13 @@
 (isa hr1627-112 Bill-Idea)
 (writtenSponsored hr1627-112)
 (houseVoteResult hr1627-112 True)
-(houseVoteResult hr1627-112 True)
+(senateVoteResult hr1627-112 True)
 (presidentSigned hr1627-112)
 
 (isa hr1627-112 Bill-Idea)
 (writtenSponsored hr1627-112)
 (houseVoteResult hr1627-112 True)
-(houseVoteResult hr1627-112 True)
+(senateVoteResult hr1627-112 True)
 
 (isa hr5287-112 Bill-Idea)
 (writtenSponsored hr5287-112)
@@ -14203,13 +14201,13 @@
 (isa hr2297-112 Bill-Idea)
 (writtenSponsored hr2297-112)
 (houseVoteResult hr2297-112 True)
-(houseVoteResult hr2297-112 True)
+(senateVoteResult hr2297-112 True)
 (presidentSigned hr2297-112)
 
 (isa hr2297-112 Bill-Idea)
 (writtenSponsored hr2297-112)
 (houseVoteResult hr2297-112 True)
-(houseVoteResult hr2297-112 True)
+(senateVoteResult hr2297-112 True)
 
 (isa hr1076-112 Bill-Idea)
 (writtenSponsored hr1076-112)
@@ -14315,13 +14313,13 @@
 (isa hr1843-112 Bill-Idea)
 (writtenSponsored hr1843-112)
 (houseVoteResult hr1843-112 True)
-(houseVoteResult hr1843-112 True)
+(senateVoteResult hr1843-112 True)
 (presidentSigned hr1843-112)
 
 (isa hr1843-112 Bill-Idea)
 (writtenSponsored hr1843-112)
 (houseVoteResult hr1843-112 True)
-(houseVoteResult hr1843-112 True)
+(senateVoteResult hr1843-112 True)
 
 (isa hr3728-112 Bill-Idea)
 (writtenSponsored hr3728-112)
@@ -14332,13 +14330,13 @@
 (isa hr398-112 Bill-Idea)
 (writtenSponsored hr398-112)
 (houseVoteResult hr398-112 True)
-(houseVoteResult hr398-112 True)
+(senateVoteResult hr398-112 True)
 (presidentSigned hr398-112)
 
 (isa hr398-112 Bill-Idea)
 (writtenSponsored hr398-112)
 (houseVoteResult hr398-112 True)
-(houseVoteResult hr398-112 True)
+(senateVoteResult hr398-112 True)
 
 (isa hr996-112 Bill-Idea)
 (writtenSponsored hr996-112)
@@ -14370,13 +14368,13 @@
 (isa hr1272-112 Bill-Idea)
 (writtenSponsored hr1272-112)
 (houseVoteResult hr1272-112 True)
-(houseVoteResult hr1272-112 True)
+(senateVoteResult hr1272-112 True)
 (presidentSigned hr1272-112)
 
 (isa hr1272-112 Bill-Idea)
 (writtenSponsored hr1272-112)
 (houseVoteResult hr1272-112 True)
-(houseVoteResult hr1272-112 True)
+(senateVoteResult hr1272-112 True)
 
 (isa hr353-112 Bill-Idea)
 (writtenSponsored hr353-112)
@@ -14402,13 +14400,13 @@
 (isa hr6433-112 Bill-Idea)
 (writtenSponsored hr6433-112)
 (houseVoteResult hr6433-112 True)
-(houseVoteResult hr6433-112 True)
+(senateVoteResult hr6433-112 True)
 (presidentSigned hr6433-112)
 
 (isa hr6433-112 Bill-Idea)
 (writtenSponsored hr6433-112)
 (houseVoteResult hr6433-112 True)
-(houseVoteResult hr6433-112 True)
+(senateVoteResult hr6433-112 True)
 
 (isa hr2093-112 Bill-Idea)
 (writtenSponsored hr2093-112)
@@ -14587,13 +14585,13 @@
 (isa hr1423-112 Bill-Idea)
 (writtenSponsored hr1423-112)
 (houseVoteResult hr1423-112 True)
-(houseVoteResult hr1423-112 True)
+(senateVoteResult hr1423-112 True)
 (presidentSigned hr1423-112)
 
 (isa hr1423-112 Bill-Idea)
 (writtenSponsored hr1423-112)
 (houseVoteResult hr1423-112 True)
-(houseVoteResult hr1423-112 True)
+(senateVoteResult hr1423-112 True)
 
 (isa hr502-112 Bill-Idea)
 (writtenSponsored hr502-112)
@@ -14702,13 +14700,13 @@
 (isa hr470-112 Bill-Idea)
 (writtenSponsored hr470-112)
 (houseVoteResult hr470-112 True)
-(houseVoteResult hr470-112 True)
+(senateVoteResult hr470-112 True)
 (presidentSigned hr470-112)
 
 (isa hr470-112 Bill-Idea)
 (writtenSponsored hr470-112)
 (houseVoteResult hr470-112 True)
-(houseVoteResult hr470-112 True)
+(senateVoteResult hr470-112 True)
 
 (isa hr1551-112 Bill-Idea)
 (writtenSponsored hr1551-112)
@@ -14752,13 +14750,13 @@
 (isa hr2112-112 Bill-Idea)
 (writtenSponsored hr2112-112)
 (houseVoteResult hr2112-112 True)
-(houseVoteResult hr2112-112 True)
+(senateVoteResult hr2112-112 True)
 (presidentSigned hr2112-112)
 
 (isa hr2112-112 Bill-Idea)
 (writtenSponsored hr2112-112)
 (houseVoteResult hr2112-112 True)
-(houseVoteResult hr2112-112 True)
+(senateVoteResult hr2112-112 True)
 
 (isa hr5753-112 Bill-Idea)
 (writtenSponsored hr5753-112)
@@ -14963,13 +14961,13 @@
 (isa hr6328-112 Bill-Idea)
 (writtenSponsored hr6328-112)
 (houseVoteResult hr6328-112 True)
-(houseVoteResult hr6328-112 True)
+(senateVoteResult hr6328-112 True)
 (presidentSigned hr6328-112)
 
 (isa hr6328-112 Bill-Idea)
 (writtenSponsored hr6328-112)
 (houseVoteResult hr6328-112 True)
-(houseVoteResult hr6328-112 True)
+(senateVoteResult hr6328-112 True)
 
 (isa hr448-112 Bill-Idea)
 (writtenSponsored hr448-112)
@@ -15096,24 +15094,24 @@
 (isa hr1560-112 Bill-Idea)
 (writtenSponsored hr1560-112)
 (houseVoteResult hr1560-112 True)
-(houseVoteResult hr1560-112 True)
+(senateVoteResult hr1560-112 True)
 (presidentSigned hr1560-112)
 
 (isa hr1560-112 Bill-Idea)
 (writtenSponsored hr1560-112)
 (houseVoteResult hr1560-112 True)
-(houseVoteResult hr1560-112 True)
+(senateVoteResult hr1560-112 True)
 
 (isa hr3237-112 Bill-Idea)
 (writtenSponsored hr3237-112)
 (houseVoteResult hr3237-112 True)
-(houseVoteResult hr3237-112 True)
+(senateVoteResult hr3237-112 True)
 (presidentSigned hr3237-112)
 
 (isa hr3237-112 Bill-Idea)
 (writtenSponsored hr3237-112)
 (houseVoteResult hr3237-112 True)
-(houseVoteResult hr3237-112 True)
+(senateVoteResult hr3237-112 True)
 
 (isa hr2578-112 Bill-Idea)
 (writtenSponsored hr2578-112)
@@ -15189,24 +15187,24 @@
 (isa hr6570-112 Bill-Idea)
 (writtenSponsored hr6570-112)
 (houseVoteResult hr6570-112 True)
-(houseVoteResult hr6570-112 True)
+(senateVoteResult hr6570-112 True)
 (presidentSigned hr6570-112)
 
 (isa hr6570-112 Bill-Idea)
 (writtenSponsored hr6570-112)
 (houseVoteResult hr6570-112 True)
-(houseVoteResult hr6570-112 True)
+(senateVoteResult hr6570-112 True)
 
 (isa hr674-112 Bill-Idea)
 (writtenSponsored hr674-112)
 (houseVoteResult hr674-112 True)
-(houseVoteResult hr674-112 True)
+(senateVoteResult hr674-112 True)
 (presidentSigned hr674-112)
 
 (isa hr674-112 Bill-Idea)
 (writtenSponsored hr674-112)
 (houseVoteResult hr674-112 True)
-(houseVoteResult hr674-112 True)
+(senateVoteResult hr674-112 True)
 
 (isa hr4227-112 Bill-Idea)
 (writtenSponsored hr4227-112)
@@ -15310,13 +15308,13 @@
 (isa hr3801-112 Bill-Idea)
 (writtenSponsored hr3801-112)
 (houseVoteResult hr3801-112 True)
-(houseVoteResult hr3801-112 True)
+(senateVoteResult hr3801-112 True)
 (presidentSigned hr3801-112)
 
 (isa hr3801-112 Bill-Idea)
 (writtenSponsored hr3801-112)
 (houseVoteResult hr3801-112 True)
-(houseVoteResult hr3801-112 True)
+(senateVoteResult hr3801-112 True)
 
 (isa hr479-112 Bill-Idea)
 (writtenSponsored hr479-112)
@@ -15509,13 +15507,13 @@
 (isa hr886-112 Bill-Idea)
 (writtenSponsored hr886-112)
 (houseVoteResult hr886-112 True)
-(houseVoteResult hr886-112 True)
+(senateVoteResult hr886-112 True)
 (presidentSigned hr886-112)
 
 (isa hr886-112 Bill-Idea)
 (writtenSponsored hr886-112)
 (houseVoteResult hr886-112 True)
-(houseVoteResult hr886-112 True)
+(senateVoteResult hr886-112 True)
 
 (isa hr288-112 Bill-Idea)
 (writtenSponsored hr288-112)
@@ -15630,13 +15628,13 @@
 (isa hr6375-112 Bill-Idea)
 (writtenSponsored hr6375-112)
 (houseVoteResult hr6375-112 True)
-(houseVoteResult hr6375-112 True)
+(senateVoteResult hr6375-112 True)
 (presidentSigned hr6375-112)
 
 (isa hr6375-112 Bill-Idea)
 (writtenSponsored hr6375-112)
 (houseVoteResult hr6375-112 True)
-(houseVoteResult hr6375-112 True)
+(senateVoteResult hr6375-112 True)
 
 (isa hr3607-112 Bill-Idea)
 (writtenSponsored hr3607-112)
@@ -15653,13 +15651,13 @@
 (isa hr3263-112 Bill-Idea)
 (writtenSponsored hr3263-112)
 (houseVoteResult hr3263-112 True)
-(houseVoteResult hr3263-112 True)
+(senateVoteResult hr3263-112 True)
 (presidentSigned hr3263-112)
 
 (isa hr3263-112 Bill-Idea)
 (writtenSponsored hr3263-112)
 (houseVoteResult hr3263-112 True)
-(houseVoteResult hr3263-112 True)
+(senateVoteResult hr3263-112 True)
 
 (isa hr1534-112 Bill-Idea)
 (writtenSponsored hr1534-112)
@@ -15885,13 +15883,13 @@
 (isa hr5738-112 Bill-Idea)
 (writtenSponsored hr5738-112)
 (houseVoteResult hr5738-112 True)
-(houseVoteResult hr5738-112 True)
+(senateVoteResult hr5738-112 True)
 (presidentSigned hr5738-112)
 
 (isa hr5738-112 Bill-Idea)
 (writtenSponsored hr5738-112)
 (houseVoteResult hr5738-112 True)
-(houseVoteResult hr5738-112 True)
+(senateVoteResult hr5738-112 True)
 
 (isa hr10-112 Bill-Idea)
 (writtenSponsored hr10-112)
@@ -16098,13 +16096,13 @@
 (isa hr4014-112 Bill-Idea)
 (writtenSponsored hr4014-112)
 (houseVoteResult hr4014-112 True)
-(houseVoteResult hr4014-112 True)
+(senateVoteResult hr4014-112 True)
 (presidentSigned hr4014-112)
 
 (isa hr4014-112 Bill-Idea)
 (writtenSponsored hr4014-112)
 (houseVoteResult hr4014-112 True)
-(houseVoteResult hr4014-112 True)
+(senateVoteResult hr4014-112 True)
 
 (isa hr3231-112 Bill-Idea)
 (writtenSponsored hr3231-112)
@@ -16190,13 +16188,13 @@
 (isa hr3800-112 Bill-Idea)
 (writtenSponsored hr3800-112)
 (houseVoteResult hr3800-112 True)
-(houseVoteResult hr3800-112 True)
+(senateVoteResult hr3800-112 True)
 (presidentSigned hr3800-112)
 
 (isa hr3800-112 Bill-Idea)
 (writtenSponsored hr3800-112)
 (houseVoteResult hr3800-112 True)
-(houseVoteResult hr3800-112 True)
+(senateVoteResult hr3800-112 True)
 
 (isa hr6112-112 Bill-Idea)
 (writtenSponsored hr6112-112)
@@ -16220,13 +16218,13 @@
 (isa hr818-112 Bill-Idea)
 (writtenSponsored hr818-112)
 (houseVoteResult hr818-112 True)
-(houseVoteResult hr818-112 True)
+(senateVoteResult hr818-112 True)
 (presidentSigned hr818-112)
 
 (isa hr818-112 Bill-Idea)
 (writtenSponsored hr818-112)
 (houseVoteResult hr818-112 True)
-(houseVoteResult hr818-112 True)
+(senateVoteResult hr818-112 True)
 
 (isa hr1105-112 Bill-Idea)
 (writtenSponsored hr1105-112)
@@ -16268,13 +16266,13 @@
 (isa hr3004-112 Bill-Idea)
 (writtenSponsored hr3004-112)
 (houseVoteResult hr3004-112 True)
-(houseVoteResult hr3004-112 True)
+(senateVoteResult hr3004-112 True)
 (presidentSigned hr3004-112)
 
 (isa hr3004-112 Bill-Idea)
 (writtenSponsored hr3004-112)
 (houseVoteResult hr3004-112 True)
-(houseVoteResult hr3004-112 True)
+(senateVoteResult hr3004-112 True)
 
 (isa hr1753-112 Bill-Idea)
 (writtenSponsored hr1753-112)
@@ -16301,13 +16299,13 @@
 (isa hr6582-112 Bill-Idea)
 (writtenSponsored hr6582-112)
 (houseVoteResult hr6582-112 True)
-(houseVoteResult hr6582-112 True)
+(senateVoteResult hr6582-112 True)
 (presidentSigned hr6582-112)
 
 (isa hr6582-112 Bill-Idea)
 (writtenSponsored hr6582-112)
 (houseVoteResult hr6582-112 True)
-(houseVoteResult hr6582-112 True)
+(senateVoteResult hr6582-112 True)
 
 (isa hr2122-112 Bill-Idea)
 (writtenSponsored hr2122-112)
@@ -16364,13 +16362,13 @@
 (isa hr1308-112 Bill-Idea)
 (writtenSponsored hr1308-112)
 (houseVoteResult hr1308-112 True)
-(houseVoteResult hr1308-112 True)
+(senateVoteResult hr1308-112 True)
 (presidentSigned hr1308-112)
 
 (isa hr1308-112 Bill-Idea)
 (writtenSponsored hr1308-112)
 (houseVoteResult hr1308-112 True)
-(houseVoteResult hr1308-112 True)
+(senateVoteResult hr1308-112 True)
 
 (isa hr229-112 Bill-Idea)
 (writtenSponsored hr229-112)
@@ -16492,13 +16490,13 @@
 (isa hr1791-112 Bill-Idea)
 (writtenSponsored hr1791-112)
 (houseVoteResult hr1791-112 True)
-(houseVoteResult hr1791-112 True)
+(senateVoteResult hr1791-112 True)
 (presidentSigned hr1791-112)
 
 (isa hr1791-112 Bill-Idea)
 (writtenSponsored hr1791-112)
 (houseVoteResult hr1791-112 True)
-(houseVoteResult hr1791-112 True)
+(senateVoteResult hr1791-112 True)
 
 (isa hr5331-112 Bill-Idea)
 (writtenSponsored hr5331-112)
@@ -16699,13 +16697,13 @@
 (isa hr1339-112 Bill-Idea)
 (writtenSponsored hr1339-112)
 (houseVoteResult hr1339-112 True)
-(houseVoteResult hr1339-112 True)
+(senateVoteResult hr1339-112 True)
 (presidentSigned hr1339-112)
 
 (isa hr1339-112 Bill-Idea)
 (writtenSponsored hr1339-112)
 (houseVoteResult hr1339-112 True)
-(houseVoteResult hr1339-112 True)
+(senateVoteResult hr1339-112 True)
 
 (isa hr5799-112 Bill-Idea)
 (writtenSponsored hr5799-112)
@@ -16740,13 +16738,13 @@
 (isa hr2944-112 Bill-Idea)
 (writtenSponsored hr2944-112)
 (houseVoteResult hr2944-112 True)
-(houseVoteResult hr2944-112 True)
+(senateVoteResult hr2944-112 True)
 (presidentSigned hr2944-112)
 
 (isa hr2944-112 Bill-Idea)
 (writtenSponsored hr2944-112)
 (houseVoteResult hr2944-112 True)
-(houseVoteResult hr2944-112 True)
+(senateVoteResult hr2944-112 True)
 
 (isa hr3896-112 Bill-Idea)
 (writtenSponsored hr3896-112)
@@ -16932,13 +16930,13 @@
 (isa hr5954-112 Bill-Idea)
 (writtenSponsored hr5954-112)
 (houseVoteResult hr5954-112 True)
-(houseVoteResult hr5954-112 True)
+(senateVoteResult hr5954-112 True)
 (presidentSigned hr5954-112)
 
 (isa hr5954-112 Bill-Idea)
 (writtenSponsored hr5954-112)
 (houseVoteResult hr5954-112 True)
-(houseVoteResult hr5954-112 True)
+(senateVoteResult hr5954-112 True)
 
 (isa hr4288-112 Bill-Idea)
 (writtenSponsored hr4288-112)
@@ -16946,13 +16944,13 @@
 (isa hr2943-112 Bill-Idea)
 (writtenSponsored hr2943-112)
 (houseVoteResult hr2943-112 True)
-(houseVoteResult hr2943-112 True)
+(senateVoteResult hr2943-112 True)
 (presidentSigned hr2943-112)
 
 (isa hr2943-112 Bill-Idea)
 (writtenSponsored hr2943-112)
 (houseVoteResult hr2943-112 True)
-(houseVoteResult hr2943-112 True)
+(senateVoteResult hr2943-112 True)
 
 (isa hr3891-112 Bill-Idea)
 (writtenSponsored hr3891-112)
@@ -17018,13 +17016,13 @@
 (isa hr3630-112 Bill-Idea)
 (writtenSponsored hr3630-112)
 (houseVoteResult hr3630-112 True)
-(houseVoteResult hr3630-112 True)
+(senateVoteResult hr3630-112 True)
 (presidentSigned hr3630-112)
 
 (isa hr3630-112 Bill-Idea)
 (writtenSponsored hr3630-112)
 (houseVoteResult hr3630-112 True)
-(houseVoteResult hr3630-112 True)
+(senateVoteResult hr3630-112 True)
 
 (isa hr6342-112 Bill-Idea)
 (writtenSponsored hr6342-112)
@@ -17138,13 +17136,13 @@
 (isa hr2149-112 Bill-Idea)
 (writtenSponsored hr2149-112)
 (houseVoteResult hr2149-112 True)
-(houseVoteResult hr2149-112 True)
+(senateVoteResult hr2149-112 True)
 (presidentSigned hr2149-112)
 
 (isa hr2149-112 Bill-Idea)
 (writtenSponsored hr2149-112)
 (houseVoteResult hr2149-112 True)
-(houseVoteResult hr2149-112 True)
+(senateVoteResult hr2149-112 True)
 
 (isa hr2975-112 Bill-Idea)
 (writtenSponsored hr2975-112)
@@ -17152,13 +17150,13 @@
 (isa hr3606-112 Bill-Idea)
 (writtenSponsored hr3606-112)
 (houseVoteResult hr3606-112 True)
-(houseVoteResult hr3606-112 True)
+(senateVoteResult hr3606-112 True)
 (presidentSigned hr3606-112)
 
 (isa hr3606-112 Bill-Idea)
 (writtenSponsored hr3606-112)
 (houseVoteResult hr3606-112 True)
-(houseVoteResult hr3606-112 True)
+(senateVoteResult hr3606-112 True)
 
 (isa hr6374-112 Bill-Idea)
 (writtenSponsored hr6374-112)
@@ -17179,13 +17177,13 @@
 (isa hr1363-112 Bill-Idea)
 (writtenSponsored hr1363-112)
 (houseVoteResult hr1363-112 True)
-(houseVoteResult hr1363-112 True)
+(senateVoteResult hr1363-112 True)
 (presidentSigned hr1363-112)
 
 (isa hr1363-112 Bill-Idea)
 (writtenSponsored hr1363-112)
 (houseVoteResult hr1363-112 True)
-(houseVoteResult hr1363-112 True)
+(senateVoteResult hr1363-112 True)
 
 (isa hr3434-112 Bill-Idea)
 (writtenSponsored hr3434-112)
@@ -17235,13 +17233,13 @@
 (isa hr4281-112 Bill-Idea)
 (writtenSponsored hr4281-112)
 (houseVoteResult hr4281-112 True)
-(houseVoteResult hr4281-112 True)
+(senateVoteResult hr4281-112 True)
 (presidentSigned hr4281-112)
 
 (isa hr4281-112 Bill-Idea)
 (writtenSponsored hr4281-112)
 (houseVoteResult hr4281-112 True)
-(houseVoteResult hr4281-112 True)
+(senateVoteResult hr4281-112 True)
 
 (isa hr2176-112 Bill-Idea)
 (writtenSponsored hr2176-112)
@@ -17537,13 +17535,13 @@
 (isa hr3247-112 Bill-Idea)
 (writtenSponsored hr3247-112)
 (houseVoteResult hr3247-112 True)
-(houseVoteResult hr3247-112 True)
+(senateVoteResult hr3247-112 True)
 (presidentSigned hr3247-112)
 
 (isa hr3247-112 Bill-Idea)
 (writtenSponsored hr3247-112)
 (houseVoteResult hr3247-112 True)
-(houseVoteResult hr3247-112 True)
+(senateVoteResult hr3247-112 True)
 
 (isa hr431-112 Bill-Idea)
 (writtenSponsored hr431-112)
@@ -17805,13 +17803,13 @@
 (isa hr4053-112 Bill-Idea)
 (writtenSponsored hr4053-112)
 (houseVoteResult hr4053-112 True)
-(houseVoteResult hr4053-112 True)
+(senateVoteResult hr4053-112 True)
 (presidentSigned hr4053-112)
 
 (isa hr4053-112 Bill-Idea)
 (writtenSponsored hr4053-112)
 (houseVoteResult hr4053-112 True)
-(houseVoteResult hr4053-112 True)
+(senateVoteResult hr4053-112 True)
 
 (isa hr400-112 Bill-Idea)
 (writtenSponsored hr400-112)
@@ -17822,13 +17820,13 @@
 (isa hr3276-112 Bill-Idea)
 (writtenSponsored hr3276-112)
 (houseVoteResult hr3276-112 True)
-(houseVoteResult hr3276-112 True)
+(senateVoteResult hr3276-112 True)
 (presidentSigned hr3276-112)
 
 (isa hr3276-112 Bill-Idea)
 (writtenSponsored hr3276-112)
 (houseVoteResult hr3276-112 True)
-(houseVoteResult hr3276-112 True)
+(senateVoteResult hr3276-112 True)
 
 (isa hr6704-112 Bill-Idea)
 (writtenSponsored hr6704-112)
@@ -17860,13 +17858,13 @@
 (isa hr5949-112 Bill-Idea)
 (writtenSponsored hr5949-112)
 (houseVoteResult hr5949-112 True)
-(houseVoteResult hr5949-112 True)
+(senateVoteResult hr5949-112 True)
 (presidentSigned hr5949-112)
 
 (isa hr5949-112 Bill-Idea)
 (writtenSponsored hr5949-112)
 (houseVoteResult hr5949-112 True)
-(houseVoteResult hr5949-112 True)
+(senateVoteResult hr5949-112 True)
 
 (isa hr3282-112 Bill-Idea)
 (writtenSponsored hr3282-112)
@@ -17892,13 +17890,13 @@
 (isa hr1383-112 Bill-Idea)
 (writtenSponsored hr1383-112)
 (houseVoteResult hr1383-112 True)
-(houseVoteResult hr1383-112 True)
+(senateVoteResult hr1383-112 True)
 (presidentSigned hr1383-112)
 
 (isa hr1383-112 Bill-Idea)
 (writtenSponsored hr1383-112)
 (houseVoteResult hr1383-112 True)
-(houseVoteResult hr1383-112 True)
+(senateVoteResult hr1383-112 True)
 
 (isa hr5511-112 Bill-Idea)
 (writtenSponsored hr5511-112)
@@ -17927,7 +17925,7 @@
 (isa hr4850-112 Bill-Idea)
 (writtenSponsored hr4850-112)
 (houseVoteResult hr4850-112 True)
-(houseVoteResult hr4850-112 True)
+(senateVoteResult hr4850-112 True)
 
 (isa hr4408-112 Bill-Idea)
 (writtenSponsored hr4408-112)
@@ -18094,13 +18092,13 @@
 (isa hr33-112 Bill-Idea)
 (writtenSponsored hr33-112)
 (houseVoteResult hr33-112 True)
-(houseVoteResult hr33-112 True)
+(senateVoteResult hr33-112 True)
 (presidentSigned hr33-112)
 
 (isa hr33-112 Bill-Idea)
 (writtenSponsored hr33-112)
 (houseVoteResult hr33-112 True)
-(houseVoteResult hr33-112 True)
+(senateVoteResult hr33-112 True)
 
 (isa hr1189-112 Bill-Idea)
 (writtenSponsored hr1189-112)
@@ -18195,13 +18193,13 @@
 (isa hr2767-112 Bill-Idea)
 (writtenSponsored hr2767-112)
 (houseVoteResult hr2767-112 True)
-(houseVoteResult hr2767-112 True)
+(senateVoteResult hr2767-112 True)
 (presidentSigned hr2767-112)
 
 (isa hr2767-112 Bill-Idea)
 (writtenSponsored hr2767-112)
 (houseVoteResult hr2767-112 True)
-(houseVoteResult hr2767-112 True)
+(senateVoteResult hr2767-112 True)
 
 (isa hr58-112 Bill-Idea)
 (writtenSponsored hr58-112)
@@ -18267,13 +18265,13 @@
 (isa hr205-112 Bill-Idea)
 (writtenSponsored hr205-112)
 (houseVoteResult hr205-112 True)
-(houseVoteResult hr205-112 True)
+(senateVoteResult hr205-112 True)
 (presidentSigned hr205-112)
 
 (isa hr205-112 Bill-Idea)
 (writtenSponsored hr205-112)
 (houseVoteResult hr205-112 True)
-(houseVoteResult hr205-112 True)
+(senateVoteResult hr205-112 True)
 
 (isa hr4656-112 Bill-Idea)
 (writtenSponsored hr4656-112)
@@ -18296,13 +18294,13 @@
 (isa hr3641-112 Bill-Idea)
 (writtenSponsored hr3641-112)
 (houseVoteResult hr3641-112 True)
-(houseVoteResult hr3641-112 True)
+(senateVoteResult hr3641-112 True)
 (presidentSigned hr3641-112)
 
 (isa hr3641-112 Bill-Idea)
 (writtenSponsored hr3641-112)
 (houseVoteResult hr3641-112 True)
-(houseVoteResult hr3641-112 True)
+(senateVoteResult hr3641-112 True)
 
 (isa hr1116-112 Bill-Idea)
 (writtenSponsored hr1116-112)
@@ -18543,13 +18541,13 @@
 (isa hr3670-112 Bill-Idea)
 (writtenSponsored hr3670-112)
 (houseVoteResult hr3670-112 True)
-(houseVoteResult hr3670-112 True)
+(senateVoteResult hr3670-112 True)
 (presidentSigned hr3670-112)
 
 (isa hr3670-112 Bill-Idea)
 (writtenSponsored hr3670-112)
 (houseVoteResult hr3670-112 True)
-(houseVoteResult hr3670-112 True)
+(senateVoteResult hr3670-112 True)
 
 (isa hr6130-112 Bill-Idea)
 (writtenSponsored hr6130-112)
@@ -18987,13 +18985,13 @@
 (isa hr3421-112 Bill-Idea)
 (writtenSponsored hr3421-112)
 (houseVoteResult hr3421-112 True)
-(houseVoteResult hr3421-112 True)
+(senateVoteResult hr3421-112 True)
 (presidentSigned hr3421-112)
 
 (isa hr3421-112 Bill-Idea)
 (writtenSponsored hr3421-112)
 (houseVoteResult hr3421-112 True)
-(houseVoteResult hr3421-112 True)
+(senateVoteResult hr3421-112 True)
 
 (isa hr1376-112 Bill-Idea)
 (writtenSponsored hr1376-112)
@@ -19070,13 +19068,13 @@
 (isa hr3248-112 Bill-Idea)
 (writtenSponsored hr3248-112)
 (houseVoteResult hr3248-112 True)
-(houseVoteResult hr3248-112 True)
+(senateVoteResult hr3248-112 True)
 (presidentSigned hr3248-112)
 
 (isa hr3248-112 Bill-Idea)
 (writtenSponsored hr3248-112)
 (houseVoteResult hr3248-112 True)
-(houseVoteResult hr3248-112 True)
+(senateVoteResult hr3248-112 True)
 
 (isa hr5983-112 Bill-Idea)
 (writtenSponsored hr5983-112)
@@ -19263,13 +19261,13 @@
 (isa hr3870-112 Bill-Idea)
 (writtenSponsored hr3870-112)
 (houseVoteResult hr3870-112 True)
-(houseVoteResult hr3870-112 True)
+(senateVoteResult hr3870-112 True)
 (presidentSigned hr3870-112)
 
 (isa hr3870-112 Bill-Idea)
 (writtenSponsored hr3870-112)
 (houseVoteResult hr3870-112 True)
-(houseVoteResult hr3870-112 True)
+(senateVoteResult hr3870-112 True)
 
 (isa hr4269-112 Bill-Idea)
 (writtenSponsored hr4269-112)
@@ -19313,13 +19311,13 @@
 (isa hr3246-112 Bill-Idea)
 (writtenSponsored hr3246-112)
 (houseVoteResult hr3246-112 True)
-(houseVoteResult hr3246-112 True)
+(senateVoteResult hr3246-112 True)
 (presidentSigned hr3246-112)
 
 (isa hr3246-112 Bill-Idea)
 (writtenSponsored hr3246-112)
 (houseVoteResult hr3246-112 True)
-(houseVoteResult hr3246-112 True)
+(senateVoteResult hr3246-112 True)
 
 (isa hr1511-112 Bill-Idea)
 (writtenSponsored hr1511-112)
@@ -19362,13 +19360,13 @@
 (isa hr4097-112 Bill-Idea)
 (writtenSponsored hr4097-112)
 (houseVoteResult hr4097-112 True)
-(houseVoteResult hr4097-112 True)
+(senateVoteResult hr4097-112 True)
 (presidentSigned hr4097-112)
 
 (isa hr4097-112 Bill-Idea)
 (writtenSponsored hr4097-112)
 (houseVoteResult hr4097-112 True)
-(houseVoteResult hr4097-112 True)
+(senateVoteResult hr4097-112 True)
 
 (isa hr5145-112 Bill-Idea)
 (writtenSponsored hr5145-112)
@@ -19382,13 +19380,13 @@
 (isa hr3080-112 Bill-Idea)
 (writtenSponsored hr3080-112)
 (houseVoteResult hr3080-112 True)
-(houseVoteResult hr3080-112 True)
+(senateVoteResult hr3080-112 True)
 (presidentSigned hr3080-112)
 
 (isa hr3080-112 Bill-Idea)
 (writtenSponsored hr3080-112)
 (houseVoteResult hr3080-112 True)
-(houseVoteResult hr3080-112 True)
+(senateVoteResult hr3080-112 True)
 
 (isa hr5713-112 Bill-Idea)
 (writtenSponsored hr5713-112)
@@ -19506,13 +19504,13 @@
 (isa hr2139-112 Bill-Idea)
 (writtenSponsored hr2139-112)
 (houseVoteResult hr2139-112 True)
-(houseVoteResult hr2139-112 True)
+(senateVoteResult hr2139-112 True)
 (presidentSigned hr2139-112)
 
 (isa hr2139-112 Bill-Idea)
 (writtenSponsored hr2139-112)
 (houseVoteResult hr2139-112 True)
-(houseVoteResult hr2139-112 True)
+(senateVoteResult hr2139-112 True)
 
 (isa hr6599-112 Bill-Idea)
 (writtenSponsored hr6599-112)
@@ -19664,13 +19662,13 @@
 (isa hr5740-112 Bill-Idea)
 (writtenSponsored hr5740-112)
 (houseVoteResult hr5740-112 True)
-(houseVoteResult hr5740-112 True)
+(senateVoteResult hr5740-112 True)
 (presidentSigned hr5740-112)
 
 (isa hr5740-112 Bill-Idea)
 (writtenSponsored hr5740-112)
 (houseVoteResult hr5740-112 True)
-(houseVoteResult hr5740-112 True)
+(senateVoteResult hr5740-112 True)
 
 (isa hr4692-112 Bill-Idea)
 (writtenSponsored hr4692-112)
@@ -19741,13 +19739,13 @@
 (isa hr6131-112 Bill-Idea)
 (writtenSponsored hr6131-112)
 (houseVoteResult hr6131-112 True)
-(houseVoteResult hr6131-112 True)
+(senateVoteResult hr6131-112 True)
 (presidentSigned hr6131-112)
 
 (isa hr6131-112 Bill-Idea)
 (writtenSponsored hr6131-112)
 (houseVoteResult hr6131-112 True)
-(houseVoteResult hr6131-112 True)
+(senateVoteResult hr6131-112 True)
 
 (isa hr235-112 Bill-Idea)
 (writtenSponsored hr235-112)
@@ -19794,13 +19792,13 @@
 (isa hr658-112 Bill-Idea)
 (writtenSponsored hr658-112)
 (houseVoteResult hr658-112 True)
-(houseVoteResult hr658-112 True)
+(senateVoteResult hr658-112 True)
 (presidentSigned hr658-112)
 
 (isa hr658-112 Bill-Idea)
 (writtenSponsored hr658-112)
 (houseVoteResult hr658-112 True)
-(houseVoteResult hr658-112 True)
+(senateVoteResult hr658-112 True)
 
 (isa hr1779-112 Bill-Idea)
 (writtenSponsored hr1779-112)
@@ -19856,13 +19854,13 @@
 (isa hr2553-112 Bill-Idea)
 (writtenSponsored hr2553-112)
 (houseVoteResult hr2553-112 True)
-(houseVoteResult hr2553-112 True)
+(senateVoteResult hr2553-112 True)
 (presidentSigned hr2553-112)
 
 (isa hr2553-112 Bill-Idea)
 (writtenSponsored hr2553-112)
 (houseVoteResult hr2553-112 True)
-(houseVoteResult hr2553-112 True)
+(senateVoteResult hr2553-112 True)
 
 (isa hr3481-112 Bill-Idea)
 (writtenSponsored hr3481-112)
@@ -20210,13 +20208,13 @@
 (isa hr1892-112 Bill-Idea)
 (writtenSponsored hr1892-112)
 (houseVoteResult hr1892-112 True)
-(houseVoteResult hr1892-112 True)
+(senateVoteResult hr1892-112 True)
 (presidentSigned hr1892-112)
 
 (isa hr1892-112 Bill-Idea)
 (writtenSponsored hr1892-112)
 (houseVoteResult hr1892-112 True)
-(houseVoteResult hr1892-112 True)
+(senateVoteResult hr1892-112 True)
 
 (isa hr5856-112 Bill-Idea)
 (writtenSponsored hr5856-112)
@@ -20448,13 +20446,13 @@
 (isa hr347-112 Bill-Idea)
 (writtenSponsored hr347-112)
 (houseVoteResult hr347-112 True)
-(houseVoteResult hr347-112 True)
+(senateVoteResult hr347-112 True)
 (presidentSigned hr347-112)
 
 (isa hr347-112 Bill-Idea)
 (writtenSponsored hr347-112)
 (houseVoteResult hr347-112 True)
-(houseVoteResult hr347-112 True)
+(senateVoteResult hr347-112 True)
 
 (isa hr1054-112 Bill-Idea)
 (writtenSponsored hr1054-112)
@@ -20731,13 +20729,13 @@
 (isa hr2279-112 Bill-Idea)
 (writtenSponsored hr2279-112)
 (houseVoteResult hr2279-112 True)
-(houseVoteResult hr2279-112 True)
+(senateVoteResult hr2279-112 True)
 (presidentSigned hr2279-112)
 
 (isa hr2279-112 Bill-Idea)
 (writtenSponsored hr2279-112)
 (houseVoteResult hr2279-112 True)
-(houseVoteResult hr2279-112 True)
+(senateVoteResult hr2279-112 True)
 
 (isa hr5860-112 Bill-Idea)
 (writtenSponsored hr5860-112)
@@ -20784,24 +20782,24 @@
 (isa hr4348-112 Bill-Idea)
 (writtenSponsored hr4348-112)
 (houseVoteResult hr4348-112 True)
-(houseVoteResult hr4348-112 True)
+(senateVoteResult hr4348-112 True)
 (presidentSigned hr4348-112)
 
 (isa hr4348-112 Bill-Idea)
 (writtenSponsored hr4348-112)
 (houseVoteResult hr4348-112 True)
-(houseVoteResult hr4348-112 True)
+(senateVoteResult hr4348-112 True)
 
 (isa hr2883-112 Bill-Idea)
 (writtenSponsored hr2883-112)
 (houseVoteResult hr2883-112 True)
-(houseVoteResult hr2883-112 True)
+(senateVoteResult hr2883-112 True)
 (presidentSigned hr2883-112)
 
 (isa hr2883-112 Bill-Idea)
 (writtenSponsored hr2883-112)
 (houseVoteResult hr2883-112 True)
-(houseVoteResult hr2883-112 True)
+(senateVoteResult hr2883-112 True)
 
 (isa hr3951-112 Bill-Idea)
 (writtenSponsored hr3951-112)
@@ -20967,13 +20965,13 @@
 (isa hr3902-112 Bill-Idea)
 (writtenSponsored hr3902-112)
 (houseVoteResult hr3902-112 True)
-(houseVoteResult hr3902-112 True)
+(senateVoteResult hr3902-112 True)
 (presidentSigned hr3902-112)
 
 (isa hr3902-112 Bill-Idea)
 (writtenSponsored hr3902-112)
 (houseVoteResult hr3902-112 True)
-(houseVoteResult hr3902-112 True)
+(senateVoteResult hr3902-112 True)
 
 (isa hr748-112 Bill-Idea)
 (writtenSponsored hr748-112)
@@ -21077,13 +21075,13 @@
 (isa hr1464-112 Bill-Idea)
 (writtenSponsored hr1464-112)
 (houseVoteResult hr1464-112 True)
-(houseVoteResult hr1464-112 True)
+(senateVoteResult hr1464-112 True)
 (presidentSigned hr1464-112)
 
 (isa hr1464-112 Bill-Idea)
 (writtenSponsored hr1464-112)
 (houseVoteResult hr1464-112 True)
-(houseVoteResult hr1464-112 True)
+(senateVoteResult hr1464-112 True)
 
 (isa hr783-112 Bill-Idea)
 (writtenSponsored hr783-112)
@@ -21595,13 +21593,13 @@
 (isa hr2072-112 Bill-Idea)
 (writtenSponsored hr2072-112)
 (houseVoteResult hr2072-112 True)
-(houseVoteResult hr2072-112 True)
+(senateVoteResult hr2072-112 True)
 (presidentSigned hr2072-112)
 
 (isa hr2072-112 Bill-Idea)
 (writtenSponsored hr2072-112)
 (houseVoteResult hr2072-112 True)
-(houseVoteResult hr2072-112 True)
+(senateVoteResult hr2072-112 True)
 
 (isa hr4385-112 Bill-Idea)
 (writtenSponsored hr4385-112)
@@ -21615,24 +21613,24 @@
 (isa hr5859-112 Bill-Idea)
 (writtenSponsored hr5859-112)
 (houseVoteResult hr5859-112 True)
-(houseVoteResult hr5859-112 True)
+(senateVoteResult hr5859-112 True)
 (presidentSigned hr5859-112)
 
 (isa hr5859-112 Bill-Idea)
 (writtenSponsored hr5859-112)
 (houseVoteResult hr5859-112 True)
-(houseVoteResult hr5859-112 True)
+(senateVoteResult hr5859-112 True)
 
 (isa hr2240-112 Bill-Idea)
 (writtenSponsored hr2240-112)
 (houseVoteResult hr2240-112 True)
-(houseVoteResult hr2240-112 True)
+(senateVoteResult hr2240-112 True)
 (presidentSigned hr2240-112)
 
 (isa hr2240-112 Bill-Idea)
 (writtenSponsored hr2240-112)
 (houseVoteResult hr2240-112 True)
-(houseVoteResult hr2240-112 True)
+(senateVoteResult hr2240-112 True)
 
 (isa hr3392-112 Bill-Idea)
 (writtenSponsored hr3392-112)
@@ -21840,13 +21838,13 @@
 (isa hr4347-112 Bill-Idea)
 (writtenSponsored hr4347-112)
 (houseVoteResult hr4347-112 True)
-(houseVoteResult hr4347-112 True)
+(senateVoteResult hr4347-112 True)
 (presidentSigned hr4347-112)
 
 (isa hr4347-112 Bill-Idea)
 (writtenSponsored hr4347-112)
 (houseVoteResult hr4347-112 True)
-(houseVoteResult hr4347-112 True)
+(senateVoteResult hr4347-112 True)
 
 (isa hr1635-112 Bill-Idea)
 (writtenSponsored hr1635-112)
@@ -21977,13 +21975,13 @@
 (isa hr3501-112 Bill-Idea)
 (writtenSponsored hr3501-112)
 (houseVoteResult hr3501-112 True)
-(houseVoteResult hr3501-112 True)
+(senateVoteResult hr3501-112 True)
 (presidentSigned hr3501-112)
 
 (isa hr3501-112 Bill-Idea)
 (writtenSponsored hr3501-112)
 (houseVoteResult hr3501-112 True)
-(houseVoteResult hr3501-112 True)
+(senateVoteResult hr3501-112 True)
 
 (isa hr6073-112 Bill-Idea)
 (writtenSponsored hr6073-112)
@@ -22039,13 +22037,13 @@
 (isa hr1632-112 Bill-Idea)
 (writtenSponsored hr1632-112)
 (houseVoteResult hr1632-112 True)
-(houseVoteResult hr1632-112 True)
+(senateVoteResult hr1632-112 True)
 (presidentSigned hr1632-112)
 
 (isa hr1632-112 Bill-Idea)
 (writtenSponsored hr1632-112)
 (houseVoteResult hr1632-112 True)
-(houseVoteResult hr1632-112 True)
+(senateVoteResult hr1632-112 True)
 
 (isa hr3165-112 Bill-Idea)
 (writtenSponsored hr3165-112)
@@ -22131,13 +22129,13 @@
 (isa hr1893-112 Bill-Idea)
 (writtenSponsored hr1893-112)
 (houseVoteResult hr1893-112 True)
-(houseVoteResult hr1893-112 True)
+(senateVoteResult hr1893-112 True)
 (presidentSigned hr1893-112)
 
 (isa hr1893-112 Bill-Idea)
 (writtenSponsored hr1893-112)
 (houseVoteResult hr1893-112 True)
-(houseVoteResult hr1893-112 True)
+(senateVoteResult hr1893-112 True)
 
 (isa hr2418-112 Bill-Idea)
 (writtenSponsored hr2418-112)
@@ -22145,13 +22143,13 @@
 (isa hr3992-112 Bill-Idea)
 (writtenSponsored hr3992-112)
 (houseVoteResult hr3992-112 True)
-(houseVoteResult hr3992-112 True)
+(senateVoteResult hr3992-112 True)
 (presidentSigned hr3992-112)
 
 (isa hr3992-112 Bill-Idea)
 (writtenSponsored hr3992-112)
 (houseVoteResult hr3992-112 True)
-(houseVoteResult hr3992-112 True)
+(senateVoteResult hr3992-112 True)
 
 (isa hr2840-112 Bill-Idea)
 (writtenSponsored hr2840-112)
@@ -22171,13 +22169,13 @@
 (isa hr4119-112 Bill-Idea)
 (writtenSponsored hr4119-112)
 (houseVoteResult hr4119-112 True)
-(houseVoteResult hr4119-112 True)
+(senateVoteResult hr4119-112 True)
 (presidentSigned hr4119-112)
 
 (isa hr4119-112 Bill-Idea)
 (writtenSponsored hr4119-112)
 (houseVoteResult hr4119-112 True)
-(houseVoteResult hr4119-112 True)
+(senateVoteResult hr4119-112 True)
 
 (isa hr1659-112 Bill-Idea)
 (writtenSponsored hr1659-112)
@@ -22234,13 +22232,13 @@
 (isa hr6215-112 Bill-Idea)
 (writtenSponsored hr6215-112)
 (houseVoteResult hr6215-112 True)
-(houseVoteResult hr6215-112 True)
+(senateVoteResult hr6215-112 True)
 (presidentSigned hr6215-112)
 
 (isa hr6215-112 Bill-Idea)
 (writtenSponsored hr6215-112)
 (houseVoteResult hr6215-112 True)
-(houseVoteResult hr6215-112 True)
+(senateVoteResult hr6215-112 True)
 
 (isa hr3767-112 Bill-Idea)
 (writtenSponsored hr3767-112)
@@ -22291,13 +22289,13 @@
 (isa hr6671-112 Bill-Idea)
 (writtenSponsored hr6671-112)
 (houseVoteResult hr6671-112 True)
-(houseVoteResult hr6671-112 True)
+(senateVoteResult hr6671-112 True)
 (presidentSigned hr6671-112)
 
 (isa hr6671-112 Bill-Idea)
 (writtenSponsored hr6671-112)
 (houseVoteResult hr6671-112 True)
-(houseVoteResult hr6671-112 True)
+(senateVoteResult hr6671-112 True)
 
 (isa hr3303-112 Bill-Idea)
 (writtenSponsored hr3303-112)
@@ -22305,13 +22303,13 @@
 (isa hr2017-112 Bill-Idea)
 (writtenSponsored hr2017-112)
 (houseVoteResult hr2017-112 True)
-(houseVoteResult hr2017-112 True)
+(senateVoteResult hr2017-112 True)
 (presidentSigned hr2017-112)
 
 (isa hr2017-112 Bill-Idea)
 (writtenSponsored hr2017-112)
 (houseVoteResult hr2017-112 True)
-(houseVoteResult hr2017-112 True)
+(senateVoteResult hr2017-112 True)
 
 (isa hr1692-112 Bill-Idea)
 (writtenSponsored hr1692-112)
@@ -22370,13 +22368,13 @@
 (isa hr915-112 Bill-Idea)
 (writtenSponsored hr915-112)
 (houseVoteResult hr915-112 True)
-(houseVoteResult hr915-112 True)
+(senateVoteResult hr915-112 True)
 (presidentSigned hr915-112)
 
 (isa hr915-112 Bill-Idea)
 (writtenSponsored hr915-112)
 (houseVoteResult hr915-112 True)
-(houseVoteResult hr915-112 True)
+(senateVoteResult hr915-112 True)
 
 (isa hr1008-112 Bill-Idea)
 (writtenSponsored hr1008-112)
@@ -22419,13 +22417,13 @@
 (isa hr2646-112 Bill-Idea)
 (writtenSponsored hr2646-112)
 (houseVoteResult hr2646-112 True)
-(houseVoteResult hr2646-112 True)
+(senateVoteResult hr2646-112 True)
 (presidentSigned hr2646-112)
 
 (isa hr2646-112 Bill-Idea)
 (writtenSponsored hr2646-112)
 (houseVoteResult hr2646-112 True)
-(houseVoteResult hr2646-112 True)
+(senateVoteResult hr2646-112 True)
 
 (isa hr3794-112 Bill-Idea)
 (writtenSponsored hr3794-112)
@@ -22557,13 +22555,13 @@
 (isa hr6029-112 Bill-Idea)
 (writtenSponsored hr6029-112)
 (houseVoteResult hr6029-112 True)
-(houseVoteResult hr6029-112 True)
+(senateVoteResult hr6029-112 True)
 (presidentSigned hr6029-112)
 
 (isa hr6029-112 Bill-Idea)
 (writtenSponsored hr6029-112)
 (houseVoteResult hr6029-112 True)
-(houseVoteResult hr6029-112 True)
+(senateVoteResult hr6029-112 True)
 
 (isa hr2489-112 Bill-Idea)
 (writtenSponsored hr2489-112)
@@ -22712,13 +22710,13 @@
 (isa hr588-112 Bill-Idea)
 (writtenSponsored hr588-112)
 (houseVoteResult hr588-112 True)
-(houseVoteResult hr588-112 True)
+(senateVoteResult hr588-112 True)
 (presidentSigned hr588-112)
 
 (isa hr588-112 Bill-Idea)
 (writtenSponsored hr588-112)
 (houseVoteResult hr588-112 True)
-(houseVoteResult hr588-112 True)
+(senateVoteResult hr588-112 True)
 
 (isa hr5009-112 Bill-Idea)
 (writtenSponsored hr5009-112)
@@ -22735,13 +22733,13 @@
 (isa hr771-112 Bill-Idea)
 (writtenSponsored hr771-112)
 (houseVoteResult hr771-112 True)
-(houseVoteResult hr771-112 True)
+(senateVoteResult hr771-112 True)
 (presidentSigned hr771-112)
 
 (isa hr771-112 Bill-Idea)
 (writtenSponsored hr771-112)
 (houseVoteResult hr771-112 True)
-(houseVoteResult hr771-112 True)
+(senateVoteResult hr771-112 True)
 
 (isa hr4322-112 Bill-Idea)
 (writtenSponsored hr4322-112)
@@ -22770,13 +22768,13 @@
 (isa hr6223-112 Bill-Idea)
 (writtenSponsored hr6223-112)
 (houseVoteResult hr6223-112 True)
-(houseVoteResult hr6223-112 True)
+(senateVoteResult hr6223-112 True)
 (presidentSigned hr6223-112)
 
 (isa hr6223-112 Bill-Idea)
 (writtenSponsored hr6223-112)
 (houseVoteResult hr6223-112 True)
-(houseVoteResult hr6223-112 True)
+(senateVoteResult hr6223-112 True)
 
 (isa hr3751-112 Bill-Idea)
 (writtenSponsored hr3751-112)
@@ -22845,13 +22843,13 @@
 (isa hr2213-112 Bill-Idea)
 (writtenSponsored hr2213-112)
 (houseVoteResult hr2213-112 True)
-(houseVoteResult hr2213-112 True)
+(senateVoteResult hr2213-112 True)
 (presidentSigned hr2213-112)
 
 (isa hr2213-112 Bill-Idea)
 (writtenSponsored hr2213-112)
 (houseVoteResult hr2213-112 True)
-(houseVoteResult hr2213-112 True)
+(senateVoteResult hr2213-112 True)
 
 (isa hr1496-112 Bill-Idea)
 (writtenSponsored hr1496-112)
@@ -23006,13 +23004,13 @@
 (isa hr6431-112 Bill-Idea)
 (writtenSponsored hr6431-112)
 (houseVoteResult hr6431-112 True)
-(houseVoteResult hr6431-112 True)
+(senateVoteResult hr6431-112 True)
 (presidentSigned hr6431-112)
 
 (isa hr6431-112 Bill-Idea)
 (writtenSponsored hr6431-112)
 (houseVoteResult hr6431-112 True)
-(houseVoteResult hr6431-112 True)
+(senateVoteResult hr6431-112 True)
 
 (isa hr3371-112 Bill-Idea)
 (writtenSponsored hr3371-112)
@@ -23152,13 +23150,13 @@
 (isa hr6260-112 Bill-Idea)
 (writtenSponsored hr6260-112)
 (houseVoteResult hr6260-112 True)
-(houseVoteResult hr6260-112 True)
+(senateVoteResult hr6260-112 True)
 (presidentSigned hr6260-112)
 
 (isa hr6260-112 Bill-Idea)
 (writtenSponsored hr6260-112)
 (houseVoteResult hr6260-112 True)
-(houseVoteResult hr6260-112 True)
+(senateVoteResult hr6260-112 True)
 
 (isa hr4537-112 Bill-Idea)
 (writtenSponsored hr4537-112)
@@ -23218,13 +23216,13 @@
 (isa hr2062-112 Bill-Idea)
 (writtenSponsored hr2062-112)
 (houseVoteResult hr2062-112 True)
-(houseVoteResult hr2062-112 True)
+(senateVoteResult hr2062-112 True)
 (presidentSigned hr2062-112)
 
 (isa hr2062-112 Bill-Idea)
 (writtenSponsored hr2062-112)
 (houseVoteResult hr2062-112 True)
-(houseVoteResult hr2062-112 True)
+(senateVoteResult hr2062-112 True)
 
 (isa hr4368-112 Bill-Idea)
 (writtenSponsored hr4368-112)
@@ -23290,13 +23288,13 @@
 (isa hr6064-112 Bill-Idea)
 (writtenSponsored hr6064-112)
 (houseVoteResult hr6064-112 True)
-(houseVoteResult hr6064-112 True)
+(senateVoteResult hr6064-112 True)
 (presidentSigned hr6064-112)
 
 (isa hr6064-112 Bill-Idea)
 (writtenSponsored hr6064-112)
 (houseVoteResult hr6064-112 True)
-(houseVoteResult hr6064-112 True)
+(senateVoteResult hr6064-112 True)
 
 (isa hr360-112 Bill-Idea)
 (writtenSponsored hr360-112)
@@ -23394,13 +23392,13 @@
 (isa hr394-112 Bill-Idea)
 (writtenSponsored hr394-112)
 (houseVoteResult hr394-112 True)
-(houseVoteResult hr394-112 True)
+(senateVoteResult hr394-112 True)
 (presidentSigned hr394-112)
 
 (isa hr394-112 Bill-Idea)
 (writtenSponsored hr394-112)
 (houseVoteResult hr394-112 True)
-(houseVoteResult hr394-112 True)
+(senateVoteResult hr394-112 True)
 
 (isa hr5427-112 Bill-Idea)
 (writtenSponsored hr5427-112)
@@ -23578,13 +23576,13 @@
 (isa hr6063-112 Bill-Idea)
 (writtenSponsored hr6063-112)
 (houseVoteResult hr6063-112 True)
-(houseVoteResult hr6063-112 True)
+(senateVoteResult hr6063-112 True)
 (presidentSigned hr6063-112)
 
 (isa hr6063-112 Bill-Idea)
 (writtenSponsored hr6063-112)
 (houseVoteResult hr6063-112 True)
-(houseVoteResult hr6063-112 True)
+(senateVoteResult hr6063-112 True)
 
 (isa hr4734-112 Bill-Idea)
 (writtenSponsored hr4734-112)
@@ -23608,13 +23606,13 @@
 (isa hr3783-112 Bill-Idea)
 (writtenSponsored hr3783-112)
 (houseVoteResult hr3783-112 True)
-(houseVoteResult hr3783-112 True)
+(senateVoteResult hr3783-112 True)
 (presidentSigned hr3783-112)
 
 (isa hr3783-112 Bill-Idea)
 (writtenSponsored hr3783-112)
 (houseVoteResult hr3783-112 True)
-(houseVoteResult hr3783-112 True)
+(senateVoteResult hr3783-112 True)
 
 (isa hr2651-112 Bill-Idea)
 (writtenSponsored hr2651-112)
@@ -23979,13 +23977,13 @@
 (isa hr2660-112 Bill-Idea)
 (writtenSponsored hr2660-112)
 (houseVoteResult hr2660-112 True)
-(houseVoteResult hr2660-112 True)
+(senateVoteResult hr2660-112 True)
 (presidentSigned hr2660-112)
 
 (isa hr2660-112 Bill-Idea)
 (writtenSponsored hr2660-112)
 (houseVoteResult hr2660-112 True)
-(houseVoteResult hr2660-112 True)
+(senateVoteResult hr2660-112 True)
 
 (isa hr2452-112 Bill-Idea)
 (writtenSponsored hr2452-112)
@@ -24174,13 +24172,13 @@
 (isa hr2832-112 Bill-Idea)
 (writtenSponsored hr2832-112)
 (houseVoteResult hr2832-112 True)
-(houseVoteResult hr2832-112 True)
+(senateVoteResult hr2832-112 True)
 (presidentSigned hr2832-112)
 
 (isa hr2832-112 Bill-Idea)
 (writtenSponsored hr2832-112)
 (houseVoteResult hr2832-112 True)
-(houseVoteResult hr2832-112 True)
+(senateVoteResult hr2832-112 True)
 
 (isa hr5825-112 Bill-Idea)
 (writtenSponsored hr5825-112)
@@ -24290,13 +24288,13 @@
 (isa hr6634-112 Bill-Idea)
 (writtenSponsored hr6634-112)
 (houseVoteResult hr6634-112 True)
-(houseVoteResult hr6634-112 True)
+(senateVoteResult hr6634-112 True)
 (presidentSigned hr6634-112)
 
 (isa hr6634-112 Bill-Idea)
 (writtenSponsored hr6634-112)
 (houseVoteResult hr6634-112 True)
-(houseVoteResult hr6634-112 True)
+(senateVoteResult hr6634-112 True)
 
 (isa hr2294-112 Bill-Idea)
 (writtenSponsored hr2294-112)
@@ -24338,13 +24336,13 @@
 (isa hr366-112 Bill-Idea)
 (writtenSponsored hr366-112)
 (houseVoteResult hr366-112 True)
-(houseVoteResult hr366-112 True)
+(senateVoteResult hr366-112 True)
 (presidentSigned hr366-112)
 
 (isa hr366-112 Bill-Idea)
 (writtenSponsored hr366-112)
 (houseVoteResult hr366-112 True)
-(houseVoteResult hr366-112 True)
+(senateVoteResult hr366-112 True)
 
 (isa hr4735-112 Bill-Idea)
 (writtenSponsored hr4735-112)
@@ -24415,13 +24413,13 @@
 (isa hr4-112 Bill-Idea)
 (writtenSponsored hr4-112)
 (houseVoteResult hr4-112 True)
-(houseVoteResult hr4-112 True)
+(senateVoteResult hr4-112 True)
 (presidentSigned hr4-112)
 
 (isa hr4-112 Bill-Idea)
 (writtenSponsored hr4-112)
 (houseVoteResult hr4-112 True)
-(houseVoteResult hr4-112 True)
+(senateVoteResult hr4-112 True)
 
 (isa hr5419-112 Bill-Idea)
 (writtenSponsored hr5419-112)
@@ -24450,13 +24448,13 @@
 (isa hr4967-112 Bill-Idea)
 (writtenSponsored hr4967-112)
 (houseVoteResult hr4967-112 True)
-(houseVoteResult hr4967-112 True)
+(senateVoteResult hr4967-112 True)
 (presidentSigned hr4967-112)
 
 (isa hr4967-112 Bill-Idea)
 (writtenSponsored hr4967-112)
 (houseVoteResult hr4967-112 True)
-(houseVoteResult hr4967-112 True)
+(senateVoteResult hr4967-112 True)
 
 (isa hr1429-112 Bill-Idea)
 (writtenSponsored hr1429-112)
@@ -24491,24 +24489,24 @@
 (isa hr2055-112 Bill-Idea)
 (writtenSponsored hr2055-112)
 (houseVoteResult hr2055-112 True)
-(houseVoteResult hr2055-112 True)
+(senateVoteResult hr2055-112 True)
 (presidentSigned hr2055-112)
 
 (isa hr2055-112 Bill-Idea)
 (writtenSponsored hr2055-112)
 (houseVoteResult hr2055-112 True)
-(houseVoteResult hr2055-112 True)
+(senateVoteResult hr2055-112 True)
 
 (isa hr3187-112 Bill-Idea)
 (writtenSponsored hr3187-112)
 (houseVoteResult hr3187-112 True)
-(houseVoteResult hr3187-112 True)
+(senateVoteResult hr3187-112 True)
 (presidentSigned hr3187-112)
 
 (isa hr3187-112 Bill-Idea)
 (writtenSponsored hr3187-112)
 (houseVoteResult hr3187-112 True)
-(houseVoteResult hr3187-112 True)
+(senateVoteResult hr3187-112 True)
 
 (isa hr5270-112 Bill-Idea)
 (writtenSponsored hr5270-112)
@@ -24638,24 +24636,24 @@
 (isa hr1249-112 Bill-Idea)
 (writtenSponsored hr1249-112)
 (houseVoteResult hr1249-112 True)
-(houseVoteResult hr1249-112 True)
+(senateVoteResult hr1249-112 True)
 (presidentSigned hr1249-112)
 
 (isa hr1249-112 Bill-Idea)
 (writtenSponsored hr1249-112)
 (houseVoteResult hr1249-112 True)
-(houseVoteResult hr1249-112 True)
+(senateVoteResult hr1249-112 True)
 
 (isa hr368-112 Bill-Idea)
 (writtenSponsored hr368-112)
 (houseVoteResult hr368-112 True)
-(houseVoteResult hr368-112 True)
+(senateVoteResult hr368-112 True)
 (presidentSigned hr368-112)
 
 (isa hr368-112 Bill-Idea)
 (writtenSponsored hr368-112)
 (houseVoteResult hr368-112 True)
-(houseVoteResult hr368-112 True)
+(senateVoteResult hr368-112 True)
 
 (isa hr966-112 Bill-Idea)
 (writtenSponsored hr966-112)
@@ -24669,13 +24667,13 @@
 (isa hr5883-112 Bill-Idea)
 (writtenSponsored hr5883-112)
 (houseVoteResult hr5883-112 True)
-(houseVoteResult hr5883-112 True)
+(senateVoteResult hr5883-112 True)
 (presidentSigned hr5883-112)
 
 (isa hr5883-112 Bill-Idea)
 (writtenSponsored hr5883-112)
 (houseVoteResult hr5883-112 True)
-(houseVoteResult hr5883-112 True)
+(senateVoteResult hr5883-112 True)
 
 (isa hr4951-112 Bill-Idea)
 (writtenSponsored hr4951-112)
@@ -24858,13 +24856,13 @@
 (isa hr2867-112 Bill-Idea)
 (writtenSponsored hr2867-112)
 (houseVoteResult hr2867-112 True)
-(houseVoteResult hr2867-112 True)
+(senateVoteResult hr2867-112 True)
 (presidentSigned hr2867-112)
 
 (isa hr2867-112 Bill-Idea)
 (writtenSponsored hr2867-112)
 (houseVoteResult hr2867-112 True)
-(houseVoteResult hr2867-112 True)
+(senateVoteResult hr2867-112 True)
 
 (isa hr3189-112 Bill-Idea)
 (writtenSponsored hr3189-112)
@@ -24924,13 +24922,13 @@
 (isa hr4155-112 Bill-Idea)
 (writtenSponsored hr4155-112)
 (houseVoteResult hr4155-112 True)
-(houseVoteResult hr4155-112 True)
+(senateVoteResult hr4155-112 True)
 (presidentSigned hr4155-112)
 
 (isa hr4155-112 Bill-Idea)
 (writtenSponsored hr4155-112)
 (houseVoteResult hr4155-112 True)
-(houseVoteResult hr4155-112 True)
+(senateVoteResult hr4155-112 True)
 
 (isa hr506-112 Bill-Idea)
 (writtenSponsored hr506-112)
@@ -24944,13 +24942,13 @@
 (isa hr4367-112 Bill-Idea)
 (writtenSponsored hr4367-112)
 (houseVoteResult hr4367-112 True)
-(houseVoteResult hr4367-112 True)
+(senateVoteResult hr4367-112 True)
 (presidentSigned hr4367-112)
 
 (isa hr4367-112 Bill-Idea)
 (writtenSponsored hr4367-112)
 (houseVoteResult hr4367-112 True)
-(houseVoteResult hr4367-112 True)
+(senateVoteResult hr4367-112 True)
 
 (isa hr6430-112 Bill-Idea)
 (writtenSponsored hr6430-112)
@@ -25064,13 +25062,13 @@
 (isa hr1473-112 Bill-Idea)
 (writtenSponsored hr1473-112)
 (houseVoteResult hr1473-112 True)
-(houseVoteResult hr1473-112 True)
+(senateVoteResult hr1473-112 True)
 (presidentSigned hr1473-112)
 
 (isa hr1473-112 Bill-Idea)
 (writtenSponsored hr1473-112)
 (houseVoteResult hr1473-112 True)
-(houseVoteResult hr1473-112 True)
+(senateVoteResult hr1473-112 True)
 
 (isa hr3324-112 Bill-Idea)
 (writtenSponsored hr3324-112)
@@ -25166,13 +25164,13 @@
 (isa hr2453-112 Bill-Idea)
 (writtenSponsored hr2453-112)
 (houseVoteResult hr2453-112 True)
-(houseVoteResult hr2453-112 True)
+(senateVoteResult hr2453-112 True)
 (presidentSigned hr2453-112)
 
 (isa hr2453-112 Bill-Idea)
 (writtenSponsored hr2453-112)
 (houseVoteResult hr2453-112 True)
-(houseVoteResult hr2453-112 True)
+(senateVoteResult hr2453-112 True)
 
 (isa hr3581-112 Bill-Idea)
 (writtenSponsored hr3581-112)
@@ -25211,13 +25209,13 @@
 (isa hr793-112 Bill-Idea)
 (writtenSponsored hr793-112)
 (houseVoteResult hr793-112 True)
-(houseVoteResult hr793-112 True)
+(senateVoteResult hr793-112 True)
 (presidentSigned hr793-112)
 
 (isa hr793-112 Bill-Idea)
 (writtenSponsored hr793-112)
 (houseVoteResult hr793-112 True)
-(houseVoteResult hr793-112 True)
+(senateVoteResult hr793-112 True)
 
 (isa hr4106-112 Bill-Idea)
 (writtenSponsored hr4106-112)
@@ -25322,13 +25320,13 @@
 (isa hr3912-112 Bill-Idea)
 (writtenSponsored hr3912-112)
 (houseVoteResult hr3912-112 True)
-(houseVoteResult hr3912-112 True)
+(senateVoteResult hr3912-112 True)
 (presidentSigned hr3912-112)
 
 (isa hr3912-112 Bill-Idea)
 (writtenSponsored hr3912-112)
 (houseVoteResult hr3912-112 True)
-(houseVoteResult hr3912-112 True)
+(senateVoteResult hr3912-112 True)
 
 (isa hr4139-112 Bill-Idea)
 (writtenSponsored hr4139-112)
@@ -25446,13 +25444,13 @@
 (isa hr2668-112 Bill-Idea)
 (writtenSponsored hr2668-112)
 (houseVoteResult hr2668-112 True)
-(houseVoteResult hr2668-112 True)
+(senateVoteResult hr2668-112 True)
 (presidentSigned hr2668-112)
 
 (isa hr2668-112 Bill-Idea)
 (writtenSponsored hr2668-112)
 (houseVoteResult hr2668-112 True)
-(houseVoteResult hr2668-112 True)
+(senateVoteResult hr2668-112 True)
 
 (isa hr3588-112 Bill-Idea)
 (writtenSponsored hr3588-112)
@@ -25546,7 +25544,7 @@
 (isa hr1021-112 Bill-Idea)
 (writtenSponsored hr1021-112)
 (houseVoteResult hr1021-112 True)
-(houseVoteResult hr1021-112 True)
+(senateVoteResult hr1021-112 True)
 
 (isa hr4761-112 Bill-Idea)
 (writtenSponsored hr4761-112)
@@ -25809,13 +25807,13 @@
 (isa hr4045-112 Bill-Idea)
 (writtenSponsored hr4045-112)
 (houseVoteResult hr4045-112 True)
-(houseVoteResult hr4045-112 True)
+(senateVoteResult hr4045-112 True)
 (presidentSigned hr4045-112)
 
 (isa hr4045-112 Bill-Idea)
 (writtenSponsored hr4045-112)
 (houseVoteResult hr4045-112 True)
-(houseVoteResult hr4045-112 True)
+(senateVoteResult hr4045-112 True)
 
 (isa hr416-112 Bill-Idea)
 (writtenSponsored hr416-112)
@@ -25914,13 +25912,13 @@
 (isa hr3869-112 Bill-Idea)
 (writtenSponsored hr3869-112)
 (houseVoteResult hr3869-112 True)
-(houseVoteResult hr3869-112 True)
+(senateVoteResult hr3869-112 True)
 (presidentSigned hr3869-112)
 
 (isa hr3869-112 Bill-Idea)
 (writtenSponsored hr3869-112)
 (houseVoteResult hr3869-112 True)
-(houseVoteResult hr3869-112 True)
+(senateVoteResult hr3869-112 True)
 
 (isa hr2187-112 Bill-Idea)
 (writtenSponsored hr2187-112)
@@ -26071,13 +26069,13 @@
 (isa hr1162-112 Bill-Idea)
 (writtenSponsored hr1162-112)
 (houseVoteResult hr1162-112 True)
-(houseVoteResult hr1162-112 True)
+(senateVoteResult hr1162-112 True)
 (presidentSigned hr1162-112)
 
 (isa hr1162-112 Bill-Idea)
 (writtenSponsored hr1162-112)
 (houseVoteResult hr1162-112 True)
-(houseVoteResult hr1162-112 True)
+(senateVoteResult hr1162-112 True)
 
 (isa hr4410-112 Bill-Idea)
 (writtenSponsored hr4410-112)
@@ -26295,13 +26293,13 @@
 (isa hr4073-112 Bill-Idea)
 (writtenSponsored hr4073-112)
 (houseVoteResult hr4073-112 True)
-(houseVoteResult hr4073-112 True)
+(senateVoteResult hr4073-112 True)
 (presidentSigned hr4073-112)
 
 (isa hr4073-112 Bill-Idea)
 (writtenSponsored hr4073-112)
 (houseVoteResult hr4073-112 True)
-(houseVoteResult hr4073-112 True)
+(senateVoteResult hr4073-112 True)
 
 (isa hr420-112 Bill-Idea)
 (writtenSponsored hr420-112)
@@ -26534,13 +26532,13 @@
 (isa hr4212-112 Bill-Idea)
 (writtenSponsored hr4212-112)
 (houseVoteResult hr4212-112 True)
-(houseVoteResult hr4212-112 True)
+(senateVoteResult hr4212-112 True)
 (presidentSigned hr4212-112)
 
 (isa hr4212-112 Bill-Idea)
 (writtenSponsored hr4212-112)
 (houseVoteResult hr4212-112 True)
-(houseVoteResult hr4212-112 True)
+(senateVoteResult hr4212-112 True)
 
 (isa hr1760-112 Bill-Idea)
 (writtenSponsored hr1760-112)
@@ -26560,13 +26558,13 @@
 (isa hr473-112 Bill-Idea)
 (writtenSponsored hr473-112)
 (houseVoteResult hr473-112 True)
-(houseVoteResult hr473-112 True)
+(senateVoteResult hr473-112 True)
 (presidentSigned hr473-112)
 
 (isa hr473-112 Bill-Idea)
 (writtenSponsored hr473-112)
 (houseVoteResult hr473-112 True)
-(houseVoteResult hr473-112 True)
+(senateVoteResult hr473-112 True)
 
 (isa hr1552-112 Bill-Idea)
 (writtenSponsored hr1552-112)
@@ -26656,13 +26654,13 @@
 (isa hr3001-112 Bill-Idea)
 (writtenSponsored hr3001-112)
 (houseVoteResult hr3001-112 True)
-(houseVoteResult hr3001-112 True)
+(senateVoteResult hr3001-112 True)
 (presidentSigned hr3001-112)
 
 (isa hr3001-112 Bill-Idea)
 (writtenSponsored hr3001-112)
 (houseVoteResult hr3001-112 True)
-(houseVoteResult hr3001-112 True)
+(senateVoteResult hr3001-112 True)
 
 (isa hr6573-112 Bill-Idea)
 (writtenSponsored hr6573-112)
@@ -26745,13 +26743,13 @@
 (isa hr6587-112 Bill-Idea)
 (writtenSponsored hr6587-112)
 (houseVoteResult hr6587-112 True)
-(houseVoteResult hr6587-112 True)
+(senateVoteResult hr6587-112 True)
 (presidentSigned hr6587-112)
 
 (isa hr6587-112 Bill-Idea)
 (writtenSponsored hr6587-112)
 (houseVoteResult hr6587-112 True)
-(houseVoteResult hr6587-112 True)
+(senateVoteResult hr6587-112 True)
 
 (isa hr683-112 Bill-Idea)
 (writtenSponsored hr683-112)
@@ -26914,13 +26912,13 @@
 (isa hr4223-112 Bill-Idea)
 (writtenSponsored hr4223-112)
 (houseVoteResult hr4223-112 True)
-(houseVoteResult hr4223-112 True)
+(senateVoteResult hr4223-112 True)
 (presidentSigned hr4223-112)
 
 (isa hr4223-112 Bill-Idea)
 (writtenSponsored hr4223-112)
 (houseVoteResult hr4223-112 True)
-(houseVoteResult hr4223-112 True)
+(senateVoteResult hr4223-112 True)
 
 (isa hr670-112 Bill-Idea)
 (writtenSponsored hr670-112)
@@ -26941,13 +26939,13 @@
 (isa hr489-112 Bill-Idea)
 (writtenSponsored hr489-112)
 (houseVoteResult hr489-112 True)
-(houseVoteResult hr489-112 True)
+(senateVoteResult hr489-112 True)
 (presidentSigned hr489-112)
 
 (isa hr489-112 Bill-Idea)
 (writtenSponsored hr489-112)
 (houseVoteResult hr489-112 True)
-(houseVoteResult hr489-112 True)
+(senateVoteResult hr489-112 True)
 
 (isa hr5108-112 Bill-Idea)
 (writtenSponsored hr5108-112)
@@ -26999,13 +26997,13 @@
 (isa hr1369-112 Bill-Idea)
 (writtenSponsored hr1369-112)
 (houseVoteResult hr1369-112 True)
-(houseVoteResult hr1369-112 True)
+(senateVoteResult hr1369-112 True)
 (presidentSigned hr1369-112)
 
 (isa hr1369-112 Bill-Idea)
 (writtenSponsored hr1369-112)
 (houseVoteResult hr1369-112 True)
-(houseVoteResult hr1369-112 True)
+(senateVoteResult hr1369-112 True)
 
 (isa hr2188-112 Bill-Idea)
 (writtenSponsored hr2188-112)
@@ -27028,13 +27026,13 @@
 (isa hr3892-112 Bill-Idea)
 (writtenSponsored hr3892-112)
 (houseVoteResult hr3892-112 True)
-(houseVoteResult hr3892-112 True)
+(senateVoteResult hr3892-112 True)
 (presidentSigned hr3892-112)
 
 (isa hr3892-112 Bill-Idea)
 (writtenSponsored hr3892-112)
 (houseVoteResult hr3892-112 True)
-(houseVoteResult hr3892-112 True)
+(senateVoteResult hr3892-112 True)
 
 (isa hr2940-112 Bill-Idea)
 (writtenSponsored hr2940-112)
@@ -27088,13 +27086,13 @@
 (isa hr4240-112 Bill-Idea)
 (writtenSponsored hr4240-112)
 (houseVoteResult hr4240-112 True)
-(houseVoteResult hr4240-112 True)
+(senateVoteResult hr4240-112 True)
 (presidentSigned hr4240-112)
 
 (isa hr4240-112 Bill-Idea)
 (writtenSponsored hr4240-112)
 (houseVoteResult hr4240-112 True)
-(houseVoteResult hr4240-112 True)
+(senateVoteResult hr4240-112 True)
 
 (isa hr613-112 Bill-Idea)
 (writtenSponsored hr613-112)
@@ -27138,13 +27136,13 @@
 (isa hr2527-112 Bill-Idea)
 (writtenSponsored hr2527-112)
 (houseVoteResult hr2527-112 True)
-(houseVoteResult hr2527-112 True)
+(senateVoteResult hr2527-112 True)
 (presidentSigned hr2527-112)
 
 (isa hr2527-112 Bill-Idea)
 (writtenSponsored hr2527-112)
 (houseVoteResult hr2527-112 True)
-(houseVoteResult hr2527-112 True)
+(senateVoteResult hr2527-112 True)
 
 (isa hr6187-112 Bill-Idea)
 (writtenSponsored hr6187-112)
@@ -27164,13 +27162,13 @@
 (isa hr2715-112 Bill-Idea)
 (writtenSponsored hr2715-112)
 (houseVoteResult hr2715-112 True)
-(houseVoteResult hr2715-112 True)
+(senateVoteResult hr2715-112 True)
 (presidentSigned hr2715-112)
 
 (isa hr2715-112 Bill-Idea)
 (writtenSponsored hr2715-112)
 (houseVoteResult hr2715-112 True)
-(houseVoteResult hr2715-112 True)
+(senateVoteResult hr2715-112 True)
 
 (isa hr5154-112 Bill-Idea)
 (writtenSponsored hr5154-112)
@@ -27219,13 +27217,13 @@
 (isa hr2947-112 Bill-Idea)
 (writtenSponsored hr2947-112)
 (houseVoteResult hr2947-112 True)
-(houseVoteResult hr2947-112 True)
+(senateVoteResult hr2947-112 True)
 (presidentSigned hr2947-112)
 
 (isa hr2947-112 Bill-Idea)
 (writtenSponsored hr2947-112)
 (houseVoteResult hr2947-112 True)
-(houseVoteResult hr2947-112 True)
+(senateVoteResult hr2947-112 True)
 
 (isa hr5198-112 Bill-Idea)
 (writtenSponsored hr5198-112)
@@ -27251,13 +27249,13 @@
 (isa hr6379-112 Bill-Idea)
 (writtenSponsored hr6379-112)
 (houseVoteResult hr6379-112 True)
-(houseVoteResult hr6379-112 True)
+(senateVoteResult hr6379-112 True)
 (presidentSigned hr6379-112)
 
 (isa hr6379-112 Bill-Idea)
 (writtenSponsored hr6379-112)
 (houseVoteResult hr6379-112 True)
-(houseVoteResult hr6379-112 True)
+(senateVoteResult hr6379-112 True)
 
 (isa hr1960-112 Bill-Idea)
 (writtenSponsored hr1960-112)
@@ -27364,13 +27362,13 @@
 (isa hr4849-112 Bill-Idea)
 (writtenSponsored hr4849-112)
 (houseVoteResult hr4849-112 True)
-(houseVoteResult hr4849-112 True)
+(senateVoteResult hr4849-112 True)
 (presidentSigned hr4849-112)
 
 (isa hr4849-112 Bill-Idea)
 (writtenSponsored hr4849-112)
 (houseVoteResult hr4849-112 True)
-(houseVoteResult hr4849-112 True)
+(senateVoteResult hr4849-112 True)
 
 (isa hr3250-112 Bill-Idea)
 (writtenSponsored hr3250-112)
@@ -27399,13 +27397,13 @@
 (isa hr6189-112 Bill-Idea)
 (writtenSponsored hr6189-112)
 (houseVoteResult hr6189-112 True)
-(houseVoteResult hr6189-112 True)
+(senateVoteResult hr6189-112 True)
 (presidentSigned hr6189-112)
 
 (isa hr6189-112 Bill-Idea)
 (writtenSponsored hr6189-112)
 (houseVoteResult hr6189-112 True)
-(houseVoteResult hr6189-112 True)
+(senateVoteResult hr6189-112 True)
 
 (isa hr24-112 Bill-Idea)
 (writtenSponsored hr24-112)
@@ -27783,13 +27781,13 @@
 (isa hr443-112 Bill-Idea)
 (writtenSponsored hr443-112)
 (houseVoteResult hr443-112 True)
-(houseVoteResult hr443-112 True)
+(senateVoteResult hr443-112 True)
 (presidentSigned hr443-112)
 
 (isa hr443-112 Bill-Idea)
 (writtenSponsored hr443-112)
 (houseVoteResult hr443-112 True)
-(houseVoteResult hr443-112 True)
+(senateVoteResult hr443-112 True)
 
 (isa hr3235-112 Bill-Idea)
 (writtenSponsored hr3235-112)
@@ -27862,13 +27860,13 @@
 (isa hr1905-112 Bill-Idea)
 (writtenSponsored hr1905-112)
 (houseVoteResult hr1905-112 True)
-(houseVoteResult hr1905-112 True)
+(senateVoteResult hr1905-112 True)
 (presidentSigned hr1905-112)
 
 (isa hr1905-112 Bill-Idea)
 (writtenSponsored hr1905-112)
 (houseVoteResult hr1905-112 True)
-(houseVoteResult hr1905-112 True)
+(senateVoteResult hr1905-112 True)
 
 (isa hr5599-112 Bill-Idea)
 (writtenSponsored hr5599-112)
@@ -27921,13 +27919,13 @@
 (isa hr6586-112 Bill-Idea)
 (writtenSponsored hr6586-112)
 (houseVoteResult hr6586-112 True)
-(houseVoteResult hr6586-112 True)
+(senateVoteResult hr6586-112 True)
 (presidentSigned hr6586-112)
 
 (isa hr6586-112 Bill-Idea)
 (writtenSponsored hr6586-112)
 (houseVoteResult hr6586-112 True)
-(houseVoteResult hr6586-112 True)
+(senateVoteResult hr6586-112 True)
 
 (isa hr2126-112 Bill-Idea)
 (writtenSponsored hr2126-112)
@@ -27968,13 +27966,13 @@
 (isa hr6116-112 Bill-Idea)
 (writtenSponsored hr6116-112)
 (houseVoteResult hr6116-112 True)
-(houseVoteResult hr6116-112 True)
+(senateVoteResult hr6116-112 True)
 (presidentSigned hr6116-112)
 
 (isa hr6116-112 Bill-Idea)
 (writtenSponsored hr6116-112)
 (houseVoteResult hr6116-112 True)
-(houseVoteResult hr6116-112 True)
+(senateVoteResult hr6116-112 True)
 
 (isa hr3464-112 Bill-Idea)
 (writtenSponsored hr3464-112)
@@ -28302,13 +28300,13 @@
 (isa hr6118-112 Bill-Idea)
 (writtenSponsored hr6118-112)
 (houseVoteResult hr6118-112 True)
-(houseVoteResult hr6118-112 True)
+(senateVoteResult hr6118-112 True)
 (presidentSigned hr6118-112)
 
 (isa hr6118-112 Bill-Idea)
 (writtenSponsored hr6118-112)
 (houseVoteResult hr6118-112 True)
-(houseVoteResult hr6118-112 True)
+(senateVoteResult hr6118-112 True)
 
 (isa hr812-112 Bill-Idea)
 (writtenSponsored hr812-112)
@@ -28405,13 +28403,13 @@
 (isa hr2338-112 Bill-Idea)
 (writtenSponsored hr2338-112)
 (houseVoteResult hr2338-112 True)
-(houseVoteResult hr2338-112 True)
+(senateVoteResult hr2338-112 True)
 (presidentSigned hr2338-112)
 
 (isa hr2338-112 Bill-Idea)
 (writtenSponsored hr2338-112)
 (houseVoteResult hr2338-112 True)
-(houseVoteResult hr2338-112 True)
+(senateVoteResult hr2338-112 True)
 
 (isa hr1320-112 Bill-Idea)
 (writtenSponsored hr1320-112)
@@ -28431,13 +28429,13 @@
 (isa hr3477-112 Bill-Idea)
 (writtenSponsored hr3477-112)
 (houseVoteResult hr3477-112 True)
-(houseVoteResult hr3477-112 True)
+(senateVoteResult hr3477-112 True)
 (presidentSigned hr3477-112)
 
 (isa hr3477-112 Bill-Idea)
 (writtenSponsored hr3477-112)
 (houseVoteResult hr3477-112 True)
-(houseVoteResult hr3477-112 True)
+(senateVoteResult hr3477-112 True)
 
 (isa hr6337-112 Bill-Idea)
 (writtenSponsored hr6337-112)
@@ -28628,13 +28626,13 @@
 (isa hr662-112 Bill-Idea)
 (writtenSponsored hr662-112)
 (houseVoteResult hr662-112 True)
-(houseVoteResult hr662-112 True)
+(senateVoteResult hr662-112 True)
 (presidentSigned hr662-112)
 
 (isa hr662-112 Bill-Idea)
 (writtenSponsored hr662-112)
 (houseVoteResult hr662-112 True)
-(houseVoteResult hr662-112 True)
+(senateVoteResult hr662-112 True)
 
 (isa hr4231-112 Bill-Idea)
 (writtenSponsored hr4231-112)
@@ -28907,13 +28905,13 @@
 (isa hr1540-112 Bill-Idea)
 (writtenSponsored hr1540-112)
 (houseVoteResult hr1540-112 True)
-(houseVoteResult hr1540-112 True)
+(senateVoteResult hr1540-112 True)
 (presidentSigned hr1540-112)
 
 (isa hr1540-112 Bill-Idea)
 (writtenSponsored hr1540-112)
 (houseVoteResult hr1540-112 True)
-(houseVoteResult hr1540-112 True)
+(senateVoteResult hr1540-112 True)
 
 (isa hr461-112 Bill-Idea)
 (writtenSponsored hr461-112)
@@ -29219,13 +29217,13 @@
 (isa hr2706-112 Bill-Idea)
 (writtenSponsored hr2706-112)
 (houseVoteResult hr2706-112 True)
-(houseVoteResult hr2706-112 True)
+(senateVoteResult hr2706-112 True)
 (presidentSigned hr2706-112)
 
 (isa hr2706-112 Bill-Idea)
 (writtenSponsored hr2706-112)
 (houseVoteResult hr2706-112 True)
-(houseVoteResult hr2706-112 True)
+(senateVoteResult hr2706-112 True)
 
 (isa hr5523-112 Bill-Idea)
 (writtenSponsored hr5523-112)
@@ -29248,13 +29246,13 @@
 (isa hr3412-112 Bill-Idea)
 (writtenSponsored hr3412-112)
 (houseVoteResult hr3412-112 True)
-(houseVoteResult hr3412-112 True)
+(senateVoteResult hr3412-112 True)
 (presidentSigned hr3412-112)
 
 (isa hr3412-112 Bill-Idea)
 (writtenSponsored hr3412-112)
 (houseVoteResult hr3412-112 True)
-(houseVoteResult hr3412-112 True)
+(senateVoteResult hr3412-112 True)
 
 (isa hr6160-112 Bill-Idea)
 (writtenSponsored hr6160-112)
@@ -29408,13 +29406,13 @@
 (isa hr4057-112 Bill-Idea)
 (writtenSponsored hr4057-112)
 (houseVoteResult hr4057-112 True)
-(houseVoteResult hr4057-112 True)
+(senateVoteResult hr4057-112 True)
 (presidentSigned hr4057-112)
 
 (isa hr4057-112 Bill-Idea)
 (writtenSponsored hr4057-112)
 (houseVoteResult hr4057-112 True)
-(houseVoteResult hr4057-112 True)
+(senateVoteResult hr4057-112 True)
 
 (isa hr5185-112 Bill-Idea)
 (writtenSponsored hr5185-112)
@@ -29431,13 +29429,13 @@
 (isa hr2192-112 Bill-Idea)
 (writtenSponsored hr2192-112)
 (houseVoteResult hr2192-112 True)
-(houseVoteResult hr2192-112 True)
+(senateVoteResult hr2192-112 True)
 (presidentSigned hr2192-112)
 
 (isa hr2192-112 Bill-Idea)
 (writtenSponsored hr2192-112)
 (houseVoteResult hr2192-112 True)
-(houseVoteResult hr2192-112 True)
+(senateVoteResult hr2192-112 True)
 
 (isa hr3040-112 Bill-Idea)
 (writtenSponsored hr3040-112)
@@ -29460,13 +29458,13 @@
 (isa hr6156-112 Bill-Idea)
 (writtenSponsored hr6156-112)
 (houseVoteResult hr6156-112 True)
-(houseVoteResult hr6156-112 True)
+(senateVoteResult hr6156-112 True)
 (presidentSigned hr6156-112)
 
 (isa hr6156-112 Bill-Idea)
 (writtenSponsored hr6156-112)
 (houseVoteResult hr6156-112 True)
-(houseVoteResult hr6156-112 True)
+(senateVoteResult hr6156-112 True)
 
 (isa hr4601-112 Bill-Idea)
 (writtenSponsored hr4601-112)
@@ -29490,13 +29488,13 @@
 (isa hr6364-112 Bill-Idea)
 (writtenSponsored hr6364-112)
 (houseVoteResult hr6364-112 True)
-(houseVoteResult hr6364-112 True)
+(senateVoteResult hr6364-112 True)
 (presidentSigned hr6364-112)
 
 (isa hr6364-112 Bill-Idea)
 (writtenSponsored hr6364-112)
 (houseVoteResult hr6364-112 True)
-(houseVoteResult hr6364-112 True)
+(senateVoteResult hr6364-112 True)
 
 (isa hr2159-112 Bill-Idea)
 (writtenSponsored hr2159-112)
@@ -29558,13 +29556,13 @@
 (isa hr5986-112 Bill-Idea)
 (writtenSponsored hr5986-112)
 (houseVoteResult hr5986-112 True)
-(houseVoteResult hr5986-112 True)
+(senateVoteResult hr5986-112 True)
 (presidentSigned hr5986-112)
 
 (isa hr5986-112 Bill-Idea)
 (writtenSponsored hr5986-112)
 (houseVoteResult hr5986-112 True)
-(houseVoteResult hr5986-112 True)
+(senateVoteResult hr5986-112 True)
 
 (isa hr4434-112 Bill-Idea)
 (writtenSponsored hr4434-112)
@@ -29590,13 +29588,13 @@
 (isa hr4606-112 Bill-Idea)
 (writtenSponsored hr4606-112)
 (houseVoteResult hr4606-112 True)
-(houseVoteResult hr4606-112 True)
+(senateVoteResult hr4606-112 True)
 (presidentSigned hr4606-112)
 
 (isa hr4606-112 Bill-Idea)
 (writtenSponsored hr4606-112)
 (houseVoteResult hr4606-112 True)
-(houseVoteResult hr4606-112 True)
+(senateVoteResult hr4606-112 True)
 
 (isa hr1374-112 Bill-Idea)
 (writtenSponsored hr1374-112)
@@ -29661,13 +29659,13 @@
 (isa hr5512-112 Bill-Idea)
 (writtenSponsored hr5512-112)
 (houseVoteResult hr5512-112 True)
-(houseVoteResult hr5512-112 True)
+(senateVoteResult hr5512-112 True)
 (presidentSigned hr5512-112)
 
 (isa hr5512-112 Bill-Idea)
 (writtenSponsored hr5512-112)
 (houseVoteResult hr5512-112 True)
-(houseVoteResult hr5512-112 True)
+(senateVoteResult hr5512-112 True)
 
 (isa hr2737-112 Bill-Idea)
 (writtenSponsored hr2737-112)
@@ -29696,13 +29694,13 @@
 (isa hr3078-112 Bill-Idea)
 (writtenSponsored hr3078-112)
 (houseVoteResult hr3078-112 True)
-(houseVoteResult hr3078-112 True)
+(senateVoteResult hr3078-112 True)
 (presidentSigned hr3078-112)
 
 (isa hr3078-112 Bill-Idea)
 (writtenSponsored hr3078-112)
 (houseVoteResult hr3078-112 True)
-(houseVoteResult hr3078-112 True)
+(senateVoteResult hr3078-112 True)
 
 (isa hr2996-112 Bill-Idea)
 (writtenSponsored hr2996-112)
@@ -29878,13 +29876,13 @@
 (isa hr3672-112 Bill-Idea)
 (writtenSponsored hr3672-112)
 (houseVoteResult hr3672-112 True)
-(houseVoteResult hr3672-112 True)
+(senateVoteResult hr3672-112 True)
 (presidentSigned hr3672-112)
 
 (isa hr3672-112 Bill-Idea)
 (writtenSponsored hr3672-112)
 (houseVoteResult hr3672-112 True)
-(houseVoteResult hr3672-112 True)
+(senateVoteResult hr3672-112 True)
 
 (isa hr6300-112 Bill-Idea)
 (writtenSponsored hr6300-112)
@@ -30322,13 +30320,13 @@
 (isa hr6336-112 Bill-Idea)
 (writtenSponsored hr6336-112)
 (houseVoteResult hr6336-112 True)
-(houseVoteResult hr6336-112 True)
+(senateVoteResult hr6336-112 True)
 (presidentSigned hr6336-112)
 
 (isa hr6336-112 Bill-Idea)
 (writtenSponsored hr6336-112)
 (houseVoteResult hr6336-112 True)
-(houseVoteResult hr6336-112 True)
+(senateVoteResult hr6336-112 True)
 
 (isa hr4461-112 Bill-Idea)
 (writtenSponsored hr4461-112)
@@ -30373,13 +30371,13 @@
 (isa hr3220-112 Bill-Idea)
 (writtenSponsored hr3220-112)
 (houseVoteResult hr3220-112 True)
-(houseVoteResult hr3220-112 True)
+(senateVoteResult hr3220-112 True)
 (presidentSigned hr3220-112)
 
 (isa hr3220-112 Bill-Idea)
 (writtenSponsored hr3220-112)
 (houseVoteResult hr3220-112 True)
-(houseVoteResult hr3220-112 True)
+(senateVoteResult hr3220-112 True)
 
 (isa hr4005-112 Bill-Idea)
 (writtenSponsored hr4005-112)
@@ -30523,13 +30521,13 @@
 (isa hr3079-112 Bill-Idea)
 (writtenSponsored hr3079-112)
 (houseVoteResult hr3079-112 True)
-(houseVoteResult hr3079-112 True)
+(senateVoteResult hr3079-112 True)
 (presidentSigned hr3079-112)
 
 (isa hr3079-112 Bill-Idea)
 (writtenSponsored hr3079-112)
 (houseVoteResult hr3079-112 True)
-(houseVoteResult hr3079-112 True)
+(senateVoteResult hr3079-112 True)
 
 (isa hr2399-112 Bill-Idea)
 (writtenSponsored hr2399-112)
@@ -30713,13 +30711,13 @@
 (isa hr298-112 Bill-Idea)
 (writtenSponsored hr298-112)
 (houseVoteResult hr298-112 True)
-(houseVoteResult hr298-112 True)
+(senateVoteResult hr298-112 True)
 (presidentSigned hr298-112)
 
 (isa hr298-112 Bill-Idea)
 (writtenSponsored hr298-112)
 (houseVoteResult hr298-112 True)
-(houseVoteResult hr298-112 True)
+(senateVoteResult hr298-112 True)
 
 (isa hr896-112 Bill-Idea)
 (writtenSponsored hr896-112)
@@ -30754,13 +30752,13 @@
 (isa hr3413-112 Bill-Idea)
 (writtenSponsored hr3413-112)
 (houseVoteResult hr3413-112 True)
-(houseVoteResult hr3413-112 True)
+(senateVoteResult hr3413-112 True)
 (presidentSigned hr3413-112)
 
 (isa hr3413-112 Bill-Idea)
 (writtenSponsored hr3413-112)
 (houseVoteResult hr3413-112 True)
-(houseVoteResult hr3413-112 True)
+(senateVoteResult hr3413-112 True)
 
 (isa hr1720-112 Bill-Idea)
 (writtenSponsored hr1720-112)
@@ -30865,13 +30863,13 @@
 (isa hr1975-112 Bill-Idea)
 (writtenSponsored hr1975-112)
 (houseVoteResult hr1975-112 True)
-(houseVoteResult hr1975-112 True)
+(senateVoteResult hr1975-112 True)
 (presidentSigned hr1975-112)
 
 (isa hr1975-112 Bill-Idea)
 (writtenSponsored hr1975-112)
 (houseVoteResult hr1975-112 True)
-(houseVoteResult hr1975-112 True)
+(senateVoteResult hr1975-112 True)
 
 (isa hr1981-112 Bill-Idea)
 (writtenSponsored hr1981-112)
@@ -31128,13 +31126,13 @@
 (isa hr6014-112 Bill-Idea)
 (writtenSponsored hr6014-112)
 (houseVoteResult hr6014-112 True)
-(houseVoteResult hr6014-112 True)
+(senateVoteResult hr6014-112 True)
 (presidentSigned hr6014-112)
 
 (isa hr6014-112 Bill-Idea)
 (writtenSponsored hr6014-112)
 (houseVoteResult hr6014-112 True)
-(houseVoteResult hr6014-112 True)
+(senateVoteResult hr6014-112 True)
 
 (isa hr2686-112 Bill-Idea)
 (writtenSponsored hr2686-112)
@@ -31232,13 +31230,13 @@
 (isa hr5837-112 Bill-Idea)
 (writtenSponsored hr5837-112)
 (houseVoteResult hr5837-112 True)
-(houseVoteResult hr5837-112 True)
+(senateVoteResult hr5837-112 True)
 (presidentSigned hr5837-112)
 
 (isa hr5837-112 Bill-Idea)
 (writtenSponsored hr5837-112)
 (houseVoteResult hr5837-112 True)
-(houseVoteResult hr5837-112 True)
+(senateVoteResult hr5837-112 True)
 
 (isa hr2820-112 Bill-Idea)
 (writtenSponsored hr2820-112)
@@ -31297,13 +31295,13 @@
 (isa hr2447-112 Bill-Idea)
 (writtenSponsored hr2447-112)
 (houseVoteResult hr2447-112 True)
-(houseVoteResult hr2447-112 True)
+(senateVoteResult hr2447-112 True)
 (presidentSigned hr2447-112)
 
 (isa hr2447-112 Bill-Idea)
 (writtenSponsored hr2447-112)
 (houseVoteResult hr2447-112 True)
-(houseVoteResult hr2447-112 True)
+(senateVoteResult hr2447-112 True)
 
 (isa hr3595-112 Bill-Idea)
 (writtenSponsored hr3595-112)
@@ -31510,7 +31508,7 @@
 (isa hr3765-112 Bill-Idea)
 (writtenSponsored hr3765-112)
 (houseVoteResult hr3765-112 True)
-(houseVoteResult hr3765-112 True)
+(senateVoteResult hr3765-112 True)
 (presidentSigned hr3765-112)
 
 (isa hr3765-112 Bill-Idea)
@@ -31606,13 +31604,13 @@
 (isa hr789-112 Bill-Idea)
 (writtenSponsored hr789-112)
 (houseVoteResult hr789-112 True)
-(houseVoteResult hr789-112 True)
+(senateVoteResult hr789-112 True)
 (presidentSigned hr789-112)
 
 (isa hr789-112 Bill-Idea)
 (writtenSponsored hr789-112)
 (houseVoteResult hr789-112 True)
-(houseVoteResult hr789-112 True)
+(senateVoteResult hr789-112 True)
 
 (isa hr5208-112 Bill-Idea)
 (writtenSponsored hr5208-112)
@@ -31766,13 +31764,13 @@
 (isa hr6620-112 Bill-Idea)
 (writtenSponsored hr6620-112)
 (houseVoteResult hr6620-112 True)
-(houseVoteResult hr6620-112 True)
+(senateVoteResult hr6620-112 True)
 (presidentSigned hr6620-112)
 
 (isa hr6620-112 Bill-Idea)
 (writtenSponsored hr6620-112)
 (houseVoteResult hr6620-112 True)
-(houseVoteResult hr6620-112 True)
+(senateVoteResult hr6620-112 True)
 
 (isa hr2280-112 Bill-Idea)
 (writtenSponsored hr2280-112)
@@ -31848,13 +31846,13 @@
 (isa hr2422-112 Bill-Idea)
 (writtenSponsored hr2422-112)
 (houseVoteResult hr2422-112 True)
-(houseVoteResult hr2422-112 True)
+(senateVoteResult hr2422-112 True)
 (presidentSigned hr2422-112)
 
 (isa hr2422-112 Bill-Idea)
 (writtenSponsored hr2422-112)
 (houseVoteResult hr2422-112 True)
-(houseVoteResult hr2422-112 True)
+(senateVoteResult hr2422-112 True)
 
 (isa hr5263-112 Bill-Idea)
 (writtenSponsored hr5263-112)
@@ -31913,13 +31911,13 @@
 (isa hr2845-112 Bill-Idea)
 (writtenSponsored hr2845-112)
 (houseVoteResult hr2845-112 True)
-(houseVoteResult hr2845-112 True)
+(senateVoteResult hr2845-112 True)
 (presidentSigned hr2845-112)
 
 (isa hr2845-112 Bill-Idea)
 (writtenSponsored hr2845-112)
 (houseVoteResult hr2845-112 True)
-(houseVoteResult hr2845-112 True)
+(senateVoteResult hr2845-112 True)
 
 (isa hr3997-112 Bill-Idea)
 (writtenSponsored hr3997-112)
@@ -31927,13 +31925,13 @@
 (isa hr2079-112 Bill-Idea)
 (writtenSponsored hr2079-112)
 (houseVoteResult hr2079-112 True)
-(houseVoteResult hr2079-112 True)
+(senateVoteResult hr2079-112 True)
 (presidentSigned hr2079-112)
 
 (isa hr2079-112 Bill-Idea)
 (writtenSponsored hr2079-112)
 (houseVoteResult hr2079-112 True)
-(houseVoteResult hr2079-112 True)
+(senateVoteResult hr2079-112 True)
 
 (isa hr1298-112 Bill-Idea)
 (writtenSponsored hr1298-112)
@@ -32027,13 +32025,13 @@
 (isa hr1402-112 Bill-Idea)
 (writtenSponsored hr1402-112)
 (houseVoteResult hr1402-112 True)
-(houseVoteResult hr1402-112 True)
+(senateVoteResult hr1402-112 True)
 (presidentSigned hr1402-112)
 
 (isa hr1402-112 Bill-Idea)
 (writtenSponsored hr1402-112)
 (houseVoteResult hr1402-112 True)
-(houseVoteResult hr1402-112 True)
+(senateVoteResult hr1402-112 True)
 
 (isa hr4170-112 Bill-Idea)
 (writtenSponsored hr4170-112)
@@ -32081,13 +32079,13 @@
 (isa hr4389-112 Bill-Idea)
 (writtenSponsored hr4389-112)
 (houseVoteResult hr4389-112 True)
-(houseVoteResult hr4389-112 True)
+(senateVoteResult hr4389-112 True)
 (presidentSigned hr4389-112)
 
 (isa hr4389-112 Bill-Idea)
 (writtenSponsored hr4389-112)
 (houseVoteResult hr4389-112 True)
-(houseVoteResult hr4389-112 True)
+(senateVoteResult hr4389-112 True)
 
 (isa hr4987-112 Bill-Idea)
 (writtenSponsored hr4987-112)
@@ -32115,13 +32113,13 @@
 (isa hr1059-112 Bill-Idea)
 (writtenSponsored hr1059-112)
 (houseVoteResult hr1059-112 True)
-(houseVoteResult hr1059-112 True)
+(senateVoteResult hr1059-112 True)
 (presidentSigned hr1059-112)
 
 (isa hr1059-112 Bill-Idea)
 (writtenSponsored hr1059-112)
 (houseVoteResult hr1059-112 True)
-(houseVoteResult hr1059-112 True)
+(senateVoteResult hr1059-112 True)
 
 (isa hr944-112 Bill-Idea)
 (writtenSponsored hr944-112)
@@ -32195,13 +32193,13 @@
 (isa hr515-112 Bill-Idea)
 (writtenSponsored hr515-112)
 (houseVoteResult hr515-112 True)
-(houseVoteResult hr515-112 True)
+(senateVoteResult hr515-112 True)
 (presidentSigned hr515-112)
 
 (isa hr515-112 Bill-Idea)
 (writtenSponsored hr515-112)
 (houseVoteResult hr515-112 True)
-(houseVoteResult hr515-112 True)
+(senateVoteResult hr515-112 True)
 
 (isa hr6611-112 Bill-Idea)
 (writtenSponsored hr6611-112)
@@ -32430,13 +32428,13 @@
 (isa hr5890-112 Bill-Idea)
 (writtenSponsored hr5890-112)
 (houseVoteResult hr5890-112 True)
-(houseVoteResult hr5890-112 True)
+(senateVoteResult hr5890-112 True)
 (presidentSigned hr5890-112)
 
 (isa hr5890-112 Bill-Idea)
 (writtenSponsored hr5890-112)
 (houseVoteResult hr5890-112 True)
-(houseVoteResult hr5890-112 True)
+(senateVoteResult hr5890-112 True)
 
 (isa hr4942-112 Bill-Idea)
 (writtenSponsored hr4942-112)
@@ -32447,13 +32445,13 @@
 (isa hr2887-112 Bill-Idea)
 (writtenSponsored hr2887-112)
 (houseVoteResult hr2887-112 True)
-(houseVoteResult hr2887-112 True)
+(senateVoteResult hr2887-112 True)
 (presidentSigned hr2887-112)
 
 (isa hr2887-112 Bill-Idea)
 (writtenSponsored hr2887-112)
 (houseVoteResult hr2887-112 True)
-(houseVoteResult hr2887-112 True)
+(senateVoteResult hr2887-112 True)
 
 (isa hr3169-112 Bill-Idea)
 (writtenSponsored hr3169-112)
@@ -32592,13 +32590,13 @@
 (isa hr4310-112 Bill-Idea)
 (writtenSponsored hr4310-112)
 (houseVoteResult hr4310-112 True)
-(houseVoteResult hr4310-112 True)
+(senateVoteResult hr4310-112 True)
 (presidentSigned hr4310-112)
 
 (isa hr4310-112 Bill-Idea)
 (writtenSponsored hr4310-112)
 (houseVoteResult hr4310-112 True)
-(houseVoteResult hr4310-112 True)
+(senateVoteResult hr4310-112 True)
 
 (isa hr743-112 Bill-Idea)
 (writtenSponsored hr743-112)
@@ -32709,13 +32707,13 @@
 (isa hr3556-112 Bill-Idea)
 (writtenSponsored hr3556-112)
 (houseVoteResult hr3556-112 True)
-(houseVoteResult hr3556-112 True)
+(senateVoteResult hr3556-112 True)
 (presidentSigned hr3556-112)
 
 (isa hr3556-112 Bill-Idea)
 (writtenSponsored hr3556-112)
 (houseVoteResult hr3556-112 True)
-(houseVoteResult hr3556-112 True)
+(senateVoteResult hr3556-112 True)
 
 (isa hr2484-112 Bill-Idea)
 (writtenSponsored hr2484-112)
@@ -33034,13 +33032,13 @@
 (isa hr1801-112 Bill-Idea)
 (writtenSponsored hr1801-112)
 (houseVoteResult hr1801-112 True)
-(houseVoteResult hr1801-112 True)
+(senateVoteResult hr1801-112 True)
 (presidentSigned hr1801-112)
 
 (isa hr1801-112 Bill-Idea)
 (writtenSponsored hr1801-112)
 (houseVoteResult hr1801-112 True)
-(houseVoteResult hr1801-112 True)
+(senateVoteResult hr1801-112 True)
 
 (isa hr6218-112 Bill-Idea)
 (writtenSponsored hr6218-112)
@@ -33160,13 +33158,13 @@
 (isa hr4114-112 Bill-Idea)
 (writtenSponsored hr4114-112)
 (houseVoteResult hr4114-112 True)
-(houseVoteResult hr4114-112 True)
+(senateVoteResult hr4114-112 True)
 (presidentSigned hr4114-112)
 
 (isa hr4114-112 Bill-Idea)
 (writtenSponsored hr4114-112)
 (houseVoteResult hr4114-112 True)
-(houseVoteResult hr4114-112 True)
+(senateVoteResult hr4114-112 True)
 
 (isa hr5066-112 Bill-Idea)
 (writtenSponsored hr5066-112)
@@ -33192,13 +33190,13 @@
 (isa hr2415-112 Bill-Idea)
 (writtenSponsored hr2415-112)
 (houseVoteResult hr2415-112 True)
-(houseVoteResult hr2415-112 True)
+(senateVoteResult hr2415-112 True)
 (presidentSigned hr2415-112)
 
 (isa hr2415-112 Bill-Idea)
 (writtenSponsored hr2415-112)
 (houseVoteResult hr2415-112 True)
-(houseVoteResult hr2415-112 True)
+(senateVoteResult hr2415-112 True)
 
 (isa hr5630-112 Bill-Idea)
 (writtenSponsored hr5630-112)
@@ -33233,13 +33231,13 @@
 (isa hr1264-112 Bill-Idea)
 (writtenSponsored hr1264-112)
 (houseVoteResult hr1264-112 True)
-(houseVoteResult hr1264-112 True)
+(senateVoteResult hr1264-112 True)
 (presidentSigned hr1264-112)
 
 (isa hr1264-112 Bill-Idea)
 (writtenSponsored hr1264-112)
 (houseVoteResult hr1264-112 True)
-(houseVoteResult hr1264-112 True)
+(senateVoteResult hr1264-112 True)
 
 (isa hr4524-112 Bill-Idea)
 (writtenSponsored hr4524-112)
@@ -33368,13 +33366,13 @@
 (isa hr514-112 Bill-Idea)
 (writtenSponsored hr514-112)
 (houseVoteResult hr514-112 True)
-(houseVoteResult hr514-112 True)
+(senateVoteResult hr514-112 True)
 (presidentSigned hr514-112)
 
 (isa hr514-112 Bill-Idea)
 (writtenSponsored hr514-112)
 (houseVoteResult hr514-112 True)
-(houseVoteResult hr514-112 True)
+(senateVoteResult hr514-112 True)
 
 (isa hr4147-112 Bill-Idea)
 (writtenSponsored hr4147-112)
@@ -33448,13 +33446,13 @@
 (isa hr2076-112 Bill-Idea)
 (writtenSponsored hr2076-112)
 (houseVoteResult hr2076-112 True)
-(houseVoteResult hr2076-112 True)
+(senateVoteResult hr2076-112 True)
 (presidentSigned hr2076-112)
 
 (isa hr2076-112 Bill-Idea)
 (writtenSponsored hr2076-112)
 (houseVoteResult hr2076-112 True)
-(houseVoteResult hr2076-112 True)
+(senateVoteResult hr2076-112 True)
 
 (isa hr3998-112 Bill-Idea)
 (writtenSponsored hr3998-112)
@@ -33474,13 +33472,13 @@
 (isa hr2244-112 Bill-Idea)
 (writtenSponsored hr2244-112)
 (houseVoteResult hr2244-112 True)
-(houseVoteResult hr2244-112 True)
+(senateVoteResult hr2244-112 True)
 (presidentSigned hr2244-112)
 
 (isa hr2244-112 Bill-Idea)
 (writtenSponsored hr2244-112)
 (houseVoteResult hr2244-112 True)
-(houseVoteResult hr2244-112 True)
+(senateVoteResult hr2244-112 True)
 
 (isa hr6079-112 Bill-Idea)
 (writtenSponsored hr6079-112)
@@ -33755,13 +33753,13 @@
 (isa hr6621-112 Bill-Idea)
 (writtenSponsored hr6621-112)
 (houseVoteResult hr6621-112 True)
-(houseVoteResult hr6621-112 True)
+(senateVoteResult hr6621-112 True)
 (presidentSigned hr6621-112)
 
 (isa hr6621-112 Bill-Idea)
 (writtenSponsored hr6621-112)
 (houseVoteResult hr6621-112 True)
-(houseVoteResult hr6621-112 True)
+(senateVoteResult hr6621-112 True)
 
 (isa hr4176-112 Bill-Idea)
 (writtenSponsored hr4176-112)
