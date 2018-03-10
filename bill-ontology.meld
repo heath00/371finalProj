@@ -1,57 +1,5 @@
-;;;; -*-  Mode: LISP; Syntax: Common-Lisp; Base: 10                          -*-
-;;;; ---------------------------------------------------------------------------
-;;;; File name: hangout-ontology.meld
-;;;;    System: FIRE
-;;;;    Author: Ken Forbus
-;;;;   Created: January 27, 2009 09:30:25
-;;;;   Purpose: 371 Assignment three
-;;;; ---------------------------------------------------------------------------
-;;;;  modified: Thursday, January 23, 2014
-;;;; ---------------------------------------------------------------------------
-
-;;; Simple ontology for experimenting with the Horn-clause based query system
-;;; in FIRE
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (in-microtheory BaseKB)
 
-
-
-
-
-
-;(isa 371TestMt Microtheory)
-;(comment 371TestMt
-;  "371TestMt is a microtheory for testing ideas in EECS 371 at Northwestern University.")
-
-;(in-microtheory 371TestMt)
-
-;(genlMt 371TestMt EvanstonMt)
-
-;(isa CS-Hangout Collection)
-;(genls CS-Hangout Place)
-;;; (genls CS-Hangout ?????) ;; You need to figure out what collection this should be
-;(comment CS-Hangout
-;  "A CS-Hangout is a place where CS folks relax and hack.
-;It has a source of caffeine, a WiFi connection, and allows one to linger for hours.")
-
-;;; Any new predicates you need to define should go here.
-;;; Every new predicate needs to have an isa statement saying what it
-;;; is an instance of, an arity statement, argIsa statements declaring the
-;;; types of its arguments, a genlPreds statement connecting it into the predicate
-;;; hiearchy, and a comment describing in English its intended meaning.
-
-;(isa hasWiFiConnection Predicate)
-;(arity hasWiFiConnection 1)
-;(arg1Isa hasWiFiConnection Place)
-
-;(isa canServeJustCaffeine Predicate)
-;(arity canServeJustCaffeine 1)
-;(arg1Isa canServeJustCaffeine Place)
-
-;(isa allowsLingering Predicate)
-;(arity allowsLingering 1)
-;(arg1Isa allowsLingering Place)
 
 (isa Bill-Idea Collection)
 (genls CS-Hangout Idea)
