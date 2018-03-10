@@ -143,7 +143,7 @@ def vetoedNoOverride(driver, urls, bills_counted):
 				bill_name = bill_name[:bill_name.find(':')]
 				bill_name = bill_name.replace('.','').lower()
 			
-			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnHouse=True, passedHouse=True, beenVotedOnSenate=True, passedSenate=True,isVetoed=True) + '\n'
+			running_lisp += makeLispPhrase(bill_name.replace(' ', ''), beenVotedOnHouse=True, passedHouse=True, beenVotedOnSenate=True, passedSenate=True,isVetoed=True,hadOverturn=True) + '\n'
 			bills_counted += 1
 
 	print("vetoed bills counted")
@@ -217,7 +217,7 @@ def main():
 	print(running_lisp)
 	print('bills_counted =', bills_counted)
 
-	f = open('test.meld', 'a')
+	f = open('testHolder.meld', 'a')
 	f.write(running_lisp)
 	# print("bills_counted=", bills_counted)
 
