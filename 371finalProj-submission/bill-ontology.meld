@@ -1,0 +1,55 @@
+(in-microtheory BaseKB)
+
+
+(isa Bill-Idea Collection)
+(genls CS-Hangout Idea)
+
+(isa writtenSponsored Predicate)
+(arity writtenSponsored 1)
+(arg1Isa writtenSponsored Collection)
+
+
+(isa houseComitte Predicate)
+(arity houseComitte 1)
+(arg1Isa houseComitte Collection)
+
+
+(isa senateComitte Predicate)
+(arity senateComitte 1)
+(arg1Isa senateComitte Collection)
+
+
+(isa proposedInUSA Predicate)
+(arity proposedInUSA 1)
+(arg1Isa proposedInUSA Collection)
+
+
+(isa houseVoteResult Predicate)
+(arity houseVoteResult 2)
+(arg1Isa houseVoteResult Collection)
+(arg2Isa houseVoteResult TruthValue)
+
+
+(isa senateVoteResult Predicate)
+(arity senateVoteResult 2)
+(arg1Isa senateVoteResult Collection)
+(arg2Isa senateVoteResult TruthValue)
+
+
+(isa presidentVeto Predicate)
+(arity presidentVeto 1)
+(arg1Isa presidentVeto Collection)
+
+(isa presidentSigned Predicate)
+(arity presidentSigned 1)
+(arg1Isa presidentSigned Collection)
+
+(isa vetoOverTurn Predicate)
+(arity vetoOverTurn 2)
+(arg1Isa vetoOverTurn Collection)
+(arg2Isa vetoOverTurn TruthValue)
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; End of Code

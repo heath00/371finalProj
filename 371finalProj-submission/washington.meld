@@ -1,0 +1,33 @@
+(in-microtheory BaseKB)
+
+(isa Bill20  Bill-Idea)
+(writtenSponsored Bill20)
+
+
+(isa Bill21  Bill-Idea)
+(writtenSponsored Bill21)
+(houseVoteResult Bill21 False)
+
+(isa Bill22  Bill-Idea)
+(writtenSponsored Bill22)
+(senateVoteResult Bill22 False)
+
+(isa Bill23  Bill-Idea)
+(writtenSponsored Bill23)
+(senateVoteResult Bill23 True)
+(houseVoteResult Bill23 True)
+(presidentVeto Bill23)
+(vetoOverTurn Bill23 False)
+
+(isa Bill24  Bill-Idea)
+(writtenSponsored Bill24)
+(senateVoteResult Bill24 True)
+(houseVoteResult Bill24 True)
+(presidentVeto Bill24)
+(vetoOverTurn Bill24 True)
+
+(isa Bill25  Bill-Idea)
+(writtenSponsored Bill25)
+(senateVoteResult Bill25 True)
+(houseVoteResult Bill25 True)
+(presidentSigned Bill25)

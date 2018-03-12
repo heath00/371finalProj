@@ -1,0 +1,31 @@
+
+(in-microtheory Bill-LawRules)
+
+(isa Bill-LawRules Microtheory)
+
+
+(<== (isa ?idea Bill-ProposedLaw)
+	(and (isa ?idea Bill-Idea)
+	     (writtenSponsored ?idea)
+	       (not (or (presidentSigned ?idea)
+		   	(and (presidentVeto ?idea)
+			     (vetoOverTurn ?idea True))))))
+;
+(<== (isa ?idea KilledBill-ProposedLaw)
+	(and (isa ?idea Bill-ProposedLaw)
+	     (or (houseVoteResult ?idea False)
+		 (senateVoteResult ?idea False)
+		 (and (presidentVeto ?idea)
+		       (vetoOverTurn ?idea False)))))	
+
+(<== (isa ?idea Law)
+	  (and (isa ?idea Bill-Idea)
+	       (writtenSponsored ?idea)
+	       (houseVoteResult ?idea True)
+	       (senateVoteResult ?idea True)
+	       (or (presidentSigned ?idea)
+		   (and (presidentVeto ?idea)
+			(vetoOverTurn ?idea True)))))
+
+
+
